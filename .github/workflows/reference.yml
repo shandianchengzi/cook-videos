@@ -1,4 +1,5 @@
 name: Rebuild base reference
+# Rebuild after canonical dish-name normalization.
 on:
   push:
     paths: ['.github/workflows/reference.yml']
