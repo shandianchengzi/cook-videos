@@ -1,5 +1,8 @@
 name: Rebuild base reference
-on: {workflow_dispatch: {}}
+on:
+  push:
+    paths: ['.github/workflows/reference.yml']
+  workflow_dispatch:
 permissions: {contents: write}
 jobs:
   rebuild:
@@ -17,4 +20,3 @@ jobs:
           git add reference/howtocook-recipes.txt base/ '村驴/videos.json'
           git diff --cached --quiet || git commit -m 'data: rebuild recipe reference and base tables'
           git push
-
