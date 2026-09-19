@@ -1,5 +1,6 @@
 name: Update video data
 # The narrow push trigger bootstraps and regression-tests crawler changes.
+# Bootstrap rerun: authenticated crawl.
 on:
   push:
     paths: ['.github/workflows/update.yml']
