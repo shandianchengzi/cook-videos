@@ -31,6 +31,7 @@ jobs:
           cp site/index.html site/app.js site/style.css public/
           cp '村驴/'*.json 'public/村驴/'
           cp base/*.json public/base/
+          cp -R manual public/manual
           cp reference/source_manifest.json public/reference/
       - uses: actions/upload-pages-artifact@v3
         with: {path: public}

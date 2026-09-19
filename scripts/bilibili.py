@@ -55,10 +55,14 @@ def normalize(d):
       "created_at":d.get("ctime",0),"owner":d.get("owner",{}),"stat":d.get("stat",{}),"pages":d.get("pages",[]),
       "copyright":d.get("copyright"),"tid":d.get("tid"),"tname":d.get("tname"),"dynamic":d.get("dynamic","")}
 
+def is_allowed(v):
+    return not re.match(r"^\s*【?\s*广\s*[：:]",v.get("title", ""))
+
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument("--output",default="村驴/raw.json"); ap.add_argument("--full",action="store_true"); a=ap.parse_args()
     path=Path(a.output); old=json.loads(path.read_text("utf-8")) if path.exists() else {"videos":[]}
-    known={v["bvid"]:v for v in old.get("videos",[]) if v.get("bvid")}; api=Bili(); found={}; pn=1
+    # Scope rule is also applied to stored rows so old advertisements are deleted.
+    known={v["bvid"]:v for v in old.get("videos",[]) if v.get("bvid") and is_allowed(v)}; api=Bili(); found={}; pn=1
     while True:
         page=api.page(pn); items=page.get("list",{}).get("vlist",[])
         if not items: break
@@ -66,7 +70,9 @@ def main():
         for item in items:
             bv=item.get("bvid")
             if bv in known and not a.full: continue
-            found[bv]=normalize(api.detail(bv)); unseen+=1; time.sleep(.35)
+            detail=normalize(api.detail(bv))
+            if is_allowed(detail): found[bv]=detail
+            unseen+=1; time.sleep(.35)
         if not a.full and unseen==0: break
         if pn*50 >= int(page.get("page",{}).get("count",0)): break
         pn+=1; time.sleep(1)

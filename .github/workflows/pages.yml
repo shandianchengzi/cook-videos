@@ -18,6 +18,7 @@ jobs:
           mkdir -p 'public/村驴' public/base public/reference
           cp '村驴/'*.json 'public/村驴/'
           cp base/*.json public/base/
+          cp -R manual public/manual
           cp reference/source_manifest.json public/reference/
       - uses: actions/upload-pages-artifact@v3
         with: {path: public}
