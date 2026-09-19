@@ -16,7 +16,7 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: update-video-data
+  group: cook-videos-data
   cancel-in-progress: false
 jobs:
   update:

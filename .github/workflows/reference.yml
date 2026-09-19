@@ -4,6 +4,9 @@ on:
     paths: ['.github/workflows/reference.yml']
   workflow_dispatch:
 permissions: {contents: write, pages: write, id-token: write}
+concurrency:
+  group: cook-videos-data
+  cancel-in-progress: false
 jobs:
   rebuild:
     environment:
