@@ -1,6 +1,5 @@
 name: Update video data
 # The narrow push trigger bootstraps and regression-tests crawler changes.
-# Bootstrap rerun: authenticated crawl.
 on:
   push:
     paths: ['.github/workflows/update.yml']
@@ -34,7 +33,7 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add '村驴/raw.json' '村驴/videos.json'
+          git add '村驴/raw.json' '村驴/videos.json' base/dishes.json
           git diff --cached --quiet || git commit -m 'data: weekly incremental video update'
           git pull --rebase origin main
           git push

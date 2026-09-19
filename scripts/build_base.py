@@ -9,6 +9,7 @@ def main():
     blocks=re.split(r"^===== FILE: (.+?) =====$",text,flags=re.M)[1:]; dishes={}; ingredients={}
     for path,body in zip(blocks[0::2],blocks[1::2]):
         title=next((clean(x[2:]) for x in body.splitlines() if x.startswith("# ")),Path(path).stem)
+        title=re.sub(r"的做法$", "", title).strip()
         section=""; dish_ings=[]; tools=[]
         for line in body.splitlines():
             if line.startswith("## "): section=clean(line[3:]); continue
@@ -26,4 +27,3 @@ def main():
     Path("base/ingredients.json").write_text(json.dumps(dict(sorted(ingredients.items())),ensure_ascii=False,indent=2)+"\n","utf-8")
     print(f"dishes={len(dishes)} ingredients={len(ingredients)}")
 if __name__=="__main__": main()
-
