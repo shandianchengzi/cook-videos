@@ -1,5 +1,7 @@
 name: Update video data
 on:
+  push:
+    paths: ['.github/workflows/update.yml']
   schedule:
     - cron: '23 3 * * 1'
   workflow_dispatch:
@@ -33,4 +35,3 @@ jobs:
           git add '村驴/raw.json' '村驴/videos.json'
           git diff --cached --quiet || git commit -m 'data: weekly incremental video update'
           git push
-
