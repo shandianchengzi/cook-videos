@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "id": "howtocook",
+      "name": "HowToCook",
+      "url": "https://github.com/Anduin2017/HowToCook",
+      "license": "Unlicense",
+      "purpose": "菜名、食材、处理方式与特殊工具的基础参考",
+      "raw_output": "reference/howtocook-recipes.txt",
+      "crawler": "scripts/fetch_reference.py",
+      "converter": "scripts/build_base.py"
+    }
+  ]
+}
