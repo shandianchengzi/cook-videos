@@ -3,7 +3,7 @@
 import json, re
 from datetime import datetime, timezone
 from pathlib import Path
-VERSION="1.2.0"
+VERSION="1.3.0"
 
 def load(p,default):
     q=Path(p); return json.loads(q.read_text("utf-8")) if q.exists() else default
@@ -24,11 +24,13 @@ def infer_dish(title, known_names, ingredient_names):
     text=re.split(r"(?:超详细|保姆级|教程|配方|做法|怎么做|这样做|学会|出摊|安排上|太香了|绝了|厨房小白|精准比例)",text,1)[0].strip()
     if "的" in text and re.search(r"(?:好吃|简单|有手|流泪|馋|必吃)",text): text=text.rsplit("的",1)[-1]
     text=re.sub(r"^(?:广\s*|最近很火的|以前也不知道|在家做出饭店水准的|吃上一口真是人间值得了|夏日美食|酸甜爽口|不一样的|可以当零食的|好吃到\S+|简单到\S+|今天做|教你做|来做一道)+","",text).strip()
-    text=re.sub(r"(?:竟然)?这么好吃.*$|相当好吃.*$|太好吃了.*$|又很简单.*$|免油炸.*$|来了.*$","",text).strip()
+    text=re.sub(r"怎么能.*$|(?:竟然)?这么好吃.*$|相当好吃.*$|太好吃了.*$|又很简单.*$|免油炸.*$|来了.*$","",text).strip()
     text=re.sub(r"[^\u4e00-\u9fffA-Za-z0-9]","",text)
     tail=re.search(r"([\u4e00-\u9fff]{2,10}(?:炒饭|拌饭|捞饭|盖饭|拌面|冷面|烩面|焖面|汤|羹|粥|饼|包子|饺子|鸡架|排骨|豆腐|茄子|菜心|黄瓜|辣椒油|鸡|鸭|鱼|虾|蟹|肉))$",text)
     if tail: text=tail.group(1)
     if not (2 <= len(text) <= 16): return None, None
+    # Precision first: promotional residue means the boundary is uncertain.
+    if re.search(r"分钟|搞定|下饭|一口|不用|饭店|营养|均衡|吃着|好喝|久等|朋友|谁能|味蕾|配上|一定要|火遍|全网|灵魂|定量|嘎嘣|浓郁|丝滑|绝顶|惊艳",text): return None, None
     refs=sorted({x for x in ingredient_names if len(x)>=2 and x in text})
     food_hint=bool(refs or re.search(r"(?:鸡|鸭|鹅|鱼|虾|蟹|肉|排骨|面|饭|饼|汤|羹|粥|菜|蛋|豆腐|炒|炖|蒸|煮|烤|煎|炸|拌|烧|卤|焖)$",text))
     return (text,refs) if food_hint else (None,None)
