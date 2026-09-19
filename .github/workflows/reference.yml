@@ -1,12 +1,14 @@
 name: Rebuild base reference
-# Rebuild after canonical dish-name normalization.
 on:
   push:
     paths: ['.github/workflows/reference.yml']
   workflow_dispatch:
-permissions: {contents: write}
+permissions: {contents: write, pages: write, id-token: write}
 jobs:
   rebuild:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,3 +24,15 @@ jobs:
           git diff --cached --quiet || git commit -m 'data: rebuild recipe reference and base tables'
           git pull --rebase origin main
           git push
+      - uses: actions/configure-pages@v5
+      - name: Assemble current data site
+        run: |
+          mkdir -p public 'public/村驴' public/base public/reference
+          cp site/index.html site/app.js site/style.css public/
+          cp '村驴/'*.json 'public/村驴/'
+          cp base/*.json public/base/
+          cp reference/source_manifest.json public/reference/
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: public}
+      - id: deployment
+        uses: actions/deploy-pages@v4
