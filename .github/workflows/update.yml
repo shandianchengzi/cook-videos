@@ -1,5 +1,5 @@
 name: Update video data
-# The narrow push trigger bootstraps and regression-tests crawler changes.
+# The narrow push trigger bootstraps and regression-tests crawler changes (labeling v1.2).
 on:
   push:
     paths: ['.github/workflows/update.yml']
