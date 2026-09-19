@@ -22,7 +22,12 @@ class Bili:
         return data["data"]
     def wbi(self, params):
         if not self.key:
-            nav=self.get("https://api.bilibili.com/x/web-interface/nav")["wbi_img"]
+            # Anonymous nav commonly returns code=-101 while still providing
+            # wbi_img; do not discard that public signing material.
+            r=self.s.get("https://api.bilibili.com/x/web-interface/nav",timeout=25); r.raise_for_status()
+            payload=r.json(); nav=(payload.get("data") or {}).get("wbi_img")
+            if not nav:
+                raise RuntimeError(f"Bilibili WBI key unavailable: {payload.get('code')} {payload.get('message')}; configure BILIBILI_COOKIE")
             raw=nav["img_url"].rsplit("/",1)[-1].split(".")[0]+nav["sub_url"].rsplit("/",1)[-1].split(".")[0]
             self.key="".join(raw[i] for i in MIXIN)[:32]
         p={**params,"wts":int(time.time())}; p={k:re.sub(r"[!'()*]", "", str(v)) for k,v in p.items()}
@@ -57,4 +62,3 @@ def main():
     path.parent.mkdir(parents=True,exist_ok=True); path.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n","utf-8")
     print(f"new={len(found)} total={len(videos)}")
 if __name__ == "__main__": main()
-
