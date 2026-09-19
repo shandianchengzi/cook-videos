@@ -11,18 +11,6 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "2分钟爆炒出饭店味手撕包菜": {
-    "name": "2分钟爆炒出饭店味手撕包菜",
-    "ingredients": [
-      "包菜"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1mAGjzBEaZ"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "2斤牛肉秒变3斤": {
     "name": "2斤牛肉秒变3斤",
     "ingredients": [
@@ -35,8 +23,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "B52轰炸机的做法": {
-    "name": "B52轰炸机的做法",
+  "B52轰炸机": {
+    "name": "B52轰炸机",
     "ingredients": [
       "利口酒杯",
       "吧勺",
@@ -50,8 +38,8 @@
       "dishes/drink/B52轰炸机.md"
     ]
   },
-  "Mojito莫吉托的做法": {
-    "name": "Mojito莫吉托的做法",
+  "Mojito莫吉托": {
+    "name": "Mojito莫吉托",
     "ingredients": [
       "冰镇苏打水",
       "压汁器",
@@ -63,18 +51,6 @@
     "sources": [
       "dishes/drink/Mojito莫吉托.md"
     ]
-  },
-  "一口入魂辣椒炒肉": {
-    "name": "一口入魂辣椒炒肉",
-    "ingredients": [
-      "辣椒"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1KZ421L7Pn"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "一口惊艳青椒火腿肠炒鸡蛋": {
     "name": "一口惊艳青椒火腿肠炒鸡蛋",
@@ -117,8 +93,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "上汤娃娃菜的做法": {
-    "name": "上汤娃娃菜的做法",
+  "上汤娃娃菜": {
+    "name": "上汤娃娃菜",
     "ingredients": [
       "午餐肉火腿肠",
       "姜",
@@ -147,19 +123,6 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "不用小苏打和嫩肉粉的豉汁排骨": {
-    "name": "不用小苏打和嫩肉粉的豉汁排骨",
-    "ingredients": [
-      "小苏打",
-      "排骨"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1M74teJEm6"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "不用开火的懒人腌黄瓜嘎嘣脆": {
     "name": "不用开火的懒人腌黄瓜嘎嘣脆",
     "ingredients": [
@@ -178,18 +141,6 @@
     "special_tools": [],
     "sources": [
       "bilibili:BV1XCmyYMExC"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "不用炒糖色的糖醋排骨": {
-    "name": "不用炒糖色的糖醋排骨",
-    "ingredients": [
-      "排骨"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1Dy411z7jU"
     ],
     "auto_generated": true,
     "needs_review": true
@@ -215,18 +166,6 @@
     "special_tools": [],
     "sources": [
       "bilibili:BV1vHWDzCEK1"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "东北老式鸡蛋羹烧烤店几乎桌桌必点": {
-    "name": "东北老式鸡蛋羹烧烤店几乎桌桌必点",
-    "ingredients": [
-      "鸡蛋"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1xPDWBvEY3"
     ],
     "auto_generated": true,
     "needs_review": true
@@ -278,8 +217,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "中式馅饼的做法": {
-    "name": "中式馅饼的做法",
+  "中式馅饼": {
+    "name": "中式馅饼",
     "ingredients": [
       "大葱",
       "平底锅",
@@ -311,8 +250,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "乡村啤酒鸭的做法": {
-    "name": "乡村啤酒鸭的做法",
+  "乡村啤酒鸭": {
+    "name": "乡村啤酒鸭",
     "ingredients": [
       "32 厘米以上的炒锅一个锅太小难炒",
       "八角",
@@ -335,8 +274,8 @@
       "dishes/meat_dish/乡村啤酒鸭.md"
     ]
   },
-  "乾隆白菜的做法": {
-    "name": "乾隆白菜的做法",
+  "乾隆白菜": {
+    "name": "乾隆白菜",
     "ingredients": [
       "大白菜取黄心嫩叶，冬季黄心白菜最佳",
       "熟白芝麻可选，用于点缀",
@@ -363,46 +302,12 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "从油泼辣子开始手把手教你做口水鸡": {
-    "name": "从油泼辣子开始手把手教你做口水鸡",
-    "ingredients": [
-      "油泼辣子"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1SM4m117gM"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "从选鸡开始手把手教你做临沂炒鸡": {
     "name": "从选鸡开始手把手教你做临沂炒鸡",
     "ingredients": [],
     "special_tools": [],
     "sources": [
       "bilibili:BV1DZ421T7Ub"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "仔细讲讲怎么熬酸梅汤": {
-    "name": "仔细讲讲怎么熬酸梅汤",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1xx4y147Lz"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "仔细讲讲豆角焖面": {
-    "name": "仔细讲讲豆角焖面",
-    "ingredients": [
-      "豆角"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1QZ421T75P"
     ],
     "auto_generated": true,
     "needs_review": true
@@ -432,8 +337,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "冬瓜桑拿鸡的做法": {
-    "name": "冬瓜桑拿鸡的做法",
+  "冬瓜桑拿鸡": {
+    "name": "冬瓜桑拿鸡",
     "ingredients": [
       "冬瓜",
       "姜丝",
@@ -449,8 +354,8 @@
       "dishes/meat_dish/冬瓜桑拿鸡.md"
     ]
   },
-  "冬瓜茶的做法": {
-    "name": "冬瓜茶的做法",
+  "冬瓜茶": {
+    "name": "冬瓜茶",
     "ingredients": [
       "保鲜膜",
       "冬瓜",
@@ -463,8 +368,8 @@
       "dishes/drink/冬瓜茶.md"
     ]
   },
-  "冬瓜酿肉的做法": {
-    "name": "冬瓜酿肉的做法",
+  "冬瓜酿肉": {
+    "name": "冬瓜酿肉",
     "ingredients": [
       "冬瓜",
       "淀粉",
@@ -492,8 +397,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "冰粉的做法": {
-    "name": "冰粉的做法",
+  "冰粉": {
+    "name": "冰粉",
     "ingredients": [
       "一次性透明塑料杯可选",
       "冰粉籽",
@@ -519,8 +424,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "冷吃兔的做法": {
-    "name": "冷吃兔的做法",
+  "冷吃兔": {
+    "name": "冷吃兔",
     "ingredients": [
       "兔肉",
       "八角",
@@ -557,8 +462,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "凉拌木耳的做法": {
-    "name": "凉拌木耳的做法",
+  "凉拌木耳": {
+    "name": "凉拌木耳",
     "ingredients": [
       "小米辣",
       "干木耳 湿木耳也可，但不能太久之前泡发的，必须是新鲜的湿木耳",
@@ -575,8 +480,8 @@
       "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md"
     ]
   },
-  "凉拌油麦菜的做法": {
-    "name": "凉拌油麦菜的做法",
+  "凉拌油麦菜": {
+    "name": "凉拌油麦菜",
     "ingredients": [
       "油麦菜",
       "白糖",
@@ -593,8 +498,8 @@
       "dishes/vegetable_dish/凉拌油麦菜.md"
     ]
   },
-  "凉拌莴笋的做法": {
-    "name": "凉拌莴笋的做法",
+  "凉拌莴笋": {
+    "name": "凉拌莴笋",
     "ingredients": [
       "姜",
       "小米辣",
@@ -609,8 +514,8 @@
       "dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md"
     ]
   },
-  "凉拌豆腐的做法": {
-    "name": "凉拌豆腐的做法",
+  "凉拌豆腐": {
+    "name": "凉拌豆腐",
     "ingredients": [
       "大蒜",
       "小葱",
@@ -626,8 +531,8 @@
       "dishes/vegetable_dish/凉拌豆腐.md"
     ]
   },
-  "凉拌金针菇的做法": {
-    "name": "凉拌金针菇的做法",
+  "凉拌金针菇": {
+    "name": "凉拌金针菇",
     "ingredients": [
       "大蒜",
       "小葱",
@@ -643,8 +548,8 @@
       "dishes/vegetable_dish/凉拌金针菇.md"
     ]
   },
-  "凉拌鸡丝的做法": {
-    "name": "凉拌鸡丝的做法",
+  "凉拌鸡丝": {
+    "name": "凉拌鸡丝",
     "ingredients": [
       "凉白开水",
       "姜",
@@ -661,8 +566,8 @@
       "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md"
     ]
   },
-  "凉拌黄瓜的做法": {
-    "name": "凉拌黄瓜的做法",
+  "凉拌黄瓜": {
+    "name": "凉拌黄瓜",
     "ingredients": [
       "蒜",
       "酱油",
@@ -674,8 +579,8 @@
       "dishes/vegetable_dish/凉拌黄瓜.md"
     ]
   },
-  "凉皮的做法": {
-    "name": "凉皮的做法",
+  "凉皮": {
+    "name": "凉皮",
     "ingredients": [
       "凉皮、面筋",
       "盆、碗、盘子、蒜臼",
@@ -687,8 +592,8 @@
       "dishes/semi-finished/凉皮.md"
     ]
   },
-  "凉粉的做法": {
-    "name": "凉粉的做法",
+  "凉粉": {
+    "name": "凉粉",
     "ingredients": [
       "大蒜",
       "小米辣",
@@ -707,20 +612,8 @@
       "dishes/staple/凉粉/凉粉.md"
     ]
   },
-  "几块钱在家做出饭店味的红烧冬瓜": {
-    "name": "几块钱在家做出饭店味的红烧冬瓜",
-    "ingredients": [
-      "冬瓜"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV15yMCzDE2h"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "利提巧卡的做法": {
-    "name": "利提巧卡的做法",
+  "利提巧卡": {
+    "name": "利提巧卡",
     "ingredients": [
       "全麦面粉Atta",
       "印度黑盐Kala Namak— 可用普通盐替代",
@@ -747,8 +640,8 @@
       "dishes/staple/利提巧卡.md"
     ]
   },
-  "勾芡香菇汤的做法": {
-    "name": "勾芡香菇汤的做法",
+  "勾芡香菇汤": {
+    "name": "勾芡香菇汤",
     "ingredients": [
       "生粉",
       "食用油",
@@ -762,8 +655,8 @@
       "dishes/soup/勾芡香菇汤/勾芡香菇汤.md"
     ]
   },
-  "包菜炒鸡蛋粉丝的做法": {
-    "name": "包菜炒鸡蛋粉丝的做法",
+  "包菜炒鸡蛋粉丝": {
+    "name": "包菜炒鸡蛋粉丝",
     "ingredients": [
       "包菜",
       "盐、生抽、老抽、蚝油",
@@ -798,8 +691,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "半成品意面的做法": {
-    "name": "半成品意面的做法",
+  "半成品意面": {
+    "name": "半成品意面",
     "ingredients": [
       "1 袋",
       "50 ml 清水",
@@ -810,8 +703,8 @@
       "dishes/semi-finished/半成品意面.md"
     ]
   },
-  "南派红烧肉的做法": {
-    "name": "南派红烧肉的做法",
+  "南派红烧肉": {
+    "name": "南派红烧肉",
     "ingredients": [
       "主料",
       "工具",
@@ -833,8 +726,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "卤菜的做法": {
-    "name": "卤菜的做法",
+  "卤菜": {
+    "name": "卤菜",
     "ingredients": [
       "南腐乳",
       "卤料包超市即可购买",
@@ -859,8 +752,8 @@
       "dishes/meat_dish/卤菜/卤菜.md"
     ]
   },
-  "印度土豆花菜的做法": {
-    "name": "印度土豆花菜的做法",
+  "印度土豆花菜": {
+    "name": "印度土豆花菜",
     "ingredients": [
       "印度综合香料粉Garam Masala",
       "土豆",
@@ -884,8 +777,8 @@
       "dishes/vegetable_dish/印度土豆花菜.md"
     ]
   },
-  "印度奶茶的做法": {
-    "name": "印度奶茶的做法",
+  "印度奶茶": {
+    "name": "印度奶茶",
     "ingredients": [
       "丁香",
       "全脂牛奶",
@@ -902,8 +795,8 @@
       "dishes/drink/印度奶茶.md"
     ]
   },
-  "印度烤饼的做法": {
-    "name": "印度烤饼的做法",
+  "印度烤饼": {
+    "name": "印度烤饼",
     "ingredients": [
       "中筋面粉或高筋面粉",
       "大蒜蒜蓉烤饼版本，可选",
@@ -923,8 +816,8 @@
       "dishes/staple/印度烤饼.md"
     ]
   },
-  "印度焖饭的做法": {
-    "name": "印度焖饭的做法",
+  "印度焖饭": {
+    "name": "印度焖饭",
     "ingredients": [
       "全香料",
       "印度综合香料粉Garam Masala",
@@ -953,8 +846,8 @@
       "dishes/staple/印度焖饭.md"
     ]
   },
-  "印度葫芦丸子的做法": {
-    "name": "印度葫芦丸子的做法",
+  "印度葫芦丸子": {
+    "name": "印度葫芦丸子",
     "ingredients": [
       "印度综合香料粉Garam Masala",
       "大蒜",
@@ -1013,8 +906,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "反沙芋头的做法": {
-    "name": "反沙芋头的做法",
+  "反沙芋头": {
+    "name": "反沙芋头",
     "ingredients": [
       "水",
       "白砂糖或冰糖",
@@ -1048,8 +941,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "口水鸡的做法": {
-    "name": "口水鸡的做法",
+  "口水鸡": {
+    "name": "口水鸡",
     "ingredients": [
       "半只鸡",
       "味精",
@@ -1066,8 +959,8 @@
       "dishes/meat_dish/口水鸡/口水鸡.md"
     ]
   },
-  "可乐桶的做法": {
-    "name": "可乐桶的做法",
+  "可乐桶": {
+    "name": "可乐桶",
     "ingredients": [
       "冰块",
       "可口可乐",
@@ -1080,8 +973,8 @@
       "dishes/drink/可乐桶.md"
     ]
   },
-  "可乐炒饭的做法": {
-    "name": "可乐炒饭的做法",
+  "可乐炒饭": {
+    "name": "可乐炒饭",
     "ingredients": [
       "可乐含糖或无糖均可",
       "油",
@@ -1100,8 +993,8 @@
       "dishes/staple/可乐炒饭.md"
     ]
   },
-  "可乐鸡翅的做法": {
-    "name": "可乐鸡翅的做法",
+  "可乐鸡翅": {
+    "name": "可乐鸡翅",
     "ingredients": [
       "可乐",
       "小葱",
@@ -1117,32 +1010,8 @@
       "dishes/meat_dish/可乐鸡翅.md"
     ]
   },
-  "可乐鸡翅精准比例": {
-    "name": "可乐鸡翅精准比例",
-    "ingredients": [
-      "可乐"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1B7VXzZETw"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "可商用可家用椒麻酸辣无骨鸡爪": {
-    "name": "可商用可家用椒麻酸辣无骨鸡爪",
-    "ingredients": [
-      "鸡爪"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1mn4y1X7nj"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "台式卤肉饭的做法": {
-    "name": "台式卤肉饭的做法",
+  "台式卤肉饭": {
+    "name": "台式卤肉饭",
     "ingredients": [
       "五香粉可选",
       "八角",
@@ -1199,8 +1068,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "吐司果酱的做法": {
-    "name": "吐司果酱的做法",
+  "吐司果酱": {
+    "name": "吐司果酱",
     "ingredients": [
       "新鲜吐司",
       "果酱",
@@ -1211,8 +1080,8 @@
       "dishes/breakfast/吐司果酱.md"
     ]
   },
-  "咕噜肉的做法": {
-    "name": "咕噜肉的做法",
+  "咕噜肉": {
+    "name": "咕噜肉",
     "ingredients": [
       "梅头猪肉",
       "生抽",
@@ -1230,8 +1099,8 @@
       "dishes/meat_dish/咕噜肉.md"
     ]
   },
-  "咖啡椰奶冻的做法": {
-    "name": "咖啡椰奶冻的做法",
+  "咖啡椰奶冻": {
+    "name": "咖啡椰奶冻",
     "ingredients": [
       "10g 吉利丁gelatin",
       "125ml 淡奶油",
@@ -1246,8 +1115,8 @@
       "dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md"
     ]
   },
-  "咖喱炒蟹的做法": {
-    "name": "咖喱炒蟹的做法",
+  "咖喱炒蟹": {
+    "name": "咖喱炒蟹",
     "ingredients": [
       "咖喱块推介乐惠蟹黄咖喱",
       "大蒜",
@@ -1262,8 +1131,8 @@
       "dishes/aquatic/咖喱炒蟹.md"
     ]
   },
-  "咖喱肥牛的做法": {
-    "name": "咖喱肥牛的做法",
+  "咖喱肥牛": {
+    "name": "咖喱肥牛",
     "ingredients": [
       "咖喱块",
       "土豆",
@@ -1278,8 +1147,8 @@
       "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md"
     ]
   },
-  "咸肉菜饭的做法": {
-    "name": "咸肉菜饭的做法",
+  "咸肉菜饭": {
+    "name": "咸肉菜饭",
     "ingredients": [
       "冬笋可选",
       "咸肉淡咸肉",
@@ -1295,8 +1164,8 @@
       "dishes/staple/咸肉菜饭.md"
     ]
   },
-  "响油鳝丝的做法": {
-    "name": "响油鳝丝的做法",
+  "响油鳝丝": {
+    "name": "响油鳝丝",
     "ingredients": [
       "大蒜",
       "姜末",
@@ -1318,8 +1187,8 @@
       "dishes/aquatic/响油鳝丝.md"
     ]
   },
-  "商芝肉的做法": {
-    "name": "商芝肉的做法",
+  "商芝肉": {
+    "name": "商芝肉",
     "ingredients": [
       "八角",
       "味精",
@@ -1342,8 +1211,8 @@
       "dishes/meat_dish/商芝肉.md"
     ]
   },
-  "啤酒鸭的做法": {
-    "name": "啤酒鸭的做法",
+  "啤酒鸭": {
+    "name": "啤酒鸭",
     "ingredients": [
       "丁香",
       "八角",
@@ -1380,16 +1249,6 @@
   },
   "回锅肉": {
     "name": "回锅肉",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV14Qt8eZEdh"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "回锅肉的做法": {
-    "name": "回锅肉的做法",
     "ingredients": [
       "五花肉",
       "味精",
@@ -1416,8 +1275,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "土豆炖排骨的做法": {
-    "name": "土豆炖排骨的做法",
+  "土豆炖排骨": {
+    "name": "土豆炖排骨",
     "ingredients": [
       "八角",
       "土豆",
@@ -1488,18 +1347,6 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "在家做出酒楼味道的梅菜扣肉": {
-    "name": "在家做出酒楼味道的梅菜扣肉",
-    "ingredients": [
-      "梅菜"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1AfFJzyEDM"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "在家做出饭店水准的酱烧鱼": {
     "name": "在家做出饭店水准的酱烧鱼",
     "ingredients": [],
@@ -1510,8 +1357,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "地三鲜的做法": {
-    "name": "地三鲜的做法",
+  "地三鲜": {
+    "name": "地三鲜",
     "ingredients": [
       "土豆",
       "姜",
@@ -1539,8 +1386,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "基础牛奶面包的做法": {
-    "name": "基础牛奶面包的做法",
+  "基础牛奶面包": {
+    "name": "基础牛奶面包",
     "ingredients": [
       "布",
       "干酵母",
@@ -1558,18 +1405,6 @@
     "sources": [
       "dishes/staple/基础牛奶面包/基础牛奶面包.md"
     ]
-  },
-  "夏日大战豆橛子豆角焖面精准比例": {
-    "name": "夏日大战豆橛子豆角焖面精准比例",
-    "ingredients": [
-      "豆角"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1T53W63EBc"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "夏日必备捞汁小海鲜": {
     "name": "夏日必备捞汁小海鲜",
@@ -1661,8 +1496,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "太阳蛋的做法": {
-    "name": "太阳蛋的做法",
+  "太阳蛋": {
+    "name": "太阳蛋",
     "ingredients": [
       "分可控火候微波炉或不可控火候微波炉定义和分辨方式请见附加内容",
       "油",
@@ -1675,8 +1510,8 @@
       "dishes/breakfast/太阳蛋.md"
     ]
   },
-  "奇异果菠菜特调的做法": {
-    "name": "奇异果菠菜特调的做法",
+  "奇异果菠菜特调": {
+    "name": "奇异果菠菜特调",
     "ingredients": [
       "原料",
       "奇异果",
@@ -1692,8 +1527,8 @@
       "dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md"
     ]
   },
-  "奥利奥冰淇淋的做法": {
-    "name": "奥利奥冰淇淋的做法",
+  "奥利奥冰淇淋": {
+    "name": "奥利奥冰淇淋",
     "ingredients": [
       "一个容量在",
       "冰淇淋模具可选",
@@ -1707,8 +1542,8 @@
       "dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md"
     ]
   },
-  "奥尔良风味烤鸡腿的做法": {
-    "name": "奥尔良风味烤鸡腿的做法",
+  "奥尔良风味烤鸡腿": {
+    "name": "奥尔良风味烤鸡腿",
     "ingredients": [
       "手枪腿鸡腿",
       "新奥尔良烤翅调料推荐品牌 McCormick 味好美",
@@ -1722,8 +1557,8 @@
       "dishes/meat_dish/奥尔良风味烤鸡腿/奥尔良风味烤鸡腿.md"
     ]
   },
-  "奶油蘑菇汤的做法": {
-    "name": "奶油蘑菇汤的做法",
+  "奶油蘑菇汤": {
+    "name": "奶油蘑菇汤",
     "ingredients": [
       "洋葱",
       "淡奶油",
@@ -1740,8 +1575,8 @@
       "dishes/soup/奶油蘑菇汤.md"
     ]
   },
-  "奶茶的做法": {
-    "name": "奶茶的做法",
+  "奶茶": {
+    "name": "奶茶",
     "ingredients": [
       "全脂奶粉或淡奶",
       "杯子，例如带刻度的杯子，陶瓷杯或保温杯",
@@ -1752,8 +1587,8 @@
       "dishes/drink/奶茶.md"
     ]
   },
-  "奶酪培根通心粉的做法": {
-    "name": "奶酪培根通心粉的做法",
+  "奶酪培根通心粉": {
+    "name": "奶酪培根通心粉",
     "ingredients": [
       "大蒜",
       "奶酪",
@@ -1769,8 +1604,8 @@
       "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md"
     ]
   },
-  "姜炒鸡的做法": {
-    "name": "姜炒鸡的做法",
+  "姜炒鸡": {
+    "name": "姜炒鸡",
     "ingredients": [
       "啤酒",
       "大蒜",
@@ -1788,8 +1623,8 @@
       "dishes/meat_dish/姜炒鸡/姜炒鸡.md"
     ]
   },
-  "姜葱捞鸡的做法": {
-    "name": "姜葱捞鸡的做法",
+  "姜葱捞鸡": {
+    "name": "姜葱捞鸡",
     "ingredients": [
       "盐焗鸡粉",
       "葱，姜",
@@ -1812,20 +1647,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "媲美饭店的啤酒鸭": {
-    "name": "媲美饭店的啤酒鸭",
-    "ingredients": [
-      "啤酒"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1EShc62EYx"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "孜然牛肉的做法": {
-    "name": "孜然牛肉的做法",
+  "孜然牛肉": {
+    "name": "孜然牛肉",
     "ingredients": [
       "孜然颗粒>粉",
       "小米椒",
@@ -1843,8 +1666,8 @@
       "dishes/meat_dish/孜然牛肉.md"
     ]
   },
-  "完美水煮蛋的做法": {
-    "name": "完美水煮蛋的做法",
+  "完美水煮蛋": {
+    "name": "完美水煮蛋",
     "ingredients": [
       "100°C 沸水锅直径≥",
       "30°C 温水锅直径≥",
@@ -1857,8 +1680,8 @@
       "dishes/breakfast/完美水煮蛋.md"
     ]
   },
-  "宫保鸡丁的做法": {
-    "name": "宫保鸡丁的做法",
+  "宫保鸡丁": {
+    "name": "宫保鸡丁",
     "ingredients": [
       "大葱",
       "干辣椒或者二荆条",
@@ -1895,8 +1718,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "家常日本豆腐的做法": {
-    "name": "家常日本豆腐的做法",
+  "家常日本豆腐": {
+    "name": "家常日本豆腐",
     "ingredients": [
       "日本豆腐玉子豆腐",
       "油煎豆腐用，能没过一大半就行",
@@ -1963,8 +1786,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "小炒肉的做法": {
-    "name": "小炒肉的做法",
+  "小炒肉": {
+    "name": "小炒肉",
     "ingredients": [
       "五花肉",
       "小米椒",
@@ -1982,8 +1805,8 @@
       "dishes/meat_dish/小炒肉.md"
     ]
   },
-  "小炒藕丁的做法": {
-    "name": "小炒藕丁的做法",
+  "小炒藕丁": {
+    "name": "小炒藕丁",
     "ingredients": [
       "大葱",
       "小米辣",
@@ -1998,8 +1821,8 @@
       "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md"
     ]
   },
-  "小炒鸡肝的做法": {
-    "name": "小炒鸡肝的做法",
+  "小炒鸡肝": {
+    "name": "小炒鸡肝",
     "ingredients": [
       "大葱、姜、料酒",
       "烧烤料或孜然粉可选",
@@ -2014,8 +1837,8 @@
       "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
     ]
   },
-  "小炒黄牛肉的做法": {
-    "name": "小炒黄牛肉的做法",
+  "小炒黄牛肉": {
+    "name": "小炒黄牛肉",
     "ingredients": [
       "小米椒",
       "牛里脊",
@@ -2028,8 +1851,8 @@
       "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md"
     ]
   },
-  "小米粥的做法": {
-    "name": "小米粥的做法",
+  "小米粥": {
+    "name": "小米粥",
     "ingredients": [
       "小米",
       "水山泉水最佳"
@@ -2039,8 +1862,8 @@
       "dishes/soup/小米粥.md"
     ]
   },
-  "小米辣炒肉的做法": {
-    "name": "小米辣炒肉的做法",
+  "小米辣炒肉": {
+    "name": "小米辣炒肉",
     "ingredients": [
       "五花肉/瘦肉",
       "大蒜",
@@ -2059,8 +1882,8 @@
       "dishes/meat_dish/小米辣炒肉.md"
     ]
   },
-  "小酥肉的做法": {
-    "name": "小酥肉的做法",
+  "小酥肉": {
+    "name": "小酥肉",
     "ingredients": [
       "十三香",
       "去皮猪肉根据喜好选择肥瘦",
@@ -2097,8 +1920,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "小龙虾的做法": {
-    "name": "小龙虾的做法",
+  "小龙虾": {
+    "name": "小龙虾",
     "ingredients": [
       "八角",
       "啤酒",
@@ -2120,8 +1943,8 @@
       "dishes/aquatic/小龙虾/小龙虾.md"
     ]
   },
-  "尖叫牛蛙的做法": {
-    "name": "尖叫牛蛙的做法",
+  "尖叫牛蛙": {
+    "name": "尖叫牛蛙",
     "ingredients": [
       "啤酒推荐雪花",
       "大蒜",
@@ -2144,8 +1967,8 @@
       "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md"
     ]
   },
-  "尖椒炒牛肉的做法": {
-    "name": "尖椒炒牛肉的做法",
+  "尖椒炒牛肉": {
+    "name": "尖椒炒牛肉",
     "ingredients": [
       "尖椒",
       "牛肉",
@@ -2159,8 +1982,8 @@
       "dishes/meat_dish/尖椒炒牛肉.md"
     ]
   },
-  "山药南瓜炖鸡汤的做法": {
-    "name": "山药南瓜炖鸡汤的做法",
+  "山药南瓜炖鸡汤": {
+    "name": "山药南瓜炖鸡汤",
     "ingredients": [
       "姜",
       "小南瓜",
@@ -2176,8 +1999,8 @@
       "dishes/soup/山药南瓜炖鸡汤.md"
     ]
   },
-  "山西过油肉的做法": {
-    "name": "山西过油肉的做法",
+  "山西过油肉": {
+    "name": "山西过油肉",
     "ingredients": [
       "料酒",
       "木耳",
@@ -2224,8 +2047,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "巴基斯坦牛肉咖喱的做法": {
-    "name": "巴基斯坦牛肉咖喱的做法",
+  "巴基斯坦牛肉咖喱": {
+    "name": "巴基斯坦牛肉咖喱",
     "ingredients": [
       "Masala 粉品牌可选 Shan",
       "原味酸奶",
@@ -2242,8 +2065,8 @@
       "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md"
     ]
   },
-  "带把肘子的做法": {
-    "name": "带把肘子的做法",
+  "带把肘子": {
+    "name": "带把肘子",
     "ingredients": [
       "八角",
       "姜末",
@@ -2265,8 +2088,8 @@
       "dishes/meat_dish/带把肘子.md"
     ]
   },
-  "干煎阿根廷红虾的做法": {
-    "name": "干煎阿根廷红虾的做法",
+  "干煎阿根廷红虾": {
+    "name": "干煎阿根廷红虾",
     "ingredients": [
       "大蒜",
       "柠檬",
@@ -2284,8 +2107,8 @@
       "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md"
     ]
   },
-  "干煸仔鸡的做法": {
-    "name": "干煸仔鸡的做法",
+  "干煸仔鸡": {
+    "name": "干煸仔鸡",
     "ingredients": [
       "土豆",
       "大蒜",
@@ -2330,8 +2153,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "干锅花菜的做法": {
-    "name": "干锅花菜的做法",
+  "干锅花菜": {
+    "name": "干锅花菜",
     "ingredients": [
       "五花肉",
       "油",
@@ -2353,18 +2176,6 @@
     "special_tools": [],
     "sources": [
       "bilibili:BV1grrwBtEBy"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "年夜大菜茴香小酥肉": {
-    "name": "年夜大菜茴香小酥肉",
-    "ingredients": [
-      "茴香"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1JPifBHE8g"
     ],
     "auto_generated": true,
     "needs_review": true
@@ -2416,8 +2227,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "广式萝卜牛腩的做法": {
-    "name": "广式萝卜牛腩的做法",
+  "广式萝卜牛腩": {
+    "name": "广式萝卜牛腩",
     "ingredients": [
       "八角",
       "冰糖",
@@ -2478,8 +2289,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "微波炉腊肠煲仔饭的做法": {
-    "name": "微波炉腊肠煲仔饭的做法",
+  "微波炉腊肠煲仔饭": {
+    "name": "微波炉腊肠煲仔饭",
     "ingredients": [
       "1 个小碗",
       "2 个大碗推荐微波炉专用碗",
@@ -2500,8 +2311,8 @@
       "dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md"
     ]
   },
-  "微波炉荷包蛋的做法": {
-    "name": "微波炉荷包蛋的做法",
+  "微波炉荷包蛋": {
+    "name": "微波炉荷包蛋",
     "ingredients": [
       "盐",
       "芝麻油",
@@ -2512,8 +2323,8 @@
       "dishes/breakfast/微波炉荷包蛋.md"
     ]
   },
-  "微波炉蒸蛋的做法": {
-    "name": "微波炉蒸蛋的做法",
+  "微波炉蒸蛋": {
+    "name": "微波炉蒸蛋",
     "ingredients": [
       "保鲜膜或微波炉专用盖",
       "温水或高汤",
@@ -2528,8 +2339,8 @@
       "dishes/breakfast/微波炉蒸蛋.md"
     ]
   },
-  "微波炉蛋糕的做法": {
-    "name": "微波炉蛋糕的做法",
+  "微波炉蛋糕": {
+    "name": "微波炉蛋糕",
     "ingredients": [
       "微波炉",
       "泡打粉不加吃着像饼",
@@ -2543,8 +2354,8 @@
       "dishes/breakfast/微波炉蛋糕.md"
     ]
   },
-  "微波炉鸡蛋羹的做法": {
-    "name": "微波炉鸡蛋羹的做法",
+  "微波炉鸡蛋羹": {
+    "name": "微波炉鸡蛋羹",
     "ingredients": [
       "水",
       "鸡蛋"
@@ -2554,8 +2365,8 @@
       "dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md"
     ]
   },
-  "微波葱姜黑鳕鱼的做法": {
-    "name": "微波葱姜黑鳕鱼的做法",
+  "微波葱姜黑鳕鱼": {
+    "name": "微波葱姜黑鳕鱼",
     "ingredients": [
       "姜",
       "密封袋",
@@ -2571,8 +2382,8 @@
       "dishes/aquatic/微波葱姜黑鳕鱼.md"
     ]
   },
-  "徽派红烧肉的做法": {
-    "name": "徽派红烧肉的做法",
+  "徽派红烧肉": {
+    "name": "徽派红烧肉",
     "ingredients": [
       "五花肉",
       "五香粉",
@@ -2616,8 +2427,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "意式烤鸡的做法": {
-    "name": "意式烤鸡的做法",
+  "意式烤鸡": {
+    "name": "意式烤鸡",
     "ingredients": [
       "柠檬汁",
       "橄榄油",
@@ -2632,8 +2443,8 @@
       "dishes/meat_dish/意式烤鸡.md"
     ]
   },
-  "意式肉酱面的做法": {
-    "name": "意式肉酱面的做法",
+  "意式肉酱面": {
+    "name": "意式肉酱面",
     "ingredients": [
       "意大利面",
       "意大利面酱",
@@ -2645,8 +2456,8 @@
       "dishes/staple/意式肉酱面/意式肉酱面.md"
     ]
   },
-  "意式香肠北非蛋的做法": {
-    "name": "意式香肠北非蛋的做法",
+  "意式香肠北非蛋": {
+    "name": "意式香肠北非蛋",
     "ingredients": [
       "宽口平底锅带锅盖",
       "帕马森干酪可选",
@@ -2698,8 +2509,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "懒人蛋挞的做法": {
-    "name": "懒人蛋挞的做法",
+  "懒人蛋挞": {
+    "name": "懒人蛋挞",
     "ingredients": [
       "网购蛋挞液",
       "隔热手套",
@@ -2710,32 +2521,8 @@
       "dishes/semi-finished/懒人蛋挞/懒人蛋挞.md"
     ]
   },
-  "我做出了红烧牛肉面味的蚂蚁上树": {
-    "name": "我做出了红烧牛肉面味的蚂蚁上树",
-    "ingredients": [
-      "牛肉"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1n1421r7s2"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "我家用了十几年的酱牛肉": {
-    "name": "我家用了十几年的酱牛肉",
-    "ingredients": [
-      "牛肉"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1xE4m1d73b"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "戚风蛋糕的做法": {
-    "name": "戚风蛋糕的做法",
+  "戚风蛋糕": {
+    "name": "戚风蛋糕",
     "ingredients": [
       "低筋面粉推荐惠宜",
       "刮刀用于翻拌蛋糕糊",
@@ -2753,8 +2540,8 @@
       "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
     ]
   },
-  "手工水饺的做法": {
-    "name": "手工水饺的做法",
+  "手工水饺": {
+    "name": "手工水饺",
     "ingredients": [
       "冷水",
       "擀面杖",
@@ -2767,8 +2554,8 @@
       "dishes/staple/手工水饺.md"
     ]
   },
-  "手抓饼的做法": {
-    "name": "手抓饼的做法",
+  "手抓饼": {
+    "name": "手抓饼",
     "ingredients": [
       "冷水",
       "开水",
@@ -2785,8 +2572,8 @@
       "dishes/breakfast/手抓饼.md"
     ]
   },
-  "手撕包菜的做法": {
-    "name": "手撕包菜的做法",
+  "手撕包菜": {
+    "name": "手撕包菜",
     "ingredients": [
       "五花肉",
       "包菜",
@@ -2828,8 +2615,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "扬州炒饭的做法": {
-    "name": "扬州炒饭的做法",
+  "扬州炒饭": {
+    "name": "扬州炒饭",
     "ingredients": [
       "冷冻去皮基围虾",
       "冷饭干一点的为佳",
@@ -2859,8 +2646,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "披萨饼皮的做法": {
-    "name": "披萨饼皮的做法",
+  "披萨饼皮": {
+    "name": "披萨饼皮",
     "ingredients": [
       "中筋面粉",
       "安琪干酵母粉",
@@ -2890,8 +2677,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "拔丝土豆的做法": {
-    "name": "拔丝土豆的做法",
+  "拔丝土豆": {
+    "name": "拔丝土豆",
     "ingredients": [
       "土豆",
       "水",
@@ -2905,8 +2692,8 @@
       "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md"
     ]
   },
-  "排骨山药玉米汤的做法": {
-    "name": "排骨山药玉米汤的做法",
+  "排骨山药玉米汤": {
+    "name": "排骨山药玉米汤",
     "ingredients": [
       "小葱",
       "山药推荐铁棍山药",
@@ -2923,8 +2710,8 @@
       "dishes/soup/排骨山药玉米汤/排骨山药玉米汤.md"
     ]
   },
-  "排骨苦瓜汤的做法": {
-    "name": "排骨苦瓜汤的做法",
+  "排骨苦瓜汤": {
+    "name": "排骨苦瓜汤",
     "ingredients": [
       "排骨",
       "电压力锅可以极大简化烹饪过程和时间",
@@ -2937,8 +2724,8 @@
       "dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md"
     ]
   },
-  "提拉米苏的做法": {
-    "name": "提拉米苏的做法",
+  "提拉米苏": {
+    "name": "提拉米苏",
     "ingredients": [
       "一个装成品的容器这里用的是玻璃乐扣",
       "可可粉",
@@ -2972,16 +2759,6 @@
   },
   "新疆大盘鸡": {
     "name": "新疆大盘鸡",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1kn4y1X72E"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "新疆大盘鸡的做法": {
-    "name": "新疆大盘鸡的做法",
     "ingredients": [
       "油，盐，生抽，蚝油，料酒可拿啤酒，白糖",
       "花椒，香叶，香果，干线椒，大蒜，大葱",
@@ -2992,8 +2769,8 @@
       "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md"
     ]
   },
-  "无厨师机蜂蜜面包的做法": {
-    "name": "无厨师机蜂蜜面包的做法",
+  "无厨师机蜂蜜面包": {
+    "name": "无厨师机蜂蜜面包",
     "ingredients": [
       "水",
       "牛奶",
@@ -3010,18 +2787,6 @@
     "sources": [
       "dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md"
     ]
-  },
-  "无敌下饭神菜辣椒炒肉": {
-    "name": "无敌下饭神菜辣椒炒肉",
-    "ingredients": [
-      "辣椒"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV123eFzyEZi"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "无水炖牛肉": {
     "name": "无水炖牛肉",
@@ -3061,8 +2826,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "无骨鸡爪的做法": {
-    "name": "无骨鸡爪的做法",
+  "无骨鸡爪": {
+    "name": "无骨鸡爪",
     "ingredients": [
       "大葱",
       "大蒜",
@@ -3085,8 +2850,8 @@
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md"
     ]
   },
-  "日式咖喱饭的做法": {
-    "name": "日式咖喱饭的做法",
+  "日式咖喱饭": {
+    "name": "日式咖喱饭",
     "ingredients": [
       "咖喱块推荐品牌好侍",
       "土豆",
@@ -3103,8 +2868,8 @@
       "dishes/staple/日式咖喱饭/日式咖喱饭.md"
     ]
   },
-  "日式肥牛丼饭的做法": {
-    "name": "日式肥牛丼饭的做法",
+  "日式肥牛丼饭": {
+    "name": "日式肥牛丼饭",
     "ingredients": [
       "出汁使用柴鱼干和昆布熬制的汤汁，可以用于提鲜",
       "味淋一种常用日式调料，可在各大电商平台购买，也可用料酒代替",
@@ -3119,8 +2884,8 @@
       "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
     ]
   },
-  "昂刺鱼豆腐汤的做法": {
-    "name": "昂刺鱼豆腐汤的做法",
+  "昂刺鱼豆腐汤": {
+    "name": "昂刺鱼豆腐汤",
     "ingredients": [
       "姜",
       "料酒",
@@ -3148,8 +2913,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "朱雀汤的做法": {
-    "name": "朱雀汤的做法",
+  "朱雀汤": {
+    "name": "朱雀汤",
     "ingredients": [
       "水",
       "白糖",
@@ -3161,8 +2926,8 @@
       "dishes/soup/朱雀汤/朱雀汤.md"
     ]
   },
-  "杀猪菜的做法": {
-    "name": "杀猪菜的做法",
+  "杀猪菜": {
+    "name": "杀猪菜",
     "ingredients": [
       "八角",
       "排骨",
@@ -3181,8 +2946,8 @@
       "dishes/meat_dish/杀猪菜.md"
     ]
   },
-  "杨枝甘露的做法": {
-    "name": "杨枝甘露的做法",
+  "杨枝甘露": {
+    "name": "杨枝甘露",
     "ingredients": [
       "冰块",
       "杯子",
@@ -3195,8 +2960,8 @@
       "dishes/drink/杨枝甘露.md"
     ]
   },
-  "松仁玉米的做法": {
-    "name": "松仁玉米的做法",
+  "松仁玉米": {
+    "name": "松仁玉米",
     "ingredients": [
       "水",
       "淀粉",
@@ -3222,8 +2987,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "枝竹羊腩煲的做法": {
-    "name": "枝竹羊腩煲的做法",
+  "枝竹羊腩煲": {
+    "name": "枝竹羊腩煲",
     "ingredients": [
       "八角",
       "其余配菜例如马蹄、土豆或者萝卜可依据个人喜好自行添加",
@@ -3272,8 +3037,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "柠檬水的做法": {
-    "name": "柠檬水的做法",
+  "柠檬水": {
+    "name": "柠檬水",
     "ingredients": [
       "冰可选",
       "原料",
@@ -3287,8 +3052,8 @@
       "dishes/drink/柠檬水/柠檬水.md"
     ]
   },
-  "柱候牛腩的做法": {
-    "name": "柱候牛腩的做法",
+  "柱候牛腩": {
+    "name": "柱候牛腩",
     "ingredients": [
       "炖煮锅，高压锅可选，但极度推荐！",
       "牛腩首选坑腩，带筋的部位",
@@ -3299,8 +3064,8 @@
       "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
     ]
   },
-  "桂圆红枣粥的做法": {
-    "name": "桂圆红枣粥的做法",
+  "桂圆红枣粥": {
+    "name": "桂圆红枣粥",
     "ingredients": [
       "桂圆",
       "糯米或大米",
@@ -3311,8 +3076,8 @@
       "dishes/breakfast/桂圆红枣粥.md"
     ]
   },
-  "桂林十八酿的做法": {
-    "name": "桂林十八酿的做法",
+  "桂林十八酿": {
+    "name": "桂林十八酿",
     "ingredients": [
       "原则",
       "柚子、笋、冬瓜、香芋、蒜、番茄、豆芽、蛋、香菌",
@@ -3327,8 +3092,8 @@
       "dishes/meat_dish/桂林十八酿/桂林十八酿.md"
     ]
   },
-  "梅菜扣肉的做法": {
-    "name": "梅菜扣肉的做法",
+  "梅菜扣肉": {
+    "name": "梅菜扣肉",
     "ingredients": [
       "五花肉",
       "五香粉",
@@ -3347,8 +3112,8 @@
       "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md"
     ]
   },
-  "椒盐排条的做法": {
-    "name": "椒盐排条的做法",
+  "椒盐排条": {
+    "name": "椒盐排条",
     "ingredients": [
       "吉士粉增色增香，没有可以不放",
       "大排",
@@ -3366,8 +3131,8 @@
       "dishes/meat_dish/椒盐排条.md"
     ]
   },
-  "椒盐玉米的做法": {
-    "name": "椒盐玉米的做法",
+  "椒盐玉米": {
+    "name": "椒盐玉米",
     "ingredients": [
       "两个塑料簸箕",
       "椒盐",
@@ -3382,8 +3147,8 @@
       "dishes/vegetable_dish/椒盐玉米/椒盐玉米.md"
     ]
   },
-  "榄菜肉末四季豆的做法": {
-    "name": "榄菜肉末四季豆的做法",
+  "榄菜肉末四季豆": {
+    "name": "榄菜肉末四季豆",
     "ingredients": [
       "五花肉",
       "四季豆",
@@ -3409,8 +3174,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "水油焖蔬菜的做法": {
-    "name": "水油焖蔬菜的做法",
+  "水油焖蔬菜": {
+    "name": "水油焖蔬菜",
     "ingredients": [
       "叶菜类蔬菜",
       "盐",
@@ -3434,8 +3199,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "水煮牛肉的做法": {
-    "name": "水煮牛肉的做法",
+  "水煮牛肉": {
+    "name": "水煮牛肉",
     "ingredients": [
       "姜",
       "干辣椒粉",
@@ -3455,8 +3220,8 @@
       "dishes/meat_dish/水煮牛肉/水煮牛肉.md"
     ]
   },
-  "水煮玉米的做法": {
-    "name": "水煮玉米的做法",
+  "水煮玉米": {
+    "name": "水煮玉米",
     "ingredients": [
       "放得下玉米的锅",
       "新鲜玉米",
@@ -3469,8 +3234,8 @@
       "dishes/breakfast/水煮玉米.md"
     ]
   },
-  "水煮肉片的做法": {
-    "name": "水煮肉片的做法",
+  "水煮肉片": {
+    "name": "水煮肉片",
     "ingredients": [
       "凤尾",
       "土豆淀粉",
@@ -3502,16 +3267,6 @@
   },
   "水煮鱼": {
     "name": "水煮鱼",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1u4CKB3ESj"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "水煮鱼的做法": {
-    "name": "水煮鱼的做法",
     "ingredients": [
       "厨房秤可选",
       "大不锈钢碗",
@@ -3531,8 +3286,8 @@
       "dishes/aquatic/水煮鱼.md"
     ]
   },
-  "汤面的做法": {
-    "name": "汤面的做法",
+  "汤面": {
+    "name": "汤面",
     "ingredients": [
       "牛羊鱼虾等肉类生熟皆可",
       "生菜菠菜油麦菜",
@@ -3547,8 +3302,8 @@
       "dishes/staple/汤面.md"
     ]
   },
-  "河南蒸面条的做法": {
-    "name": "河南蒸面条的做法",
+  "河南蒸面条": {
+    "name": "河南蒸面条",
     "ingredients": [
       "五花肉",
       "挂面 推荐圆的",
@@ -3578,8 +3333,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "油泼辣子的做法": {
-    "name": "油泼辣子的做法",
+  "油泼辣子": {
+    "name": "油泼辣子",
     "ingredients": [
       "五香粉 可选",
       "八角",
@@ -3605,8 +3360,8 @@
       "dishes/condiment/油泼辣子/油泼辣子.md"
     ]
   },
-  "油焖大虾的做法": {
-    "name": "油焖大虾的做法",
+  "油焖大虾": {
+    "name": "油焖大虾",
     "ingredients": [
       "料酒、盐、冰糖、植物油",
       "葱、姜",
@@ -3617,8 +3372,8 @@
       "dishes/aquatic/油焖大虾/油焖大虾.md"
     ]
   },
-  "油酥的做法": {
-    "name": "油酥的做法",
+  "油酥": {
+    "name": "油酥",
     "ingredients": [
       "油",
       "盐",
@@ -3629,8 +3384,8 @@
       "dishes/condiment/油酥.md"
     ]
   },
-  "油醋爆蛋的做法": {
-    "name": "油醋爆蛋的做法",
+  "油醋爆蛋": {
+    "name": "油醋爆蛋",
     "ingredients": [
       "小米辣",
       "小葱",
@@ -3647,8 +3402,8 @@
       "dishes/vegetable_dish/油醋爆蛋.md"
     ]
   },
-  "泰国手标红茶的做法": {
-    "name": "泰国手标红茶的做法",
+  "泰国手标红茶": {
+    "name": "泰国手标红茶",
     "ingredients": [
       "克称",
       "带刻度容器",
@@ -3664,8 +3419,8 @@
       "dishes/drink/泰国手标红茶/泰国手标红茶.md"
     ]
   },
-  "洋葱炒猪肉的做法": {
-    "name": "洋葱炒猪肉的做法",
+  "洋葱炒猪肉": {
+    "name": "洋葱炒猪肉",
     "ingredients": [
       "洋葱",
       "猪肉片",
@@ -3677,8 +3432,8 @@
       "dishes/meat_dish/洋葱炒猪肉.md"
     ]
   },
-  "洋葱炒鸡蛋的做法": {
-    "name": "洋葱炒鸡蛋的做法",
+  "洋葱炒鸡蛋": {
+    "name": "洋葱炒鸡蛋",
     "ingredients": [
       "料酒",
       "洋葱",
@@ -3704,8 +3459,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "海边落日的做法": {
-    "name": "海边落日的做法",
+  "海边落日": {
+    "name": "海边落日",
     "ingredients": [
       "NFC 橙汁",
       "冰块",
@@ -3739,8 +3494,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "淄博烧烤的做法": {
-    "name": "淄博烧烤的做法",
+  "淄博烧烤": {
+    "name": "淄博烧烤",
     "ingredients": [
       "大葱",
       "小薄饼市售现成",
@@ -3757,8 +3512,8 @@
       "dishes/meat_dish/淄博烧烤/淄博烧烤.md"
     ]
   },
-  "清炒花菜的做法": {
-    "name": "清炒花菜的做法",
+  "清炒花菜": {
+    "name": "清炒花菜",
     "ingredients": [
       "大蒜",
       "盐",
@@ -3769,8 +3524,8 @@
       "dishes/vegetable_dish/清炒花菜.md"
     ]
   },
-  "清蒸南瓜的做法": {
-    "name": "清蒸南瓜的做法",
+  "清蒸南瓜": {
+    "name": "清蒸南瓜",
     "ingredients": [
       "南瓜",
       "蒸锅"
@@ -3780,8 +3535,8 @@
       "dishes/vegetable_dish/清蒸南瓜.md"
     ]
   },
-  "清蒸生蚝的做法": {
-    "name": "清蒸生蚝的做法",
+  "清蒸生蚝": {
+    "name": "清蒸生蚝",
     "ingredients": [
       "刷子",
       "姜",
@@ -3795,8 +3550,8 @@
       "dishes/aquatic/清蒸生蚝.md"
     ]
   },
-  "清蒸鲈鱼的做法": {
-    "name": "清蒸鲈鱼的做法",
+  "清蒸鲈鱼": {
+    "name": "清蒸鲈鱼",
     "ingredients": [
       "姜",
       "料酒",
@@ -3811,8 +3566,8 @@
       "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md"
     ]
   },
-  "清蒸鳜鱼的做法": {
-    "name": "清蒸鳜鱼的做法",
+  "清蒸鳜鱼": {
+    "name": "清蒸鳜鱼",
     "ingredients": [
       "大葱",
       "姜片",
@@ -3827,8 +3582,8 @@
       "dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md"
     ]
   },
-  "温泉蛋的做法": {
-    "name": "温泉蛋的做法",
+  "温泉蛋": {
+    "name": "温泉蛋",
     "ingredients": [
       "厨房用温度计尽量选用带有夹子的温度计",
       "昆布酱油一种日式的少盐酱油，用于为温泉蛋调味",
@@ -3854,8 +3609,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "湖南家常红烧肉的做法": {
-    "name": "湖南家常红烧肉的做法",
+  "湖南家常红烧肉": {
+    "name": "湖南家常红烧肉",
     "ingredients": [
       "八角",
       "冰糖",
@@ -3877,8 +3632,8 @@
       "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md"
     ]
   },
-  "湘祁米夫鸭的做法": {
-    "name": "湘祁米夫鸭的做法",
+  "湘祁米夫鸭": {
+    "name": "湘祁米夫鸭",
     "ingredients": [
       "五花肉可加可不加",
       "姜蒜",
@@ -3897,8 +3652,8 @@
       "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md"
     ]
   },
-  "溏心蛋的做法": {
-    "name": "溏心蛋的做法",
+  "溏心蛋": {
+    "name": "溏心蛋",
     "ingredients": [
       "水",
       "电锅",
@@ -3910,8 +3665,8 @@
       "dishes/breakfast/溏心蛋.md"
     ]
   },
-  "滕州菜煎饼的做法": {
-    "name": "滕州菜煎饼的做法",
+  "滕州菜煎饼": {
+    "name": "滕州菜煎饼",
     "ingredients": [
       "味精可选",
       "孜然粉",
@@ -3934,8 +3689,8 @@
       "dishes/staple/滕州菜煎饼.md"
     ]
   },
-  "澳门湿版免治牛肉饭的做法": {
-    "name": "澳门湿版免治牛肉饭的做法",
+  "澳门湿版免治牛肉饭": {
+    "name": "澳门湿版免治牛肉饭",
     "ingredients": [
       "小葱可选",
       "料酒",
@@ -3968,8 +3723,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "火腿饭团的做法": {
-    "name": "火腿饭团的做法",
+  "火腿饭团": {
+    "name": "火腿饭团",
     "ingredients": [
       "冷冻玉米粒可选",
       "冷冻青豆可选",
@@ -3996,8 +3751,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "炒凉粉的做法": {
-    "name": "炒凉粉的做法",
+  "炒凉粉": {
+    "name": "炒凉粉",
     "ingredients": [
       "中粗辣椒面",
       "凉粉",
@@ -4016,8 +3771,8 @@
       "dishes/staple/炒凉粉/炒凉粉.md"
     ]
   },
-  "炒年糕的做法": {
-    "name": "炒年糕的做法",
+  "炒年糕": {
+    "name": "炒年糕",
     "ingredients": [
       "可选",
       "年糕/白粿 形状不限",
@@ -4029,8 +3784,8 @@
       "dishes/staple/炒年糕.md"
     ]
   },
-  "炒意大利面的做法": {
-    "name": "炒意大利面的做法",
+  "炒意大利面": {
+    "name": "炒意大利面",
     "ingredients": [
       "意大利面",
       "番茄酱 / 黑胡椒酱选其一即可",
@@ -4042,8 +3797,8 @@
       "dishes/staple/炒意大利面/炒意大利面.md"
     ]
   },
-  "炒方便面的做法": {
-    "name": "炒方便面的做法",
+  "炒方便面": {
+    "name": "炒方便面",
     "ingredients": [
       "方便面",
       "火腿肠可选",
@@ -4054,8 +3809,8 @@
       "dishes/staple/炒方便面/炒方便面.md"
     ]
   },
-  "炒河粉的做法": {
-    "name": "炒河粉的做法",
+  "炒河粉": {
+    "name": "炒河粉",
     "ingredients": [
       "其他调味料",
       "炒料",
@@ -4068,8 +3823,8 @@
       "dishes/staple/炒河粉.md"
     ]
   },
-  "炒滑蛋的做法": {
-    "name": "炒滑蛋的做法",
+  "炒滑蛋": {
+    "name": "炒滑蛋",
     "ingredients": [
       "牛奶",
       "鸡蛋最好是无菌蛋"
@@ -4079,8 +3834,8 @@
       "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md"
     ]
   },
-  "炒茄子的做法": {
-    "name": "炒茄子的做法",
+  "炒茄子": {
+    "name": "炒茄子",
     "ingredients": [
       "八角可选",
       "糖可选",
@@ -4097,8 +3852,8 @@
       "dishes/vegetable_dish/炒茄子.md"
     ]
   },
-  "炒青菜的做法": {
-    "name": "炒青菜的做法",
+  "炒青菜": {
+    "name": "炒青菜",
     "ingredients": [
       "青菜"
     ],
@@ -4107,8 +3862,8 @@
       "dishes/vegetable_dish/炒青菜.md"
     ]
   },
-  "炒馍的做法": {
-    "name": "炒馍的做法",
+  "炒馍": {
+    "name": "炒馍",
     "ingredients": [
       "五香粉",
       "孜然粉",
@@ -4123,8 +3878,8 @@
       "dishes/staple/炒馍.md"
     ]
   },
-  "炸串酱料的做法": {
-    "name": "炸串酱料的做法",
+  "炸串酱料": {
+    "name": "炸串酱料",
     "ingredients": [
       "五香粉",
       "十三香",
@@ -4140,8 +3895,8 @@
       "dishes/condiment/炸串酱料.md"
     ]
   },
-  "炸薯条的做法": {
-    "name": "炸薯条的做法",
+  "炸薯条": {
+    "name": "炸薯条",
     "ingredients": [
       "1 个空气炸锅喜欢脆的切忌小牌子",
       "1 袋半成品薯条推荐品牌麦肯"
@@ -4165,16 +3920,6 @@
   },
   "炸酱面": {
     "name": "炸酱面",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1WVViz4Er7"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "炸酱面的做法": {
-    "name": "炸酱面的做法",
     "ingredients": [
       "甜面酱",
       "肉丁/肉末",
@@ -4188,8 +3933,8 @@
       "dishes/staple/炸酱面.md"
     ]
   },
-  "炸鲜奶的做法": {
-    "name": "炸鲜奶的做法",
+  "炸鲜奶": {
+    "name": "炸鲜奶",
     "ingredients": [
       "低筋面粉或普通面粉",
       "厨房纸",
@@ -4205,8 +3950,8 @@
       "dishes/dessert/炸鲜奶/炸鲜奶.md"
     ]
   },
-  "烙饼的做法": {
-    "name": "烙饼的做法",
+  "烙饼": {
+    "name": "烙饼",
     "ingredients": [
       "油",
       "电饼铛",
@@ -4217,8 +3962,8 @@
       "dishes/staple/烙饼/烙饼.md"
     ]
   },
-  "烤箱版巴斯克芝士蛋糕的做法": {
-    "name": "烤箱版巴斯克芝士蛋糕的做法",
+  "烤箱版巴斯克芝士蛋糕": {
+    "name": "烤箱版巴斯克芝士蛋糕",
     "ingredients": [
       "低筋面粉",
       "奶油奶酪",
@@ -4233,8 +3978,8 @@
       "dishes/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.md"
     ]
   },
-  "烤茄子的做法": {
-    "name": "烤茄子的做法",
+  "烤茄子": {
+    "name": "烤茄子",
     "ingredients": [
       "孜然",
       "茄子",
@@ -4249,8 +3994,8 @@
       "dishes/vegetable_dish/烤茄子/烤茄子.md"
     ]
   },
-  "烤蛋挞的做法": {
-    "name": "烤蛋挞的做法",
+  "烤蛋挞": {
+    "name": "烤蛋挞",
     "ingredients": [
       "克数称",
       "搅拌器 包含且不限于筷子 打蛋器等工具",
@@ -4267,8 +4012,8 @@
       "dishes/dessert/烤蛋挞/烤蛋挞.md"
     ]
   },
-  "烤鱼的做法": {
-    "name": "烤鱼的做法",
+  "烤鱼": {
+    "name": "烤鱼",
     "ingredients": [
       "八角",
       "千张",
@@ -4297,8 +4042,8 @@
       "dishes/aquatic/混合烤鱼/烤鱼.md"
     ]
   },
-  "烤鸡翅的做法": {
-    "name": "烤鸡翅的做法",
+  "烤鸡翅": {
+    "name": "烤鸡翅",
     "ingredients": [
       "料酒",
       "烤箱",
@@ -4336,8 +4081,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "热干面的做法": {
-    "name": "热干面的做法",
+  "热干面": {
+    "name": "热干面",
     "ingredients": [
       "小葱",
       "热干面特有的碱水面",
@@ -4358,8 +4103,8 @@
       "dishes/staple/热干面.md"
     ]
   },
-  "煎烤羊排的做法": {
-    "name": "煎烤羊排的做法",
+  "煎烤羊排": {
+    "name": "煎烤羊排",
     "ingredients": [
       "八角",
       "孜然粉",
@@ -4383,8 +4128,8 @@
       "dishes/meat_dish/煎烤羊排/煎烤羊排.md"
     ]
   },
-  "煎饺的做法": {
-    "name": "煎饺的做法",
+  "煎饺": {
+    "name": "煎饺",
     "ingredients": [
       "芝麻、葱花切段或其他配料",
       "饺子速冻水饺"
@@ -4394,8 +4139,8 @@
       "dishes/breakfast/煎饺.md"
     ]
   },
-  "照烧鸡腿饭的做法": {
-    "name": "照烧鸡腿饭的做法",
+  "照烧鸡腿饭": {
+    "name": "照烧鸡腿饭",
     "ingredients": [
       "大蒜",
       "料酒",
@@ -4418,8 +4163,8 @@
       "dishes/staple/照烧鸡腿饭.md"
     ]
   },
-  "煮泡面加蛋的做法": {
-    "name": "煮泡面加蛋的做法",
+  "煮泡面加蛋": {
+    "name": "煮泡面加蛋",
     "ingredients": [
       "水",
       "泡面",
@@ -4430,8 +4175,8 @@
       "dishes/staple/煮泡面加蛋.md"
     ]
   },
-  "煮锅蒸米饭的做法": {
-    "name": "煮锅蒸米饭的做法",
+  "煮锅蒸米饭": {
+    "name": "煮锅蒸米饭",
     "ingredients": [
       "北方大米",
       "厚底煮锅+严丝合缝的锅盖制作过程中不会有大量蒸汽泄漏",
@@ -4452,8 +4197,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "燕麦鸡蛋饼的做法": {
-    "name": "燕麦鸡蛋饼的做法",
+  "燕麦鸡蛋饼": {
+    "name": "燕麦鸡蛋饼",
     "ingredients": [
       "可根据口味选择增加",
       "燕麦",
@@ -4477,8 +4222,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "牛奶燕麦的做法": {
-    "name": "牛奶燕麦的做法",
+  "牛奶燕麦": {
+    "name": "牛奶燕麦",
     "ingredients": [
       "燕麦",
       "牛奶巴氏奶口感更好",
@@ -4489,8 +4234,8 @@
       "dishes/breakfast/牛奶燕麦.md"
     ]
   },
-  "牛排的做法": {
-    "name": "牛排的做法",
+  "牛排": {
+    "name": "牛排",
     "ingredients": [
       "厨房纸可选",
       "大蒜",
@@ -4509,8 +4254,8 @@
       "dishes/meat_dish/牛排/牛排.md"
     ]
   },
-  "牛油果拉西的做法": {
-    "name": "牛油果拉西的做法",
+  "牛油果拉西": {
+    "name": "牛油果拉西",
     "ingredients": [
       "冷牛奶",
       "原味酸奶 Plain yogurt",
@@ -4525,8 +4270,8 @@
       "dishes/drink/牛油果拉西.md"
     ]
   },
-  "牛油火锅底料的做法": {
-    "name": "牛油火锅底料的做法",
+  "牛油火锅底料": {
+    "name": "牛油火锅底料",
     "ingredients": [
       "丁香",
       "八角",
@@ -4579,8 +4324,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "猪油拌饭的做法": {
-    "name": "猪油拌饭的做法",
+  "猪油拌饭": {
+    "name": "猪油拌饭",
     "ingredients": [
       "猪油",
       "猪油渣可选",
@@ -4595,8 +4340,8 @@
       "dishes/staple/猪油拌饭.md"
     ]
   },
-  "猪皮冻的做法": {
-    "name": "猪皮冻的做法",
+  "猪皮冻": {
+    "name": "猪皮冻",
     "ingredients": [
       "大料、花椒、白芷、桂皮、丁香、香叶、小茴香",
       "猪皮"
@@ -4606,8 +4351,8 @@
       "dishes/meat_dish/猪皮冻/猪皮冻.md"
     ]
   },
-  "猪肉烩酸菜的做法": {
-    "name": "猪肉烩酸菜的做法",
+  "猪肉烩酸菜": {
+    "name": "猪肉烩酸菜",
     "ingredients": [
       "东北酸菜",
       "五香粉",
@@ -4625,8 +4370,8 @@
       "dishes/meat_dish/猪肉烩酸菜.md"
     ]
   },
-  "玉米排骨汤的做法": {
-    "name": "玉米排骨汤的做法",
+  "玉米排骨汤": {
+    "name": "玉米排骨汤",
     "ingredients": [
       "大葱",
       "排骨",
@@ -4645,8 +4390,8 @@
       "dishes/soup/玉米排骨汤/玉米排骨汤.md"
     ]
   },
-  "玛格丽特饼干的做法": {
-    "name": "玛格丽特饼干的做法",
+  "玛格丽特饼干": {
+    "name": "玛格丽特饼干",
     "ingredients": [
       "低筋面粉",
       "烤箱",
@@ -4671,8 +4416,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "甜辣烤全翅的做法": {
-    "name": "甜辣烤全翅的做法",
+  "甜辣烤全翅": {
+    "name": "甜辣烤全翅",
     "ingredients": [
       "保鲜膜",
       "水",
@@ -4694,8 +4439,8 @@
       "dishes/meat_dish/甜辣烤全翅.md"
     ]
   },
-  "生汆丸子汤的做法": {
-    "name": "生汆丸子汤的做法",
+  "生汆丸子汤": {
+    "name": "生汆丸子汤",
     "ingredients": [
       "一个鸡蛋的鸡蛋清",
       "前腿肉",
@@ -4742,8 +4487,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "田螺酿的做法": {
-    "name": "田螺酿的做法",
+  "田螺酿": {
+    "name": "田螺酿",
     "ingredients": [
       "大田螺乒乓球大小，约",
       "大蒜可选，4-5 瓣",
@@ -4767,8 +4512,8 @@
       "dishes/meat_dish/田螺酿/田螺酿.md"
     ]
   },
-  "电饭煲三文鱼炊饭的做法": {
-    "name": "电饭煲三文鱼炊饭的做法",
+  "电饭煲三文鱼炊饭": {
+    "name": "电饭煲三文鱼炊饭",
     "ingredients": [
       "三文鱼",
       "冬菇可选",
@@ -4783,8 +4528,8 @@
       "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md"
     ]
   },
-  "电饭煲蒸米饭的做法": {
-    "name": "电饭煲蒸米饭的做法",
+  "电饭煲蒸米饭": {
+    "name": "电饭煲蒸米饭",
     "ingredients": [
       "水",
       "江南米或北方大米",
@@ -4807,8 +4552,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "番茄牛肉蛋花汤的做法": {
-    "name": "番茄牛肉蛋花汤的做法",
+  "番茄牛肉蛋花汤": {
+    "name": "番茄牛肉蛋花汤",
     "ingredients": [
       "牛肉",
       "番茄",
@@ -4822,8 +4567,8 @@
       "dishes/soup/番茄牛肉蛋花汤.md"
     ]
   },
-  "番茄红酱的做法": {
-    "name": "番茄红酱的做法",
+  "番茄红酱": {
+    "name": "番茄红酱",
     "ingredients": [
       "干罗勒或百里香可选",
       "橄榄油",
@@ -4843,8 +4588,8 @@
       "dishes/meat_dish/番茄红酱.md"
     ]
   },
-  "瘦肉土豆片的做法": {
-    "name": "瘦肉土豆片的做法",
+  "瘦肉土豆片": {
+    "name": "瘦肉土豆片",
     "ingredients": [
       "土豆",
       "生抽",
@@ -4859,8 +4604,8 @@
       "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md"
     ]
   },
-  "白灼菜心的做法": {
-    "name": "白灼菜心的做法",
+  "白灼菜心": {
+    "name": "白灼菜心",
     "ingredients": [
       "大蒜、小米辣",
       "新鲜菜心",
@@ -4872,8 +4617,8 @@
       "dishes/vegetable_dish/白灼菜心/白灼菜心.md"
     ]
   },
-  "白灼虾的做法": {
-    "name": "白灼虾的做法",
+  "白灼虾": {
+    "name": "白灼虾",
     "ingredients": [
       "姜",
       "料酒",
@@ -4892,8 +4637,8 @@
       "dishes/aquatic/白灼虾/白灼虾.md"
     ]
   },
-  "白菜猪肉炖粉条的做法": {
-    "name": "白菜猪肉炖粉条的做法",
+  "白菜猪肉炖粉条": {
+    "name": "白菜猪肉炖粉条",
     "ingredients": [
       "五花肉",
       "十三香",
@@ -4909,8 +4654,8 @@
       "dishes/meat_dish/白菜猪肉炖粉条.md"
     ]
   },
-  "百香果橙子特调的做法": {
-    "name": "百香果橙子特调的做法",
+  "百香果橙子特调": {
+    "name": "百香果橙子特调",
     "ingredients": [
       "冰块",
       "原料",
@@ -4928,8 +4673,8 @@
       "dishes/drink/百香果橙子特调/百香果橙子特调.md"
     ]
   },
-  "皮蛋瘦肉粥的做法": {
-    "name": "皮蛋瘦肉粥的做法",
+  "皮蛋瘦肉粥": {
+    "name": "皮蛋瘦肉粥",
     "ingredients": [
       "大米",
       "小碗若干",
@@ -4952,8 +4697,8 @@
       "dishes/soup/皮蛋瘦肉粥.md"
     ]
   },
-  "皮蛋豆腐的做法": {
-    "name": "皮蛋豆腐的做法",
+  "皮蛋豆腐": {
+    "name": "皮蛋豆腐",
     "ingredients": [
       "内酯豆腐",
       "生抽",
@@ -5003,8 +4748,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "砂糖椰子冰沙的做法": {
-    "name": "砂糖椰子冰沙的做法",
+  "砂糖椰子冰沙": {
+    "name": "砂糖椰子冰沙",
     "ingredients": [
       "咖啡调糖黄色粗粒",
       "瓶装椰汁瓶口较大为佳"
@@ -5014,8 +4759,8 @@
       "dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md"
     ]
   },
-  "示例菜的做法": {
-    "name": "示例菜的做法",
+  "示例菜": {
+    "name": "示例菜",
     "ingredients": [
       "咖喱块推荐品牌好侍",
       "土豆",
@@ -5026,8 +4771,8 @@
       "dishes/template/示例菜/示例菜.md"
     ]
   },
-  "空气炸锅照烧鸡饭的做法": {
-    "name": "空气炸锅照烧鸡饭的做法",
+  "空气炸锅照烧鸡饭": {
+    "name": "空气炸锅照烧鸡饭",
     "ingredients": [
       "丽滋饼干Ritz crackers",
       "糖白沙糖",
@@ -5038,8 +4783,8 @@
       "dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md"
     ]
   },
-  "空气炸锅羊排的做法": {
-    "name": "空气炸锅羊排的做法",
+  "空气炸锅羊排": {
+    "name": "空气炸锅羊排",
     "ingredients": [
       "可选",
       "必备"
@@ -5049,8 +4794,8 @@
       "dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md"
     ]
   },
-  "空气炸锅脆皮现腌炸鸡的做法": {
-    "name": "空气炸锅脆皮现腌炸鸡的做法",
+  "空气炸锅脆皮现腌炸鸡": {
+    "name": "空气炸锅脆皮现腌炸鸡",
     "ingredients": [
       "paprika红甜椒粉",
       "中筋面粉",
@@ -5071,8 +4816,8 @@
       "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
     ]
   },
-  "空气炸锅面包片的做法": {
-    "name": "空气炸锅面包片的做法",
+  "空气炸锅面包片": {
+    "name": "空气炸锅面包片",
     "ingredients": [
       "空气炸锅",
       "面包片"
@@ -5082,8 +4827,8 @@
       "dishes/breakfast/空气炸锅面包片.md"
     ]
   },
-  "空气炸锅鸡翅中的做法": {
-    "name": "空气炸锅鸡翅中的做法",
+  "空气炸锅鸡翅中": {
+    "name": "空气炸锅鸡翅中",
     "ingredients": [
       "可选",
       "必备"
@@ -5093,8 +4838,8 @@
       "dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md"
     ]
   },
-  "简易版炒糖色的做法": {
-    "name": "简易版炒糖色的做法",
+  "简易版炒糖色": {
+    "name": "简易版炒糖色",
     "ingredients": [
       "冰糖",
       "白砂糖",
@@ -5106,8 +4851,8 @@
       "dishes/condiment/简易版炒糖色.md"
     ]
   },
-  "简易红烧肉的做法": {
-    "name": "简易红烧肉的做法",
+  "简易红烧肉": {
+    "name": "简易红烧肉",
     "ingredients": [
       "主料",
       "注",
@@ -5118,8 +4863,8 @@
       "dishes/meat_dish/红烧肉/简易红烧肉.md"
     ]
   },
-  "米粥的做法": {
-    "name": "米粥的做法",
+  "米粥": {
+    "name": "米粥",
     "ingredients": [
       "植物油可选",
       "水",
@@ -5142,8 +4887,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "粉蒸肉的做法": {
-    "name": "粉蒸肉的做法",
+  "粉蒸肉": {
+    "name": "粉蒸肉",
     "ingredients": [
       "五花肉",
       "土豆",
@@ -5162,8 +4907,8 @@
       "dishes/meat_dish/粉蒸肉.md"
     ]
   },
-  "糖拌西红柿的做法": {
-    "name": "糖拌西红柿的做法",
+  "糖拌西红柿": {
+    "name": "糖拌西红柿",
     "ingredients": [
       "冰箱",
       "白砂糖",
@@ -5174,8 +4919,8 @@
       "dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md"
     ]
   },
-  "糖醋排骨的做法": {
-    "name": "糖醋排骨的做法",
+  "糖醋排骨": {
+    "name": "糖醋排骨",
     "ingredients": [
       "五香粉",
       "姜片",
@@ -5195,8 +4940,8 @@
       "dishes/meat_dish/糖醋排骨/糖醋排骨.md"
     ]
   },
-  "糖醋汁的做法": {
-    "name": "糖醋汁的做法",
+  "糖醋汁": {
+    "name": "糖醋汁",
     "ingredients": [
       "料酒",
       "清水",
@@ -5209,8 +4954,8 @@
       "dishes/condiment/糖醋汁.md"
     ]
   },
-  "糖醋里脊的做法": {
-    "name": "糖醋里脊的做法",
+  "糖醋里脊": {
+    "name": "糖醋里脊",
     "ingredients": [
       "料酒",
       "淀粉",
@@ -5229,8 +4974,8 @@
       "dishes/meat_dish/糖醋里脊.md"
     ]
   },
-  "糖醋鲤鱼的做法": {
-    "name": "糖醋鲤鱼的做法",
+  "糖醋鲤鱼": {
+    "name": "糖醋鲤鱼",
     "ingredients": [
       "姜",
       "料酒",
@@ -5264,8 +5009,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "素炒豆角的做法": {
-    "name": "素炒豆角的做法",
+  "素炒豆角": {
+    "name": "素炒豆角",
     "ingredients": [
       "小米椒",
       "生抽",
@@ -5293,8 +5038,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "紫菜蛋花汤的做法": {
-    "name": "紫菜蛋花汤的做法",
+  "紫菜蛋花汤": {
+    "name": "紫菜蛋花汤",
     "ingredients": [
       "水",
       "油",
@@ -5309,8 +5054,8 @@
       "dishes/soup/紫菜蛋花汤.md"
     ]
   },
-  "红柚蛋糕的做法": {
-    "name": "红柚蛋糕的做法",
+  "红柚蛋糕": {
+    "name": "红柚蛋糕",
     "ingredients": [
       "水",
       "油",
@@ -5326,8 +5071,8 @@
       "dishes/dessert/红柚蛋糕/红柚蛋糕.md"
     ]
   },
-  "红烧冬瓜的做法": {
-    "name": "红烧冬瓜的做法",
+  "红烧冬瓜": {
+    "name": "红烧冬瓜",
     "ingredients": [
       "冬瓜",
       "姜末",
@@ -5369,8 +5114,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "红烧猪蹄的做法": {
-    "name": "红烧猪蹄的做法",
+  "红烧猪蹄": {
+    "name": "红烧猪蹄",
     "ingredients": [
       "八角",
       "冰糖",
@@ -5400,8 +5145,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "红烧茄子的做法": {
-    "name": "红烧茄子的做法",
+  "红烧茄子": {
+    "name": "红烧茄子",
     "ingredients": [
       "大葱",
       "大蒜",
@@ -5420,22 +5165,8 @@
       "dishes/vegetable_dish/红烧茄子.md"
     ]
   },
-  "红烧鱼头的做法": {
-    "name": "红烧鱼头的做法",
-    "ingredients": [
-      "八角、干辣椒",
-      "大葱、姜、大蒜、香菜、美人椒",
-      "油、盐、鸡精、生抽、老抽、陈醋、黑胡椒粉、料酒",
-      "注",
-      "鱼头一个"
-    ],
-    "special_tools": [],
-    "sources": [
-      "dishes/aquatic/红烧鱼头.md"
-    ]
-  },
-  "红烧鱼的做法": {
-    "name": "红烧鱼的做法",
+  "红烧鱼": {
+    "name": "红烧鱼",
     "ingredients": [
       "味精鸡精",
       "姜、蒜瓣、干辣椒",
@@ -5451,8 +5182,22 @@
       "dishes/aquatic/红烧鱼.md"
     ]
   },
-  "红烧鲤鱼的做法": {
-    "name": "红烧鲤鱼的做法",
+  "红烧鱼头": {
+    "name": "红烧鱼头",
+    "ingredients": [
+      "八角、干辣椒",
+      "大葱、姜、大蒜、香菜、美人椒",
+      "油、盐、鸡精、生抽、老抽、陈醋、黑胡椒粉、料酒",
+      "注",
+      "鱼头一个"
+    ],
+    "special_tools": [],
+    "sources": [
+      "dishes/aquatic/红烧鱼头.md"
+    ]
+  },
+  "红烧鲤鱼": {
+    "name": "红烧鲤鱼",
     "ingredients": [
       "大葱、姜、大蒜、干辣椒",
       "油、盐、生抽、老抽、陈醋、蚝油、料酒、白糖",
@@ -5463,8 +5208,8 @@
       "dishes/aquatic/红烧鲤鱼.md"
     ]
   },
-  "红烧鸡翅的做法": {
-    "name": "红烧鸡翅的做法",
+  "红烧鸡翅": {
+    "name": "红烧鸡翅",
     "ingredients": [
       "八角",
       "冰糖",
@@ -5498,8 +5243,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "红芸豆拌饭的做法": {
-    "name": "红芸豆拌饭的做法",
+  "红芸豆拌饭": {
+    "name": "红芸豆拌饭",
     "ingredients": [
       "印度综合香料粉Garam Masala",
       "大蒜",
@@ -5536,33 +5281,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "绝味皮蛋瘦肉粥鲜美无比不苦不腥": {
-    "name": "绝味皮蛋瘦肉粥鲜美无比不苦不腥",
-    "ingredients": [
-      "瘦肉",
-      "皮蛋"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1LQBUB4E71"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "绝味酸辣土豆丝": {
-    "name": "绝味酸辣土豆丝",
-    "ingredients": [
-      "土豆"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1AHk1YyEH5"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "罗宋汤的做法": {
-    "name": "罗宋汤的做法",
+  "罗宋汤": {
+    "name": "罗宋汤",
     "ingredients": [
       "牛肉可选牛腩肉或牛尾肉",
       "牛肉高汤可用〇汤宝代替",
@@ -5574,8 +5294,8 @@
       "dishes/soup/罗宋汤.md"
     ]
   },
-  "羊排焖面的做法": {
-    "name": "羊排焖面的做法",
+  "羊排焖面": {
+    "name": "羊排焖面",
     "ingredients": [
       "大葱",
       "带皮羊排肉",
@@ -5602,8 +5322,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "羊肉汤的做法": {
-    "name": "羊肉汤的做法",
+  "羊肉汤": {
+    "name": "羊肉汤",
     "ingredients": [
       "大葱",
       "孜然粉可选",
@@ -5629,8 +5349,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "美式炒蛋的做法": {
-    "name": "美式炒蛋的做法",
+  "美式炒蛋": {
+    "name": "美式炒蛋",
     "ingredients": [
       "全脂牛奶/奶油",
       "盐",
@@ -5654,8 +5374,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "老友猪肉粉的做法": {
-    "name": "老友猪肉粉的做法",
+  "老友猪肉粉": {
+    "name": "老友猪肉粉",
     "ingredients": [
       "剁椒",
       "大蒜",
@@ -5677,8 +5397,8 @@
       "dishes/staple/老友猪肉粉/老友猪肉粉.md"
     ]
   },
-  "老妈蹄花的做法": {
-    "name": "老妈蹄花的做法",
+  "老妈蹄花": {
+    "name": "老妈蹄花",
     "ingredients": [
       "姜",
       "小米椒",
@@ -5702,8 +5422,8 @@
       "dishes/meat_dish/老妈蹄花/老妈蹄花.md"
     ]
   },
-  "老干妈拌面的做法": {
-    "name": "老干妈拌面的做法",
+  "老干妈拌面": {
+    "name": "老干妈拌面",
     "ingredients": [
       "老干妈",
       "酱油",
@@ -5726,18 +5446,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "老式茶叶蛋": {
-    "name": "老式茶叶蛋",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1MM4m1U7sq"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "老式锅包肉的做法": {
-    "name": "老式锅包肉的做法",
+  "老式锅包肉": {
+    "name": "老式锅包肉",
     "ingredients": [
       "中筋面粉",
       "味精",
@@ -5761,8 +5471,8 @@
       "dishes/meat_dish/老式锅包肉/老式锅包肉.md"
     ]
   },
-  "耙耙柑茶的做法": {
-    "name": "耙耙柑茶的做法",
+  "耙耙柑茶": {
+    "name": "耙耙柑茶",
     "ingredients": [
       "冰块",
       "原料",
@@ -5788,8 +5498,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "肉蛋盖饭的做法": {
-    "name": "肉蛋盖饭的做法",
+  "肉蛋盖饭": {
+    "name": "肉蛋盖饭",
     "ingredients": [
       "油",
       "生抽",
@@ -5807,8 +5517,8 @@
       "dishes/staple/肉蛋盖饭.md"
     ]
   },
-  "肉蟹煲的做法": {
-    "name": "肉蟹煲的做法",
+  "肉蟹煲": {
+    "name": "肉蟹煲",
     "ingredients": [
       "冰糖",
       "啤酒",
@@ -5853,8 +5563,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "肉饼炖蛋的做法": {
-    "name": "肉饼炖蛋的做法",
+  "肉饼炖蛋": {
+    "name": "肉饼炖蛋",
     "ingredients": [
       "料酒",
       "猪肉末",
@@ -5868,8 +5578,8 @@
       "dishes/meat_dish/肉饼炖蛋.md"
     ]
   },
-  "胡萝卜甜糕的做法": {
-    "name": "胡萝卜甜糕的做法",
+  "胡萝卜甜糕": {
+    "name": "胡萝卜甜糕",
     "ingredients": [
       "全脂牛奶",
       "刨丝器",
@@ -5907,8 +5617,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "脆皮豆腐的做法": {
-    "name": "脆皮豆腐的做法",
+  "脆皮豆腐": {
+    "name": "脆皮豆腐",
     "ingredients": [
       "平底锅",
       "玉米淀粉",
@@ -5924,8 +5634,8 @@
       "dishes/vegetable_dish/脆皮豆腐.md"
     ]
   },
-  "腊八粥的做法": {
-    "name": "腊八粥的做法",
+  "腊八粥": {
+    "name": "腊八粥",
     "ingredients": [
       "中号玻璃碗或其他中号不锈钢容器",
       "冰糖或白糖，调味用",
@@ -5955,8 +5665,8 @@
       "dishes/soup/腊八粥.md"
     ]
   },
-  "腐乳肉的做法": {
-    "name": "腐乳肉的做法",
+  "腐乳肉": {
+    "name": "腐乳肉",
     "ingredients": [
       "冰糖",
       "带皮五花肉",
@@ -5997,8 +5707,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "芋泥雪媚娘的做法": {
-    "name": "芋泥雪媚娘的做法",
+  "芋泥雪媚娘": {
+    "name": "芋泥雪媚娘",
     "ingredients": [
       "保鲜膜",
       "料理搅拌机电动打蛋器也可以",
@@ -6017,8 +5727,8 @@
       "dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md"
     ]
   },
-  "芝麻烧饼的做法": {
-    "name": "芝麻烧饼的做法",
+  "芝麻烧饼": {
+    "name": "芝麻烧饼",
     "ingredients": [
       "十三香",
       "温水",
@@ -6032,8 +5742,8 @@
       "dishes/staple/烧饼/芝麻烧饼.md"
     ]
   },
-  "芥末罗氏虾的做法": {
-    "name": "芥末罗氏虾的做法",
+  "芥末罗氏虾": {
+    "name": "芥末罗氏虾",
     "ingredients": [
       "小米辣不吃辣可不放或替换成红菜椒",
       "生抽",
@@ -6053,8 +5763,8 @@
       "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md"
     ]
   },
-  "芥末黄油罗氏虾的做法": {
-    "name": "芥末黄油罗氏虾的做法",
+  "芥末黄油罗氏虾": {
+    "name": "芥末黄油罗氏虾",
     "ingredients": [
       "料酒、朗姆酒或啤酒",
       "生抽",
@@ -6072,8 +5782,8 @@
       "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md"
     ]
   },
-  "芹菜拌茶树菇的做法": {
-    "name": "芹菜拌茶树菇的做法",
+  "芹菜拌茶树菇": {
+    "name": "芹菜拌茶树菇",
     "ingredients": [
       "味极鲜",
       "芹菜",
@@ -6099,8 +5809,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "苏格兰蛋的做法": {
-    "name": "苏格兰蛋的做法",
+  "苏格兰蛋": {
+    "name": "苏格兰蛋",
     "ingredients": [
       "培根",
       "手抓饼皮",
@@ -6113,8 +5823,8 @@
       "dishes/breakfast/苏格兰蛋/苏格兰蛋.md"
     ]
   },
-  "英式司康的做法": {
-    "name": "英式司康的做法",
+  "英式司康": {
+    "name": "英式司康",
     "ingredients": [
       "低筋面粉",
       "奶油奶酪可选",
@@ -6130,8 +5840,8 @@
       "dishes/dessert/英式司康/英式司康.md"
     ]
   },
-  "茄子炖土豆的做法": {
-    "name": "茄子炖土豆的做法",
+  "茄子炖土豆": {
+    "name": "茄子炖土豆",
     "ingredients": [
       "土豆",
       "盐",
@@ -6146,8 +5856,8 @@
       "dishes/vegetable_dish/茄子炖土豆.md"
     ]
   },
-  "茄子肉煎饼的做法": {
-    "name": "茄子肉煎饼的做法",
+  "茄子肉煎饼": {
+    "name": "茄子肉煎饼",
     "ingredients": [
       "小麦粉",
       "煮熟的腊肉",
@@ -6174,8 +5884,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "茭白炒肉的做法": {
-    "name": "茭白炒肉的做法",
+  "茭白炒肉": {
+    "name": "茭白炒肉",
     "ingredients": [
       "姜",
       "料酒",
@@ -6192,8 +5902,8 @@
       "dishes/meat_dish/茭白炒肉/茭白炒肉.md"
     ]
   },
-  "茶叶蛋的做法": {
-    "name": "茶叶蛋的做法",
+  "茶叶蛋": {
+    "name": "茶叶蛋",
     "ingredients": [
       "八角",
       "冰糖",
@@ -6211,8 +5921,8 @@
       "dishes/breakfast/茶叶蛋.md"
     ]
   },
-  "草莓冰淇淋的做法": {
-    "name": "草莓冰淇淋的做法",
+  "草莓冰淇淋": {
+    "name": "草莓冰淇淋",
     "ingredients": [
       "冰淇淋模具可选",
       "加糖炼乳",
@@ -6225,8 +5935,8 @@
       "dishes/dessert/草莓冰淇淋/草莓冰淇淋.md"
     ]
   },
-  "草莓酱的做法": {
-    "name": "草莓酱的做法",
+  "草莓酱": {
+    "name": "草莓酱",
     "ingredients": [
       "保鲜膜",
       "白砂糖",
@@ -6237,8 +5947,8 @@
       "dishes/condiment/草莓酱/草莓酱.md"
     ]
   },
-  "荔枝肉的做法": {
-    "name": "荔枝肉的做法",
+  "荔枝肉": {
+    "name": "荔枝肉",
     "ingredients": [
       "凤梨",
       "姜末",
@@ -6258,8 +5968,8 @@
       "dishes/meat_dish/荔枝肉/荔枝肉.md"
     ]
   },
-  "荷兰豆炒腊肠的做法": {
-    "name": "荷兰豆炒腊肠的做法",
+  "荷兰豆炒腊肠": {
+    "name": "荷兰豆炒腊肠",
     "ingredients": [
       "生抽",
       "腊肠",
@@ -6271,8 +5981,8 @@
       "dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md"
     ]
   },
-  "莴笋叶煎饼的做法": {
-    "name": "莴笋叶煎饼的做法",
+  "莴笋叶煎饼": {
+    "name": "莴笋叶煎饼",
     "ingredients": [
       "淀粉",
       "生抽",
@@ -6286,8 +5996,8 @@
       "dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md"
     ]
   },
-  "菌菇炖乳鸽的做法": {
-    "name": "菌菇炖乳鸽的做法",
+  "菌菇炖乳鸽": {
+    "name": "菌菇炖乳鸽",
     "ingredients": [
       "乳鸽",
       "姜",
@@ -6302,8 +6012,8 @@
       "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md"
     ]
   },
-  "菠菜炒鸡蛋的做法": {
-    "name": "菠菜炒鸡蛋的做法",
+  "菠菜炒鸡蛋": {
+    "name": "菠菜炒鸡蛋",
     "ingredients": [
       "菠菜",
       "食用油",
@@ -6315,8 +6025,8 @@
       "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md"
     ]
   },
-  "菠萝咖啡特调的做法": {
-    "name": "菠萝咖啡特调的做法",
+  "菠萝咖啡特调": {
+    "name": "菠萝咖啡特调",
     "ingredients": [
       "冰块",
       "咖啡液推荐浓缩或者冷萃",
@@ -6345,8 +6055,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "萝卜炖羊排的做法": {
-    "name": "萝卜炖羊排的做法",
+  "萝卜炖羊排": {
+    "name": "萝卜炖羊排",
     "ingredients": [
       "冰糖",
       "大葱",
@@ -6364,8 +6074,24 @@
       "dishes/meat_dish/萝卜炖羊排.md"
     ]
   },
-  "葱油拌面的做法": {
-    "name": "葱油拌面的做法",
+  "葱油": {
+    "name": "葱油",
+    "ingredients": [
+      "姜",
+      "开洋可选",
+      "料酒",
+      "油",
+      "洋葱",
+      "葱大葱小葱都可以",
+      "香菜可选"
+    ],
+    "special_tools": [],
+    "sources": [
+      "dishes/condiment/葱油.md"
+    ]
+  },
+  "葱油拌面": {
+    "name": "葱油拌面",
     "ingredients": [
       "小葱",
       "干面条",
@@ -6378,8 +6104,8 @@
       "dishes/staple/葱油拌面.md"
     ]
   },
-  "葱油桂鱼的做法": {
-    "name": "葱油桂鱼的做法",
+  "葱油桂鱼": {
+    "name": "葱油桂鱼",
     "ingredients": [
       "一次性手套",
       "削皮刀",
@@ -6406,22 +6132,6 @@
       "dishes/aquatic/葱油桂鱼/葱油桂鱼.md"
     ]
   },
-  "葱油的做法": {
-    "name": "葱油的做法",
-    "ingredients": [
-      "姜",
-      "开洋可选",
-      "料酒",
-      "油",
-      "洋葱",
-      "葱大葱小葱都可以",
-      "香菜可选"
-    ],
-    "special_tools": [],
-    "sources": [
-      "dishes/condiment/葱油.md"
-    ]
-  },
   "葱烧大排": {
     "name": "葱烧大排",
     "ingredients": [
@@ -6434,8 +6144,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "葱烧海参的做法": {
-    "name": "葱烧海参的做法",
+  "葱烧海参": {
+    "name": "葱烧海参",
     "ingredients": [
       "大葱葱白",
       "泡发好的海参!海参./海参.jpeg"
@@ -6457,8 +6167,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "葱烧鸡腿的做法": {
-    "name": "葱烧鸡腿的做法",
+  "葱烧鸡腿": {
+    "name": "葱烧鸡腿",
     "ingredients": [
       "大葱",
       "小葱",
@@ -6479,8 +6189,8 @@
       "dishes/meat_dish/葱烧鸡腿.md"
     ]
   },
-  "葱煎豆腐的做法": {
-    "name": "葱煎豆腐的做法",
+  "葱煎豆腐": {
+    "name": "葱煎豆腐",
     "ingredients": [
       "平底锅",
       "白豆腐",
@@ -6494,8 +6204,8 @@
       "dishes/vegetable_dish/葱煎豆腐.md"
     ]
   },
-  "蒜苔炒肉末的做法": {
-    "name": "蒜苔炒肉末的做法",
+  "蒜苔炒肉末": {
+    "name": "蒜苔炒肉末",
     "ingredients": [
       "五花肉薄片",
       "生抽",
@@ -6509,8 +6219,8 @@
       "dishes/meat_dish/蒜苔炒肉末.md"
     ]
   },
-  "蒜蓉炒芹菜的做法": {
-    "name": "蒜蓉炒芹菜的做法",
+  "蒜蓉炒芹菜": {
+    "name": "蒜蓉炒芹菜",
     "ingredients": [
       "猪油没有可用食用油替代，但猪油风味更佳",
       "盐",
@@ -6522,8 +6232,8 @@
       "dishes/vegetable_dish/蒜蓉炒芹菜/蒜蓉炒芹菜.md"
     ]
   },
-  "蒜蓉空心菜的做法": {
-    "name": "蒜蓉空心菜的做法",
+  "蒜蓉空心菜": {
+    "name": "蒜蓉空心菜",
     "ingredients": [
       "生抽",
       "盐",
@@ -6564,8 +6274,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "蒜蓉虾的做法": {
-    "name": "蒜蓉虾的做法",
+  "蒜蓉虾": {
+    "name": "蒜蓉虾",
     "ingredients": [
       "海虾",
       "生抽",
@@ -6577,8 +6287,8 @@
       "dishes/aquatic/蒜蓉虾/蒜蓉虾.md"
     ]
   },
-  "蒜蓉西兰花的做法": {
-    "name": "蒜蓉西兰花的做法",
+  "蒜蓉西兰花": {
+    "name": "蒜蓉西兰花",
     "ingredients": [
       "大蒜",
       "生抽",
@@ -6603,8 +6313,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "蒜香酱油的做法": {
-    "name": "蒜香酱油的做法",
+  "蒜香酱油": {
+    "name": "蒜香酱油",
     "ingredients": [
       "白芝麻",
       "花生油",
@@ -6617,8 +6327,8 @@
       "dishes/condiment/蒜香酱油.md"
     ]
   },
-  "蒜香黄油虾的做法": {
-    "name": "蒜香黄油虾的做法",
+  "蒜香黄油虾": {
+    "name": "蒜香黄油虾",
     "ingredients": [
       "厨房用夹",
       "大蒜",
@@ -6633,8 +6343,8 @@
       "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md"
     ]
   },
-  "蒲烧茄子的做法": {
-    "name": "蒲烧茄子的做法",
+  "蒲烧茄子": {
+    "name": "蒲烧茄子",
     "ingredients": [
       "料酒",
       "水",
@@ -6650,8 +6360,8 @@
       "dishes/vegetable_dish/蒲烧茄子.md"
     ]
   },
-  "蒸卤面的做法": {
-    "name": "蒸卤面的做法",
+  "蒸卤面": {
+    "name": "蒸卤面",
     "ingredients": [
       "干红椒",
       "炒锅",
@@ -6679,8 +6389,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "蒸水蛋的做法": {
-    "name": "蒸水蛋的做法",
+  "蒸水蛋": {
+    "name": "蒸水蛋",
     "ingredients": [
       "新鲜鸡蛋",
       "热水",
@@ -6691,8 +6401,8 @@
       "dishes/breakfast/蒸水蛋.md"
     ]
   },
-  "蒸箱鸡蛋羹的做法": {
-    "name": "蒸箱鸡蛋羹的做法",
+  "蒸箱鸡蛋羹": {
+    "name": "蒸箱鸡蛋羹",
     "ingredients": [
       "生抽可选",
       "蒸箱",
@@ -6705,8 +6415,8 @@
       "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md"
     ]
   },
-  "蒸花卷的做法": {
-    "name": "蒸花卷的做法",
+  "蒸花卷": {
+    "name": "蒸花卷",
     "ingredients": [
       "冷冻花卷",
       "圆碟子",
@@ -6718,8 +6428,8 @@
       "dishes/breakfast/蒸花卷.md"
     ]
   },
-  "蔗糖糖浆的做法": {
-    "name": "蔗糖糖浆的做法",
+  "蔗糖糖浆": {
+    "name": "蔗糖糖浆",
     "ingredients": [
       "可密封容器建议使用高硼硅试剂瓶，便宜",
       "水",
@@ -6730,8 +6440,8 @@
       "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md"
     ]
   },
-  "虎皮肘子的做法": {
-    "name": "虎皮肘子的做法",
+  "虎皮肘子": {
+    "name": "虎皮肘子",
     "ingredients": [
       "冰糖",
       "大料",
@@ -6757,8 +6467,8 @@
       "dishes/meat_dish/虎皮肘子.md"
     ]
   },
-  "虎皮青椒的做法": {
-    "name": "虎皮青椒的做法",
+  "虎皮青椒": {
+    "name": "虎皮青椒",
     "ingredients": [
       "大蒜",
       "生抽",
@@ -6785,8 +6495,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "蚂蚁上树的做法": {
-    "name": "蚂蚁上树的做法",
+  "蚂蚁上树": {
+    "name": "蚂蚁上树",
     "ingredients": [
       "小葱可选",
       "猪肉末或牛肉末",
@@ -6802,8 +6512,8 @@
       "dishes/meat_dish/蚂蚁上树.md"
     ]
   },
-  "蚝油三鲜菇的做法": {
-    "name": "蚝油三鲜菇的做法",
+  "蚝油三鲜菇": {
+    "name": "蚝油三鲜菇",
     "ingredients": [
       "姜末",
       "小米辣",
@@ -6826,8 +6536,8 @@
       "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md"
     ]
   },
-  "蚝油生菜的做法": {
-    "name": "蚝油生菜的做法",
+  "蚝油生菜": {
+    "name": "蚝油生菜",
     "ingredients": [
       "大蒜",
       "生抽",
@@ -6842,8 +6552,8 @@
       "dishes/vegetable_dish/蚝油生菜.md"
     ]
   },
-  "蛋包饭的做法": {
-    "name": "蛋包饭的做法",
+  "蛋包饭": {
+    "name": "蛋包饭",
     "ingredients": [
       "洋葱",
       "火腿肠或鸡胸肉",
@@ -6861,8 +6571,8 @@
       "dishes/staple/蛋包饭.md"
     ]
   },
-  "蛋炒饭的做法": {
-    "name": "蛋炒饭的做法",
+  "蛋炒饭": {
+    "name": "蛋炒饭",
     "ingredients": [
       "冷饭",
       "油",
@@ -6881,8 +6591,8 @@
       "dishes/staple/蛋炒饭.md"
     ]
   },
-  "蛋煎糍粑的做法": {
-    "name": "蛋煎糍粑的做法",
+  "蛋煎糍粑": {
+    "name": "蛋煎糍粑",
     "ingredients": [
       "白糖或红糖",
       "糍粑",
@@ -6893,8 +6603,8 @@
       "dishes/breakfast/蛋煎糍粑.md"
     ]
   },
-  "蛏抱蛋的做法": {
-    "name": "蛏抱蛋的做法",
+  "蛏抱蛋": {
+    "name": "蛏抱蛋",
     "ingredients": [
       "料酒",
       "洋葱",
@@ -6910,8 +6620,8 @@
       "dishes/aquatic/蛏抱蛋/蛏抱蛋.md"
     ]
   },
-  "螺蛳粉的做法": {
-    "name": "螺蛳粉的做法",
+  "螺蛳粉": {
+    "name": "螺蛳粉",
     "ingredients": [
       "汤料包",
       "煮锅",
@@ -6928,8 +6638,8 @@
       "dishes/staple/螺蛳粉.md"
     ]
   },
-  "血浆鸭的做法": {
-    "name": "血浆鸭的做法",
+  "血浆鸭": {
+    "name": "血浆鸭",
     "ingredients": [
       "姜",
       "料酒",
@@ -6960,8 +6670,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "西红柿土豆炖牛肉的做法": {
-    "name": "西红柿土豆炖牛肉的做法",
+  "西红柿土豆炖牛肉": {
+    "name": "西红柿土豆炖牛肉",
     "ingredients": [
       "八角",
       "土豆",
@@ -6984,8 +6694,8 @@
       "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md"
     ]
   },
-  "西红柿炒鸡蛋的做法": {
-    "name": "西红柿炒鸡蛋的做法",
+  "西红柿炒鸡蛋": {
+    "name": "西红柿炒鸡蛋",
     "ingredients": [
       "盐",
       "糖可选",
@@ -6999,8 +6709,8 @@
       "dishes/vegetable_dish/西红柿炒鸡蛋.md"
     ]
   },
-  "西红柿牛腩的做法": {
-    "name": "西红柿牛腩的做法",
+  "西红柿牛腩": {
+    "name": "西红柿牛腩",
     "ingredients": [
       "2cm 两段葱段、两片姜片，葱花、姜各",
       "燃气灶西红柿去皮用",
@@ -7015,8 +6725,8 @@
       "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
     ]
   },
-  "西红柿豆腐汤羹的做法": {
-    "name": "西红柿豆腐汤羹的做法",
+  "西红柿豆腐汤羹": {
+    "name": "西红柿豆腐汤羹",
     "ingredients": [
       "姜",
       "开水",
@@ -7034,8 +6744,8 @@
       "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md"
     ]
   },
-  "西红柿鸡蛋挂面的做法": {
-    "name": "西红柿鸡蛋挂面的做法",
+  "西红柿鸡蛋挂面": {
+    "name": "西红柿鸡蛋挂面",
     "ingredients": [
       "挂面或者鲜面条也行",
       "白砂糖中和西红柿的酸味，西红柿如果不酸就不用加",
@@ -7052,8 +6762,8 @@
       "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md"
     ]
   },
-  "西红柿鸡蛋汤的做法": {
-    "name": "西红柿鸡蛋汤的做法",
+  "西红柿鸡蛋汤": {
+    "name": "西红柿鸡蛋汤",
     "ingredients": [
       "味素",
       "盐",
@@ -7067,21 +6777,8 @@
       "dishes/soup/西红柿鸡蛋汤.md"
     ]
   },
-  "西红柿鸡蛋汤酸辣清爽又很简单": {
-    "name": "西红柿鸡蛋汤酸辣清爽又很简单",
-    "ingredients": [
-      "西红柿",
-      "鸡蛋"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1bvKt6yECE"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "西葫芦炒鸡蛋的做法": {
-    "name": "西葫芦炒鸡蛋的做法",
+  "西葫芦炒鸡蛋": {
+    "name": "西葫芦炒鸡蛋",
     "ingredients": [
       "西红柿可选",
       "西葫芦",
@@ -7094,8 +6791,8 @@
       "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md"
     ]
   },
-  "话梅煮毛豆的做法": {
-    "name": "话梅煮毛豆的做法",
+  "话梅煮毛豆": {
+    "name": "话梅煮毛豆",
     "ingredients": [
       "毛豆",
       "话梅",
@@ -7116,20 +6813,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "谁说在家炒不出饭店味的手撕包菜": {
-    "name": "谁说在家炒不出饭店味的手撕包菜",
-    "ingredients": [
-      "包菜"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV18T42167qe"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "豆角焖面的做法": {
-    "name": "豆角焖面的做法",
+  "豆角焖面": {
+    "name": "豆角焖面",
     "ingredients": [
       "十三香",
       "味精",
@@ -7152,8 +6837,8 @@
       "dishes/staple/豆角焖面/豆角焖面.md"
     ]
   },
-  "豆豉鲮鱼油麦菜的做法": {
-    "name": "豆豉鲮鱼油麦菜的做法",
+  "豆豉鲮鱼油麦菜": {
+    "name": "豆豉鲮鱼油麦菜",
     "ingredients": [
       "油麦菜",
       "甘竹牌鲮鱼罐头",
@@ -7167,8 +6852,8 @@
       "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md"
     ]
   },
-  "豉汁排骨的做法": {
-    "name": "豉汁排骨的做法",
+  "豉汁排骨": {
+    "name": "豉汁排骨",
     "ingredients": [
       "姜末",
       "清水",
@@ -7189,8 +6874,8 @@
       "dishes/meat_dish/豉汁排骨.md"
     ]
   },
-  "豉汁蒸白鱔的做法": {
-    "name": "豉汁蒸白鱔的做法",
+  "豉汁蒸白鱔": {
+    "name": "豉汁蒸白鱔",
     "ingredients": [
       "刀和砧板",
       "姜",
@@ -7213,8 +6898,8 @@
       "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md"
     ]
   },
-  "贵州辣子鸡的做法": {
-    "name": "贵州辣子鸡的做法",
+  "贵州辣子鸡": {
+    "name": "贵州辣子鸡",
     "ingredients": [
       "农村玉米鸡",
       "啤酒",
@@ -7233,18 +6918,6 @@
     "sources": [
       "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
     ]
-  },
-  "超绝椒麻酸辣无骨鸡爪": {
-    "name": "超绝椒麻酸辣无骨鸡爪",
-    "ingredients": [
-      "鸡爪"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1jPTjzgEAv"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "越啃越酸爽越吃越上头的泡椒凤爪": {
     "name": "越啃越酸爽越吃越上头的泡椒凤爪",
@@ -7293,8 +6966,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "辣椒炒肉的做法": {
-    "name": "辣椒炒肉的做法",
+  "辣椒炒肉": {
+    "name": "辣椒炒肉",
     "ingredients": [
       "大蒜",
       "姜",
@@ -7310,31 +6983,6 @@
     "sources": [
       "dishes/meat_dish/辣椒炒肉.md"
     ]
-  },
-  "辣椒炒肉粉一口下去啥烦恼都没了": {
-    "name": "辣椒炒肉粉一口下去啥烦恼都没了",
-    "ingredients": [
-      "辣椒"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV14vQ5BjESD"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "辣椒酱牛肉": {
-    "name": "辣椒酱牛肉",
-    "ingredients": [
-      "牛肉",
-      "辣椒"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1oGHwzBESJ"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "过油肉拌面": {
     "name": "过油肉拌面",
@@ -7368,8 +7016,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "速冻水饺的做法": {
-    "name": "速冻水饺的做法",
+  "速冻水饺": {
+    "name": "速冻水饺",
     "ingredients": [
       "未过期的一袋速冻水饺"
     ],
@@ -7378,8 +7026,8 @@
       "dishes/semi-finished/速冻水饺.md"
     ]
   },
-  "速冻汤圆的做法": {
-    "name": "速冻汤圆的做法",
+  "速冻汤圆": {
+    "name": "速冻汤圆",
     "ingredients": [
       "微波炉",
       "速冻汤圆"
@@ -7389,8 +7037,8 @@
       "dishes/semi-finished/速冻汤圆/速冻汤圆.md"
     ]
   },
-  "速冻馄饨的做法": {
-    "name": "速冻馄饨的做法",
+  "速冻馄饨": {
+    "name": "速冻馄饨",
     "ingredients": [
       "未过期的一袋速冻馄饨自带调味料包更佳",
       "电饭煲推荐品牌小米智能电饭煲",
@@ -7405,8 +7053,8 @@
       "dishes/semi-finished/速冻馄饨.md"
     ]
   },
-  "酒酿醪糟的做法": {
-    "name": "酒酿醪糟的做法",
+  "酒酿醪糟": {
+    "name": "酒酿醪糟",
     "ingredients": [
       "安琪甜酒曲一包",
       "干净密封玻璃或陶瓷容器",
@@ -7420,8 +7068,8 @@
       "dishes/drink/酒酿醪糟/酒酿醪糟.md"
     ]
   },
-  "酱拌荞麦面的做法": {
-    "name": "酱拌荞麦面的做法",
+  "酱拌荞麦面": {
+    "name": "酱拌荞麦面",
     "ingredients": [
       "红萝卜",
       "老干妈",
@@ -7433,8 +7081,8 @@
       "dishes/staple/酱拌荞麦面/酱拌荞麦面.md"
     ]
   },
-  "酱排骨的做法": {
-    "name": "酱排骨的做法",
+  "酱排骨": {
+    "name": "酱排骨",
     "ingredients": [
       "五香粉",
       "姜",
@@ -7465,8 +7113,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "酱炖蟹的做法": {
-    "name": "酱炖蟹的做法",
+  "酱炖蟹": {
+    "name": "酱炖蟹",
     "ingredients": [
       "冰糖可选",
       "小葱",
@@ -7509,8 +7157,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "酱牛肉的做法": {
-    "name": "酱牛肉的做法",
+  "酱牛肉": {
+    "name": "酱牛肉",
     "ingredients": [
       "八角",
       "冰糖",
@@ -7531,8 +7179,8 @@
       "dishes/meat_dish/酱牛肉/酱牛肉.md"
     ]
   },
-  "酸奶意式奶冻的做法": {
-    "name": "酸奶意式奶冻的做法",
+  "酸奶意式奶冻": {
+    "name": "酸奶意式奶冻",
     "ingredients": [
       "原味酸奶",
       "吉利丁片",
@@ -7545,20 +7193,8 @@
       "dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md"
     ]
   },
-  "酸梅汤半成品加工的做法": {
-    "name": "酸梅汤半成品加工的做法",
-    "ingredients": [
-      "北京二锅头酒可选",
-      "方糖可选",
-      "酸梅晶固体饮料"
-    ],
-    "special_tools": [],
-    "sources": [
-      "dishes/drink/酸梅汤（半成品加工）.md"
-    ]
-  },
-  "酸梅汤的做法": {
-    "name": "酸梅汤的做法",
+  "酸梅汤": {
+    "name": "酸梅汤",
     "ingredients": [
       "乌枣",
       "乌梅",
@@ -7575,20 +7211,20 @@
       "dishes/drink/酸梅汤/酸梅汤.md"
     ]
   },
-  "酸甜微辣软软糯糯的鱼香茄子免油炸": {
-    "name": "酸甜微辣软软糯糯的鱼香茄子免油炸",
+  "酸梅汤半成品加工": {
+    "name": "酸梅汤半成品加工",
     "ingredients": [
-      "茄子"
+      "北京二锅头酒可选",
+      "方糖可选",
+      "酸梅晶固体饮料"
     ],
     "special_tools": [],
     "sources": [
-      "bilibili:BV1aegF6jEcq"
-    ],
-    "auto_generated": true,
-    "needs_review": true
+      "dishes/drink/酸梅汤（半成品加工）.md"
+    ]
   },
-  "酸辣土豆丝的做法": {
-    "name": "酸辣土豆丝的做法",
+  "酸辣土豆丝": {
+    "name": "酸辣土豆丝",
     "ingredients": [
       "土豆",
       "大蒜",
@@ -7617,8 +7253,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "酸辣蕨根粉的做法": {
-    "name": "酸辣蕨根粉的做法",
+  "酸辣蕨根粉": {
+    "name": "酸辣蕨根粉",
     "ingredients": [
       "一口有点深度的锅",
       "小米辣可选",
@@ -7636,8 +7272,8 @@
       "dishes/staple/酸辣蕨根粉.md"
     ]
   },
-  "醉排骨的做法": {
-    "name": "醉排骨的做法",
+  "醉排骨": {
+    "name": "醉排骨",
     "ingredients": [
       "地瓜粉",
       "排骨",
@@ -7668,8 +7304,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "醪糟小汤圆的做法": {
-    "name": "醪糟小汤圆的做法",
+  "醪糟小汤圆": {
+    "name": "醪糟小汤圆",
     "ingredients": [
       "小汤圆",
       "枸杞可选",
@@ -7681,8 +7317,8 @@
       "dishes/staple/醪糟小汤圆.md"
     ]
   },
-  "金枪鱼酱三明治的做法": {
-    "name": "金枪鱼酱三明治的做法",
+  "金枪鱼酱三明治": {
+    "name": "金枪鱼酱三明治",
     "ingredients": [
       "俄式酸黄瓜汁",
       "方形吐司片",
@@ -7697,8 +7333,8 @@
       "dishes/breakfast/金枪鱼酱三明治.md"
     ]
   },
-  "金汤力的做法": {
-    "name": "金汤力的做法",
+  "金汤力": {
+    "name": "金汤力",
     "ingredients": [
       "冰块",
       "手动压汁器",
@@ -7712,8 +7348,8 @@
       "dishes/drink/金汤力/金汤力.md"
     ]
   },
-  "金菲士的做法": {
-    "name": "金菲士的做法",
+  "金菲士": {
+    "name": "金菲士",
     "ingredients": [
       "冰块",
       "手动压汁器",
@@ -7728,8 +7364,8 @@
       "dishes/drink/金菲士/金菲士.md"
     ]
   },
-  "金针菇日本豆腐煲的做法": {
-    "name": "金针菇日本豆腐煲的做法",
+  "金针菇日本豆腐煲": {
+    "name": "金针菇日本豆腐煲",
     "ingredients": [
       "小米椒",
       "日本豆腐玉子豆腐",
@@ -7745,8 +7381,8 @@
       "dishes/vegetable_dish/金针菇日本豆腐煲.md"
     ]
   },
-  "金针菇汤的做法": {
-    "name": "金针菇汤的做法",
+  "金针菇汤": {
+    "name": "金针菇汤",
     "ingredients": [
       "金针菇",
       "鸡蛋如需要"
@@ -7756,8 +7392,8 @@
       "dishes/soup/金针菇汤.md"
     ]
   },
-  "金钱蛋的做法": {
-    "name": "金钱蛋的做法",
+  "金钱蛋": {
+    "name": "金钱蛋",
     "ingredients": [
       "小米辣",
       "小葱",
@@ -7786,8 +7422,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "银耳莲子粥的做法": {
-    "name": "银耳莲子粥的做法",
+  "银耳莲子粥": {
+    "name": "银耳莲子粥",
     "ingredients": [
       "冰糖",
       "去心莲子",
@@ -7800,8 +7436,8 @@
       "dishes/soup/银耳莲子粥/银耳莲子粥.md"
     ]
   },
-  "长岛冰茶的做法": {
-    "name": "长岛冰茶的做法",
+  "长岛冰茶": {
+    "name": "长岛冰茶",
     "ingredients": [
       "伏特加",
       "冰块",
@@ -7831,8 +7467,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "阳朔啤酒鱼的做法": {
-    "name": "阳朔啤酒鱼的做法",
+  "阳朔啤酒鱼": {
+    "name": "阳朔啤酒鱼",
     "ingredients": [
       "剑骨鱼或鲤鱼约",
       "大蒜5-6 瓣",
@@ -7855,8 +7491,8 @@
       "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md"
     ]
   },
-  "陈皮排骨汤的做法": {
-    "name": "陈皮排骨汤的做法",
+  "陈皮排骨汤": {
+    "name": "陈皮排骨汤",
     "ingredients": [
       "排骨",
       "煲汤盅",
@@ -7872,8 +7508,8 @@
       "dishes/soup/陈皮排骨汤/陈皮排骨汤.md"
     ]
   },
-  "陕北熬豆角的做法": {
-    "name": "陕北熬豆角的做法",
+  "陕北熬豆角": {
+    "name": "陕北熬豆角",
     "ingredients": [
       "五香粉",
       "土豆",
@@ -7892,21 +7528,8 @@
       "dishes/vegetable_dish/陕北熬豆角.md"
     ]
   },
-  "陕西凉皮辣椒油定量": {
-    "name": "陕西凉皮辣椒油定量",
-    "ingredients": [
-      "辣椒",
-      "辣椒油"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1fW421R7fW"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "陕西油泼面的做法": {
-    "name": "陕西油泼面的做法",
+  "陕西油泼面": {
+    "name": "陕西油泼面",
     "ingredients": [
       "干辣椒面或秦椒面",
       "生抽",
@@ -7924,8 +7547,8 @@
       "dishes/staple/陕西油泼面/陕西油泼面.md"
     ]
   },
-  "雪花酥的做法": {
-    "name": "雪花酥的做法",
+  "雪花酥": {
+    "name": "雪花酥",
     "ingredients": [
       "一次性塑料手套",
       "不粘平底锅",
@@ -7943,8 +7566,8 @@
       "dishes/dessert/雪花酥/雪花酥.md"
     ]
   },
-  "雷椒皮蛋的做法": {
-    "name": "雷椒皮蛋的做法",
+  "雷椒皮蛋": {
+    "name": "雷椒皮蛋",
     "ingredients": [
       "小米辣可选",
       "深一点的小铁盆",
@@ -7963,8 +7586,8 @@
       "dishes/vegetable_dish/雷椒皮蛋.md"
     ]
   },
-  "青椒土豆炒肉的做法": {
-    "name": "青椒土豆炒肉的做法",
+  "青椒土豆炒肉": {
+    "name": "青椒土豆炒肉",
     "ingredients": [
       "土豆",
       "土豆淀粉",
@@ -7994,8 +7617,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "青椒酿的做法": {
-    "name": "青椒酿的做法",
+  "青椒酿": {
+    "name": "青椒酿",
     "ingredients": [
       "大蒜可选，3-4 瓣",
       "料酒可选",
@@ -8018,8 +7641,8 @@
       "dishes/meat_dish/青椒酿/青椒酿.md"
     ]
   },
-  "韩国麻药鸡蛋的做法": {
-    "name": "韩国麻药鸡蛋的做法",
+  "韩国麻药鸡蛋": {
+    "name": "韩国麻药鸡蛋",
     "ingredients": [
       "日式味淋",
       "白糖",
@@ -8034,8 +7657,8 @@
       "dishes/breakfast/韩国麻药鸡蛋.md"
     ]
   },
-  "韩式拌饭的做法": {
-    "name": "韩式拌饭的做法",
+  "韩式拌饭": {
+    "name": "韩式拌饭",
     "ingredients": [
       "火锅牛肉卷",
       "米饭",
@@ -8054,8 +7677,8 @@
       "dishes/staple/韩式拌饭/韩式拌饭.md"
     ]
   },
-  "韭菜炒蛋的做法": {
-    "name": "韭菜炒蛋的做法",
+  "韭菜炒蛋": {
+    "name": "韭菜炒蛋",
     "ingredients": [
       "盐",
       "韭菜",
@@ -8067,8 +7690,8 @@
       "dishes/vegetable_dish/韭菜炒蛋/韭菜炒蛋.md"
     ]
   },
-  "韭菜盒子的做法": {
-    "name": "韭菜盒子的做法",
+  "韭菜盒子": {
+    "name": "韭菜盒子",
     "ingredients": [
       "盐",
       "虾仁",
@@ -8094,8 +7717,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "香干肉丝的做法": {
-    "name": "香干肉丝的做法",
+  "香干肉丝": {
+    "name": "香干肉丝",
     "ingredients": [
       "大蒜",
       "淀粉",
@@ -8111,8 +7734,8 @@
       "dishes/meat_dish/香干肉丝.md"
     ]
   },
-  "香干芹菜炒肉的做法": {
-    "name": "香干芹菜炒肉的做法",
+  "香干芹菜炒肉": {
+    "name": "香干芹菜炒肉",
     "ingredients": [
       "大蒜",
       "猪肉",
@@ -8131,8 +7754,8 @@
       "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md"
     ]
   },
-  "香煎五花肉的做法": {
-    "name": "香煎五花肉的做法",
+  "香煎五花肉": {
+    "name": "香煎五花肉",
     "ingredients": [
       "五花肉条推荐长宽高为",
       "生菜",
@@ -8143,8 +7766,8 @@
       "dishes/meat_dish/香煎五花肉/香煎五花肉.md"
     ]
   },
-  "香煎翘嘴鱼的做法": {
-    "name": "香煎翘嘴鱼的做法",
+  "香煎翘嘴鱼": {
+    "name": "香煎翘嘴鱼",
     "ingredients": [
       "姜",
       "料酒",
@@ -8176,8 +7799,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "香菇滑鸡的做法": {
-    "name": "香菇滑鸡的做法",
+  "香菇滑鸡": {
+    "name": "香菇滑鸡",
     "ingredients": [
       "大鸡腿",
       "姜",
@@ -8190,8 +7813,8 @@
       "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md"
     ]
   },
-  "香辣鸡爪煲的做法": {
-    "name": "香辣鸡爪煲的做法",
+  "香辣鸡爪煲": {
+    "name": "香辣鸡爪煲",
     "ingredients": [
       "五香粉",
       "八角",
@@ -8224,8 +7847,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "魔芋蛋糕的做法": {
-    "name": "魔芋蛋糕的做法",
+  "魔芋蛋糕": {
+    "name": "魔芋蛋糕",
     "ingredients": [
       "可可粉",
       "可选 分蛋器",
@@ -8255,8 +7878,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "鱼香肉丝的做法": {
-    "name": "鱼香肉丝的做法",
+  "鱼香肉丝": {
+    "name": "鱼香肉丝",
     "ingredients": [
       "姜",
       "料酒",
@@ -8279,8 +7902,8 @@
       "dishes/meat_dish/鱼香肉丝.md"
     ]
   },
-  "鱼香茄子的做法": {
-    "name": "鱼香茄子的做法",
+  "鱼香茄子": {
+    "name": "鱼香茄子",
     "ingredients": [
       "味精",
       "水淀粉",
@@ -8298,8 +7921,8 @@
       "dishes/meat_dish/鱼香茄子/鱼香茄子.md"
     ]
   },
-  "鲜肉烧卖的做法": {
-    "name": "鲜肉烧卖的做法",
+  "鲜肉烧卖": {
+    "name": "鲜肉烧卖",
     "ingredients": [
       "冬笋可选",
       "复配食品增稠剂κ-卡拉胶",
@@ -8324,8 +7947,8 @@
       "dishes/staple/鲜肉烧卖.md"
     ]
   },
-  "鲣鱼海苔玉米饭的做法": {
-    "name": "鲣鱼海苔玉米饭的做法",
+  "鲣鱼海苔玉米饭": {
+    "name": "鲣鱼海苔玉米饭",
     "ingredients": [
       "必备"
     ],
@@ -8334,8 +7957,8 @@
       "dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md"
     ]
   },
-  "鲤鱼炖白菜的做法": {
-    "name": "鲤鱼炖白菜的做法",
+  "鲤鱼炖白菜": {
+    "name": "鲤鱼炖白菜",
     "ingredients": [
       "八角",
       "姜",
@@ -8355,8 +7978,8 @@
       "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md"
     ]
   },
-  "鳊鱼炖豆腐的做法": {
-    "name": "鳊鱼炖豆腐的做法",
+  "鳊鱼炖豆腐": {
+    "name": "鳊鱼炖豆腐",
     "ingredients": [
       "八角可选",
       "冰糖",
@@ -8379,8 +8002,8 @@
       "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md"
     ]
   },
-  "鸡蛋三明治的做法": {
-    "name": "鸡蛋三明治的做法",
+  "鸡蛋三明治": {
+    "name": "鸡蛋三明治",
     "ingredients": [
       "吐司",
       "培根",
@@ -8419,8 +8042,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "鸡蛋火腿炒黄瓜的做法": {
-    "name": "鸡蛋火腿炒黄瓜的做法",
+  "鸡蛋火腿炒黄瓜": {
+    "name": "鸡蛋火腿炒黄瓜",
     "ingredients": [
       "火腿肠",
       "生抽",
@@ -8433,18 +8056,6 @@
     "sources": [
       "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md"
     ]
-  },
-  "鸡蛋炸酱面能吃出肉味": {
-    "name": "鸡蛋炸酱面能吃出肉味",
-    "ingredients": [
-      "鸡蛋"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1CEAbzCEyY"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "鸡蛋烧豆腐怎么能这么好吃": {
     "name": "鸡蛋烧豆腐怎么能这么好吃",
@@ -8459,8 +8070,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "鸡蛋羹的做法": {
-    "name": "鸡蛋羹的做法",
+  "鸡蛋羹": {
+    "name": "鸡蛋羹",
     "ingredients": [
       "生抽 / 味极鲜",
       "白醋可选",
@@ -8474,8 +8085,8 @@
       "dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md"
     ]
   },
-  "鸡蛋花的做法": {
-    "name": "鸡蛋花的做法",
+  "鸡蛋花": {
+    "name": "鸡蛋花",
     "ingredients": [
       "搅拌器 可选",
       "白糖 可选，制作甜口",
@@ -8487,8 +8098,8 @@
       "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md"
     ]
   },
-  "鹰嘴豆炸饼的做法": {
-    "name": "鹰嘴豆炸饼的做法",
+  "鹰嘴豆炸饼": {
+    "name": "鹰嘴豆炸饼",
     "ingredients": [
       "中筋面粉",
       "印度综合香料粉Garam Masala",
@@ -8519,18 +8130,6 @@
   "麻婆豆腐": {
     "name": "麻婆豆腐",
     "ingredients": [
-      "豆腐"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1md3NzzEnF"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "麻婆豆腐的做法": {
-    "name": "麻婆豆腐的做法",
-    "ingredients": [
       "五花肉超市的肉糜也行",
       "内脂豆腐推荐清美",
       "咸鸭蛋推荐留夫鸭的，这个是灵魂",
@@ -8548,8 +8147,8 @@
       "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md"
     ]
   },
-  "麻油拌面的做法": {
-    "name": "麻油拌面的做法",
+  "麻油拌面": {
+    "name": "麻油拌面",
     "ingredients": [
       "盐",
       "老抽",
@@ -8562,8 +8161,8 @@
       "dishes/staple/麻油拌面.md"
     ]
   },
-  "麻辣减脂荞麦面的做法": {
-    "name": "麻辣减脂荞麦面的做法",
+  "麻辣减脂荞麦面": {
+    "name": "麻辣减脂荞麦面",
     "ingredients": [
       "原料",
       "洗菜盆、直径",
@@ -8574,8 +8173,8 @@
       "dishes/staple/麻辣减脂荞麦面.md"
     ]
   },
-  "麻辣香锅的做法": {
-    "name": "麻辣香锅的做法",
+  "麻辣香锅": {
+    "name": "麻辣香锅",
     "ingredients": [
       "北京麻辣方便面",
       "干豆腐",
@@ -8598,8 +8197,8 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "黄油煎虾的做法": {
-    "name": "黄油煎虾的做法",
+  "黄油煎虾": {
+    "name": "黄油煎虾",
     "ingredients": [
       "生抽",
       "白糖",
@@ -8614,8 +8213,8 @@
       "dishes/aquatic/黄油煎虾/黄油煎虾.md"
     ]
   },
-  "黄油鸡的做法": {
-    "name": "黄油鸡的做法",
+  "黄油鸡": {
+    "name": "黄油鸡",
     "ingredients": [
       "印度综合香料粉Garam Masala",
       "大蒜",
@@ -8644,8 +8243,8 @@
       "dishes/meat_dish/黄油鸡.md"
     ]
   },
-  "黄焖鸡的做法": {
-    "name": "黄焖鸡的做法",
+  "黄焖鸡": {
+    "name": "黄焖鸡",
     "ingredients": [
       "味精",
       "土豆可选",
@@ -8665,8 +8264,8 @@
       "dishes/meat_dish/黄焖鸡.md"
     ]
   },
-  "黄瓜炒肉的做法": {
-    "name": "黄瓜炒肉的做法",
+  "黄瓜炒肉": {
+    "name": "黄瓜炒肉",
     "ingredients": [
       "小米辣",
       "猪瘦肉",
@@ -8681,8 +8280,8 @@
       "dishes/meat_dish/黄瓜炒肉.md"
     ]
   },
-  "黄瓜皮蛋汤的做法": {
-    "name": "黄瓜皮蛋汤的做法",
+  "黄瓜皮蛋汤": {
+    "name": "黄瓜皮蛋汤",
     "ingredients": [
       "大蒜",
       "小葱",
@@ -8697,8 +8296,8 @@
       "dishes/soup/黄瓜皮蛋汤.md"
     ]
   },
-  "黑椒牛柳的做法": {
-    "name": "黑椒牛柳的做法",
+  "黑椒牛柳": {
+    "name": "黑椒牛柳",
     "ingredients": [
       "洋葱",
       "淀粉",
@@ -8714,8 +8313,8 @@
       "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md"
     ]
   },
-  "黔式腊肠娃娃菜的做法": {
-    "name": "黔式腊肠娃娃菜的做法",
+  "黔式腊肠娃娃菜": {
+    "name": "黔式腊肠娃娃菜",
     "ingredients": [
       "娃娃菜",
       "黔式腊肠"
@@ -8725,8 +8324,8 @@
       "dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md"
     ]
   },
-  "龟苓膏的做法": {
-    "name": "龟苓膏的做法",
+  "龟苓膏": {
+    "name": "龟苓膏",
     "ingredients": [
       "冷水",
       "小锅",
