@@ -8,7 +8,7 @@ def main():
     raw=json.loads(Path("村驴/raw.json").read_text("utf-8")); bv=[v.get("bvid") for v in raw["videos"]]
     if None in bv or len(bv)!=len(set(bv)): raise SystemExit("raw.json contains missing/duplicate bvid")
     tagged=json.loads(Path("村驴/videos.json").read_text("utf-8"))
-    unknown={x for v in tagged["videos"] for x in v.get("dish_names",[])}-set(dishes)
+    unknown={x for v in tagged["videos"] for x in v.get("菜名",[])}-set(dishes)
     if unknown: raise SystemExit("labels reference unknown dishes: "+str(unknown))
     print("validation ok")
 if __name__=="__main__": main()

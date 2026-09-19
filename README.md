@@ -5,7 +5,7 @@
 ## 数据分层
 
 - `村驴/raw.json`：爬虫原始字段的稳定归档；以 BV 号增量合并，不由标记程序改写。
-- `村驴/videos.json`：保留原始字段并增加 `labeler_version`、`dish_names`。修改规则后提升 `scripts/label.py` 的 `VERSION`，运行时会全量重标。
+- `村驴/videos.json`：保留原始字段并增加 `数据标记程序版本号`、`菜名`。修改规则后提升 `scripts/label.py` 的 `VERSION`，运行时会全量重标。
 - `base/dishes.json`：以规范菜名为 key，记录食材、特殊工具和来源路径。
 - `base/ingredients.json`：以规范食材名为 key，记录处理方法、备注和来源。
 - `base/*_alias_groups.json`：别名组；可用简洁 list，也支持 `{ "canonical": "规范名", "names": [...] }`。
@@ -26,7 +26,7 @@ python scripts/validate.py
 python -m http.server 8000
 ```
 
-访问 `http://localhost:8000/site/`。若 Bilibili 对匿名请求限流，可在仓库 Actions Secret 中配置 `BILIBILI_COOKIE`；请勿把 Cookie 写进仓库。
+访问 `http://localhost:8000/site/`。GitHub Actions 公网出口可能被 Bilibili 返回 HTTP 412；此时需在仓库 Actions Secret 中配置 `BILIBILI_COOKIE`（浏览器登录 B 站后的完整 Cookie 字符串）。请勿把 Cookie 写进仓库，失效后只更新 Secret。
 
 ## 自动化
 

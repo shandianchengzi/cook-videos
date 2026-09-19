@@ -11,8 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Assemble public site
+        run: |
+          mkdir public
+          cp site/index.html site/app.js site/style.css public/
+          mkdir -p 'public/村驴' public/base public/reference
+          cp '村驴/'*.json 'public/村驴/'
+          cp base/*.json public/base/
+          cp reference/source_manifest.json public/reference/
       - uses: actions/upload-pages-artifact@v3
-        with: {path: .}
+        with: {path: public}
       - id: deployment
         uses: actions/deploy-pages@v4
-
