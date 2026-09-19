@@ -1,16 +1,4 @@
 {
-  "2斤牛肉秒变3斤": {
-    "name": "2斤牛肉秒变3斤",
-    "ingredients": [
-      "牛肉"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1XE4m1X7yG"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "B52轰炸机": {
     "name": "B52轰炸机",
     "ingredients": [
@@ -40,6 +28,17 @@
       "dishes/drink/Mojito莫吉托.md"
     ]
   },
+  "一道菜包教包会": {
+    "name": "一道菜包教包会",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1m1421C7h7"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "上汤娃娃菜": {
     "name": "上汤娃娃菜",
     "ingredients": [
@@ -57,6 +56,17 @@
     "sources": [
       "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md"
     ]
+  },
+  "下饭神菜": {
+    "name": "下饭神菜",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1qtBBBwEYo"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "东北菜经典尖椒干豆腐": {
     "name": "东北菜经典尖椒干豆腐",
@@ -164,6 +174,19 @@
     "auto_generated": true,
     "needs_review": true
   },
+  "五花肉才叫香而不腻": {
+    "name": "五花肉才叫香而不腻",
+    "ingredients": [
+      "五花肉"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1kgKgeBEBT"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "五花肉炖豆角30多年都没吃够啊": {
     "name": "五花肉炖豆角30多年都没吃够啊",
     "ingredients": [
@@ -177,27 +200,51 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "做饭来碗清爽的东北大冷面": {
-    "name": "做饭来碗清爽的东北大冷面",
+  "保姆教程": {
+    "name": "保姆教程",
     "ingredients": [],
     "special_tools": [],
     "sources": [
-      "bilibili:BV1PnJu6JE8Z"
+      "bilibili:BV1XE4m1X7yG"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
-  "克制用油版焦香土豆丝饼": {
-    "name": "克制用油版焦香土豆丝饼",
+  "做法": {
+    "name": "做法",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV11wmLYCEqx"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
+  "做法神仙萝卜汤": {
+    "name": "做法神仙萝卜汤",
     "ingredients": [
-      "土豆"
+      "萝卜"
     ],
     "special_tools": [],
     "sources": [
-      "bilibili:BV1hn9sBWEre"
+      "bilibili:BV1hFSHBiES7"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
+  "关东煮配方在此": {
+    "name": "关东煮配方在此",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1UWy9BrE1q"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "冬日懒人神菜蒜蓉粉丝虾滑煲": {
     "name": "冬日懒人神菜蒜蓉粉丝虾滑煲",
@@ -259,6 +306,17 @@
     "sources": [
       "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md"
     ]
+  },
+  "冰淇淋做法空气口感完全不腻": {
+    "name": "冰淇淋做法空气口感完全不腻",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1uS411N7WP"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "冰粉": {
     "name": "冰粉",
@@ -503,6 +561,17 @@
       "dishes/staple/利提巧卡.md"
     ]
   },
+  "制作以及详细手法": {
+    "name": "制作以及详细手法",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1rbsoe2EPZ"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "勾芡香菇汤": {
     "name": "勾芡香菇汤",
     "ingredients": [
@@ -578,6 +647,17 @@
     "sources": [
       "dishes/meat_dish/红烧肉/南派红烧肉.md"
     ]
+  },
+  "卤肉和白吉馍做法定让你惊艳全家": {
+    "name": "卤肉和白吉馍做法定让你惊艳全家",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1wS421o78N"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "卤肉饭": {
     "name": "卤肉饭",
@@ -734,18 +814,16 @@
       "dishes/vegetable_dish/印度葫芦丸子.md"
     ]
   },
-  "又脆又嫩又多汁的空气炸锅烤西葫芦": {
-    "name": "又脆又嫩又多汁的空气炸锅烤西葫芦",
-    "ingredients": [
-      "空气炸锅",
-      "西葫芦"
-    ],
+  "原汁原味": {
+    "name": "原汁原味",
+    "ingredients": [],
     "special_tools": [],
     "sources": [
-      "bilibili:BV1WwL76fEqP"
+      "bilibili:BV1a64ge6Ea7"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "反沙芋头": {
     "name": "反沙芋头",
@@ -768,7 +846,8 @@
       "bilibili:BV1GNTZzDEUp"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "口口爆汁爆汁牛肉大蒸饺": {
     "name": "口口爆汁爆汁牛肉大蒸饺",
@@ -920,6 +999,41 @@
     "sources": [
       "dishes/breakfast/吐司果酱.md"
     ]
+  },
+  "告诉您保姆级包会教程": {
+    "name": "告诉您保姆级包会教程",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV16y411z7Sm"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
+  "味道": {
+    "name": "味道",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1tWPnzwE7u"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
+  "味道蒜苔炒肉丝的神仙做法": {
+    "name": "味道蒜苔炒肉丝的神仙做法",
+    "ingredients": [
+      "蒜苔"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1WLxUzoEos"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "咕噜肉": {
     "name": "咕噜肉",
@@ -1116,7 +1230,8 @@
       "bilibili:BV1E8jF66Eec"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "土豆炖排骨": {
     "name": "土豆炖排骨",
@@ -1168,15 +1283,18 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "在家做出一碗店里味道的油泼面": {
-    "name": "在家做出一碗店里味道的油泼面",
-    "ingredients": [],
+  "土豆脊骨汤": {
+    "name": "土豆脊骨汤",
+    "ingredients": [
+      "土豆"
+    ],
     "special_tools": [],
     "sources": [
-      "bilibili:BV1DZ421N7cK"
+      "bilibili:BV12oW4zaE8m"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "地三鲜": {
     "name": "地三鲜",
@@ -1251,16 +1369,6 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "外脆里弹的黄金虾饼": {
-    "name": "外脆里弹的黄金虾饼",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1NT421r7EK"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "外酥里嫩海鲜泡菜饼": {
     "name": "外酥里嫩海鲜泡菜饼",
     "ingredients": [],
@@ -1283,6 +1391,28 @@
     "auto_generated": true,
     "needs_review": true
   },
+  "大厨味道你也可以": {
+    "name": "大厨味道你也可以",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1nbPUzaExp"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
+  "大肉丸子": {
+    "name": "大肉丸子",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV16qkNBDEKB"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "大菜蒜爆鱼": {
     "name": "大菜蒜爆鱼",
     "ingredients": [],
@@ -1293,19 +1423,16 @@
     "auto_generated": true,
     "needs_review": true
   },
-  "大道至简西红柿土豆炖牛腩": {
-    "name": "大道至简西红柿土豆炖牛腩",
-    "ingredients": [
-      "土豆",
-      "牛腩",
-      "西红柿"
-    ],
+  "天气想吃麻辣烫还是在家舒服啊": {
+    "name": "天气想吃麻辣烫还是在家舒服啊",
+    "ingredients": [],
     "special_tools": [],
     "sources": [
-      "bilibili:BV11x4y147dD"
+      "bilibili:BV1XTGF6DEKp"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "太阳蛋": {
     "name": "太阳蛋",
@@ -1414,6 +1541,17 @@
     "sources": [
       "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md"
     ]
+  },
+  "妙招": {
+    "name": "妙招",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV14ptyzWEMP"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "始手把手教你做临沂炒鸡": {
     "name": "始手把手教你做临沂炒鸡",
@@ -1583,6 +1721,17 @@
     "auto_generated": true,
     "needs_review": true
   },
+  "小技巧": {
+    "name": "小技巧",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1AXpLeAE5p"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "小炒牛肉": {
     "name": "小炒牛肉",
     "ingredients": [
@@ -1660,6 +1809,17 @@
       "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md"
     ]
   },
+  "小疙瘩做法汤底水的比例": {
+    "name": "小疙瘩做法汤底水的比例",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV114421f7zv"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "小米粥": {
     "name": "小米粥",
     "ingredients": [
@@ -1691,6 +1851,17 @@
       "dishes/meat_dish/小米辣炒肉.md"
     ]
   },
+  "小软刺": {
+    "name": "小软刺",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1qU411U7tb"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "小酥肉": {
     "name": "小酥肉",
     "ingredients": [
@@ -1715,19 +1886,6 @@
     "sources": [
       "dishes/meat_dish/小酥肉.md"
     ]
-  },
-  "小鸡炖土豆农村大铁锅味道": {
-    "name": "小鸡炖土豆农村大铁锅味道",
-    "ingredients": [
-      "土豆",
-      "铁锅"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1RT9YYREx7"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "小龙虾": {
     "name": "小龙虾",
@@ -1884,6 +2042,17 @@
       "dishes/meat_dish/带把肘子.md"
     ]
   },
+  "干拌麻辣烫": {
+    "name": "干拌麻辣烫",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1WEq3B8Ejj"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "干煎阿根廷红虾": {
     "name": "干煎阿根廷红虾",
     "ingredients": [
@@ -1965,6 +2134,17 @@
     "sources": [
       "dishes/vegetable_dish/干锅花菜/干锅花菜.md"
     ]
+  },
+  "年夜大菜": {
+    "name": "年夜大菜",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1xYiLBkELr"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "年夜大菜东坡肉": {
     "name": "年夜大菜东坡肉",
@@ -2197,7 +2377,8 @@
       "bilibili:BV1iqJu6qEac"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "懒人版酱黄瓜": {
     "name": "懒人版酱黄瓜",
@@ -2305,18 +2486,6 @@
       "dishes/vegetable_dish/手撕包菜/手撕包菜.md"
     ]
   },
-  "手撕牛肉干": {
-    "name": "手撕牛肉干",
-    "ingredients": [
-      "牛肉"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1rw4m1a7G3"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "打卤面中的经典三鲜打卤面": {
     "name": "打卤面中的经典三鲜打卤面",
     "ingredients": [],
@@ -2345,6 +2514,19 @@
     "sources": [
       "dishes/staple/扬州炒饭/扬州炒饭.md"
     ]
+  },
+  "技巧抹臭豆腐": {
+    "name": "技巧抹臭豆腐",
+    "ingredients": [
+      "豆腐"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1TE4m1d7M3"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "把豆腐做的比肉香家常豆腐": {
     "name": "把豆腐做的比肉香家常豆腐",
@@ -2404,6 +2586,17 @@
       "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md"
     ]
   },
+  "拿手菜试一次你会回来感谢我": {
+    "name": "拿手菜试一次你会回来感谢我",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV11x4y147dD"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "排骨山药玉米汤": {
     "name": "排骨山药玉米汤",
     "ingredients": [
@@ -2454,12 +2647,10 @@
       "dishes/dessert/提拉米苏/提拉米苏.md"
     ]
   },
-  "擂辣椒烧排骨再来两碗大米饭": {
-    "name": "擂辣椒烧排骨再来两碗大米饭",
+  "擂辣椒烧排骨": {
+    "name": "擂辣椒烧排骨",
     "ingredients": [
-      "大米",
       "排骨",
-      "米饭",
       "辣椒"
     ],
     "special_tools": [],
@@ -2467,7 +2658,8 @@
       "bilibili:BV1HWoGByEbe"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "新疆大盘鸡": {
     "name": "新疆大盘鸡",
@@ -2499,31 +2691,6 @@
     "sources": [
       "dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md"
     ]
-  },
-  "无水炖牛肉": {
-    "name": "无水炖牛肉",
-    "ingredients": [
-      "牛肉"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1a64ge6Ea7"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "无芝麻酱版酸辣鸡丝凉面": {
-    "name": "无芝麻酱版酸辣鸡丝凉面",
-    "ingredients": [
-      "芝麻",
-      "芝麻酱"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV12y411q7aj"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "无骨鸡爪": {
     "name": "无骨鸡爪",
@@ -2673,6 +2840,19 @@
     ],
     "auto_generated": true,
     "needs_review": true
+  },
+  "果香配上酥脆的排骨": {
+    "name": "果香配上酥脆的排骨",
+    "ingredients": [
+      "排骨"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV127gb6SEwc"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "枝竹羊腩煲": {
     "name": "枝竹羊腩煲",
@@ -2874,18 +3054,6 @@
       "dishes/vegetable_dish/水油焖蔬菜.md"
     ]
   },
-  "水煎五花肉": {
-    "name": "水煎五花肉",
-    "ingredients": [
-      "五花肉"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1af7q6uESH"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "水煮牛肉": {
     "name": "水煮牛肉",
     "ingredients": [
@@ -3047,6 +3215,17 @@
       "dishes/condiment/油泼辣子/油泼辣子.md"
     ]
   },
+  "油炸糕": {
+    "name": "油炸糕",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1RPiaBiEp8"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "油焖大虾": {
     "name": "油焖大虾",
     "ingredients": [
@@ -3088,6 +3267,19 @@
     "sources": [
       "dishes/vegetable_dish/油醋爆蛋.md"
     ]
+  },
+  "泡椒凤爪": {
+    "name": "泡椒凤爪",
+    "ingredients": [
+      "泡椒"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1Z1421k7wP"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "泰国手标红茶": {
     "name": "泰国手标红茶",
@@ -3168,18 +3360,6 @@
     "sources": [
       "dishes/drink/海边落日/海边落日.md"
     ]
-  },
-  "海鲜嫩豆腐汤": {
-    "name": "海鲜嫩豆腐汤",
-    "ingredients": [
-      "豆腐"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV17CynYgESH"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "海鲜砂锅粥": {
     "name": "海鲜砂锅粥",
@@ -3292,19 +3472,6 @@
     "sources": [
       "dishes/breakfast/温泉蛋/温泉蛋.md"
     ]
-  },
-  "港式萝卜牛肉煲": {
-    "name": "港式萝卜牛肉煲",
-    "ingredients": [
-      "牛肉",
-      "萝卜"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV14A2RYpEEA"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "湖南家常红烧肉": {
     "name": "湖南家常红烧肉",
@@ -3447,6 +3614,19 @@
     ],
     "auto_generated": true,
     "needs_review": true
+  },
+  "火辣鸡爪": {
+    "name": "火辣鸡爪",
+    "ingredients": [
+      "鸡爪"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1u1421C7xZ"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "炒凉粉": {
     "name": "炒凉粉",
@@ -3742,18 +3922,6 @@
       "dishes/meat_dish/烤鸡翅.md"
     ]
   },
-  "烧烤味炒蘑菇": {
-    "name": "烧烤味炒蘑菇",
-    "ingredients": [
-      "蘑菇"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1Zwf9BoEEg"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "烧烤店每桌必点的拍黄瓜": {
     "name": "烧烤店每桌必点的拍黄瓜",
     "ingredients": [
@@ -3848,6 +4016,17 @@
       "dishes/staple/照烧鸡腿饭.md"
     ]
   },
+  "煮法保姆级教程包教包会": {
+    "name": "煮法保姆级教程包教包会",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV12y411q7aj"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "煮泡面加蛋": {
     "name": "煮泡面加蛋",
     "ingredients": [
@@ -3882,6 +4061,17 @@
     "auto_generated": true,
     "needs_review": true
   },
+  "熏鱼": {
+    "name": "熏鱼",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1nGFVzQEHi"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "燕麦鸡蛋饼": {
     "name": "燕麦鸡蛋饼",
     "ingredients": [
@@ -3905,7 +4095,8 @@
       "bilibili:BV1TKUoBxELf"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "牛奶燕麦": {
     "name": "牛奶燕麦",
@@ -4091,16 +4282,6 @@
       "dishes/dessert/玛格丽特饼干/玛格丽特饼干.md"
     ]
   },
-  "珍珠疙瘩汤": {
-    "name": "珍珠疙瘩汤",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV114421f7zv"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "甜辣烤全翅": {
     "name": "甜辣烤全翅",
     "ingredients": [
@@ -4213,18 +4394,6 @@
       "dishes/staple/米饭/电饭煲蒸米饭.md"
     ]
   },
-  "番茄滑肉滑肉又嫩又滑的妙招": {
-    "name": "番茄滑肉滑肉又嫩又滑的妙招",
-    "ingredients": [
-      "番茄"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1Lm8LzhEm8"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "番茄牛肉蛋花汤": {
     "name": "番茄牛肉蛋花汤",
     "ingredients": [
@@ -4260,6 +4429,17 @@
     "sources": [
       "dishes/meat_dish/番茄红酱.md"
     ]
+  },
+  "疑问定量保姆级教程": {
+    "name": "疑问定量保姆级教程",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1ryHUeXEtg"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "瘦肉土豆片": {
     "name": "瘦肉土豆片",
@@ -4403,17 +4583,27 @@
       "dishes/vegetable_dish/皮蛋豆腐.md"
     ]
   },
-  "省油版泡菜臭豆腐": {
-    "name": "省油版泡菜臭豆腐",
-    "ingredients": [
-      "豆腐"
-    ],
+  "看过来": {
+    "name": "看过来",
+    "ingredients": [],
     "special_tools": [],
     "sources": [
-      "bilibili:BV11wmLYCEqx"
+      "bilibili:BV1jH2hBaE1J"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
+  "看这里": {
+    "name": "看这里",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1NT421r7EK"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "真正的神仙拌面炸串拌面": {
     "name": "真正的神仙拌面炸串拌面",
@@ -4421,16 +4611,6 @@
     "special_tools": [],
     "sources": [
       "bilibili:BV1Ny411q7fZ"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
-  "真正能还原便利店味道的关东煮": {
-    "name": "真正能还原便利店味道的关东煮",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1UWy9BrE1q"
     ],
     "auto_generated": true,
     "needs_review": true
@@ -4468,42 +4648,27 @@
       "dishes/template/示例菜/示例菜.md"
     ]
   },
-  "空气炸锅大辣片肉一样的口感": {
-    "name": "空气炸锅大辣片肉一样的口感",
-    "ingredients": [
-      "空气炸锅"
-    ],
+  "神仙吃法": {
+    "name": "神仙吃法",
+    "ingredients": [],
     "special_tools": [],
     "sources": [
-      "bilibili:BV1BULi6gEra"
+      "bilibili:BV1dfkoBxEnB"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
-  "空气炸锅小烧烤在家实现烧烤自由": {
-    "name": "空气炸锅小烧烤在家实现烧烤自由",
-    "ingredients": [
-      "空气炸锅"
-    ],
+  "神仙美味": {
+    "name": "神仙美味",
+    "ingredients": [],
     "special_tools": [],
     "sources": [
-      "bilibili:BV1MCRDBtEMn"
+      "bilibili:BV1fd2EYgESd"
     ],
     "auto_generated": true,
-    "needs_review": true
-  },
-  "空气炸锅烤鸡爪软烂入味一抿脱骨": {
-    "name": "空气炸锅烤鸡爪软烂入味一抿脱骨",
-    "ingredients": [
-      "空气炸锅",
-      "鸡爪"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1nWdBB2Eep"
-    ],
-    "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "空气炸锅照烧鸡饭": {
     "name": "空气炸锅照烧鸡饭",
@@ -4549,18 +4714,6 @@
     "sources": [
       "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
     ]
-  },
-  "空气炸锅解馋小零食又": {
-    "name": "空气炸锅解馋小零食又",
-    "ingredients": [
-      "空气炸锅"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1M1r1ByE68"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "空气炸锅面包片": {
     "name": "空气炸锅面包片",
@@ -5180,18 +5333,6 @@
       "dishes/staple/老干妈拌面.md"
     ]
   },
-  "老式东北烧茄子": {
-    "name": "老式东北烧茄子",
-    "ingredients": [
-      "茄子"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1n1aCzWEWb"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "老式锅包肉": {
     "name": "老式锅包肉",
     "ingredients": [
@@ -5216,6 +5357,17 @@
     "sources": [
       "dishes/meat_dish/老式锅包肉/老式锅包肉.md"
     ]
+  },
+  "老醋蛰头这么做": {
+    "name": "老醋蛰头这么做",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1RxNWznEgp"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "耙耙柑茶": {
     "name": "耙耙柑茶",
@@ -5242,7 +5394,8 @@
       "bilibili:BV1eaxcz6E6H"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "肉蛋盖饭": {
     "name": "肉蛋盖饭",
@@ -5324,6 +5477,19 @@
       "dishes/meat_dish/肉饼炖蛋.md"
     ]
   },
+  "肉馅做法保姆级教程来了": {
+    "name": "肉馅做法保姆级教程来了",
+    "ingredients": [
+      "肉馅"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1dbD4YvE1M"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "胡萝卜甜糕": {
     "name": "胡萝卜甜糕",
     "ingredients": [
@@ -5342,6 +5508,17 @@
     "sources": [
       "dishes/dessert/胡萝卜甜糕.md"
     ]
+  },
+  "脆嫩口感": {
+    "name": "脆嫩口感",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1ERUrBqE93"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "脆皮炸鸡": {
     "name": "脆皮炸鸡",
@@ -5362,6 +5539,17 @@
     ],
     "auto_generated": true,
     "needs_review": true
+  },
+  "脆皮肠": {
+    "name": "脆皮肠",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1tw4m1q7Zo"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "脆皮豆腐": {
     "name": "脆皮豆腐",
@@ -5428,18 +5616,6 @@
     "sources": [
       "dishes/meat_dish/腐乳肉.md"
     ]
-  },
-  "自律期也能猛炫的凉拌茄子": {
-    "name": "自律期也能猛炫的凉拌茄子",
-    "ingredients": [
-      "茄子"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1rZoaYkEGa"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "自律期重口味美食干拌牛肉麻辣过瘾": {
     "name": "自律期重口味美食干拌牛肉麻辣过瘾",
@@ -5585,6 +5761,19 @@
     "sources": [
       "dishes/dessert/英式司康/英式司康.md"
     ]
+  },
+  "茄子": {
+    "name": "茄子",
+    "ingredients": [
+      "茄子"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1n1aCzWEWb"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "茄子炖土豆": {
     "name": "茄子炖土豆",
@@ -5820,6 +6009,19 @@
       "dishes/meat_dish/萝卜炖羊排.md"
     ]
   },
+  "萝卜还好吃": {
+    "name": "萝卜还好吃",
+    "ingredients": [
+      "萝卜"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV14A2RYpEEA"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "葱油": {
     "name": "葱油",
     "ingredients": [
@@ -5901,18 +6103,6 @@
       "dishes/aquatic/葱烧海参/葱烧海参.md"
     ]
   },
-  "葱烧豆腐": {
-    "name": "葱烧豆腐",
-    "ingredients": [
-      "豆腐"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1fd2EYgESd"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "葱烧鸡腿": {
     "name": "葱烧鸡腿",
     "ingredients": [
@@ -5992,19 +6182,6 @@
     "sources": [
       "dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md"
     ]
-  },
-  "蒜蓉粉丝开背虾": {
-    "name": "蒜蓉粉丝开背虾",
-    "ingredients": [
-      "粉丝",
-      "蒜蓉"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV111sqePExh"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "蒜蓉粉丝蒸生蚝": {
     "name": "蒜蓉粉丝蒸生蚝",
@@ -6125,16 +6302,6 @@
       "dishes/staple/蒸卤面.md"
     ]
   },
-  "蒸咸菜": {
-    "name": "蒸咸菜",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1EemAYPE29"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "蒸水蛋": {
     "name": "蒸水蛋",
     "ingredients": [
@@ -6186,18 +6353,16 @@
       "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md"
     ]
   },
-  "蘸上陈醋麻油加上米线汤": {
-    "name": "蘸上陈醋麻油加上米线汤",
-    "ingredients": [
-      "陈醋",
-      "麻油"
-    ],
+  "薯骨鸡翅": {
+    "name": "薯骨鸡翅",
+    "ingredients": [],
     "special_tools": [],
     "sources": [
-      "bilibili:BV1XRonBsERi"
+      "bilibili:BV1YWuY6MEGp"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "虎皮肘子": {
     "name": "虎皮肘子",
@@ -6668,18 +6833,6 @@
       "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
     ]
   },
-  "越啃越酸爽越吃越上头的泡椒凤爪": {
-    "name": "越啃越酸爽越吃越上头的泡椒凤爪",
-    "ingredients": [
-      "泡椒"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1Z1421k7wP"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "软炸蘑菇吃起来像鸡肉一样": {
     "name": "软炸蘑菇吃起来像鸡肉一样",
     "ingredients": [
@@ -6733,6 +6886,20 @@
       "dishes/meat_dish/辣椒炒肉.md"
     ]
   },
+  "辣椒炒豆角做法在此": {
+    "name": "辣椒炒豆角做法在此",
+    "ingredients": [
+      "豆角",
+      "辣椒"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1er421M7YG"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "过油肉拌面": {
     "name": "过油肉拌面",
     "ingredients": [],
@@ -6742,6 +6909,17 @@
     ],
     "auto_generated": true,
     "needs_review": true
+  },
+  "还要好吃": {
+    "name": "还要好吃",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1rw4m1a7G3"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "速冻水饺": {
     "name": "速冻水饺",
@@ -6878,7 +7056,8 @@
       "bilibili:BV1RBTh6AEyg"
     ],
     "auto_generated": true,
-    "needs_review": true
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "酱牛肉": {
     "name": "酱牛肉",
@@ -6946,16 +7125,6 @@
       "dishes/drink/酸梅汤（半成品加工）.md"
     ]
   },
-  "酸甜爽口东北大冷面": {
-    "name": "酸甜爽口东北大冷面",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1gqTf6BEC5"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "酸辣土豆丝": {
     "name": "酸辣土豆丝",
     "ingredients": [
@@ -6973,18 +7142,6 @@
     "sources": [
       "dishes/vegetable_dish/酸辣土豆丝.md"
     ]
-  },
-  "酸辣开胃的辣白菜嫩豆汤": {
-    "name": "酸辣开胃的辣白菜嫩豆汤",
-    "ingredients": [
-      "白菜"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1tWPnzwE7u"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "酸辣萝卜泡菜": {
     "name": "酸辣萝卜泡菜",
@@ -7049,6 +7206,17 @@
     "auto_generated": true,
     "needs_review": true
   },
+  "醋蒸鸡教程来了": {
+    "name": "醋蒸鸡教程来了",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1N7Mx6KEnX"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
   "醪糟小汤圆": {
     "name": "醪糟小汤圆",
     "ingredients": [
@@ -7061,6 +7229,17 @@
     "sources": [
       "dishes/staple/醪糟小汤圆.md"
     ]
+  },
+  "里脊炸串": {
+    "name": "里脊炸串",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1TQ7S6YET5"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "金枪鱼酱三明治": {
     "name": "金枪鱼酱三明治",
@@ -7156,6 +7335,33 @@
     "sources": [
       "dishes/vegetable_dish/金钱蛋.md"
     ]
+  },
+  "金银蒜蓉一并分享给大家": {
+    "name": "金银蒜蓉一并分享给大家",
+    "ingredients": [
+      "蒜蓉"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV111sqePExh"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
+  },
+  "钱在家能做一大锅花甲粉丝煲": {
+    "name": "钱在家能做一大锅花甲粉丝煲",
+    "ingredients": [
+      "大锅",
+      "粉丝"
+    ],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1P5R9YvE7W"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "铁板鱿鱼": {
     "name": "铁板鱿鱼",
@@ -7450,18 +7656,6 @@
       "dishes/staple/韭菜盒子.md"
     ]
   },
-  "风味茄子": {
-    "name": "风味茄子",
-    "ingredients": [
-      "茄子"
-    ],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1ryHUeXEtg"
-    ],
-    "auto_generated": true,
-    "needs_review": true
-  },
   "香巨简单皮蛋擂椒茄子拌面": {
     "name": "香巨简单皮蛋擂椒茄子拌面",
     "ingredients": [
@@ -7511,6 +7705,17 @@
     "sources": [
       "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md"
     ]
+  },
+  "香料满屋飘香": {
+    "name": "香料满屋飘香",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1BH5P6yENz"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "香煎五花肉": {
     "name": "香煎五花肉",
@@ -7604,6 +7809,17 @@
     ],
     "auto_generated": true,
     "needs_review": true
+  },
+  "魅力": {
+    "name": "魅力",
+    "ingredients": [],
+    "special_tools": [],
+    "sources": [
+      "bilibili:BV1EemAYPE29"
+    ],
+    "auto_generated": true,
+    "needs_review": true,
+    "recognition_rule": "的xxx‼️"
   },
   "魔芋蛋糕": {
     "name": "魔芋蛋糕",
@@ -7944,16 +8160,6 @@
     "sources": [
       "dishes/meat_dish/麻辣香锅.md"
     ]
-  },
-  "麻酱拌冷面": {
-    "name": "麻酱拌冷面",
-    "ingredients": [],
-    "special_tools": [],
-    "sources": [
-      "bilibili:BV1T9Mx6rEiA"
-    ],
-    "auto_generated": true,
-    "needs_review": true
   },
   "黄油煎虾": {
     "name": "黄油煎虾",

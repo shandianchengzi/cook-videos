@@ -5,7 +5,7 @@
     "mid": 417298480,
     "name": "村驴"
   },
-  "crawled_at": "2026-09-19T19:40:37.470639+00:00",
+  "crawled_at": "2026-09-19T20:10:46.546914+00:00",
   "videos": [
     {
       "aid": 117296479605970,
@@ -164,59 +164,6 @@
       "dynamic": ""
     },
     {
-      "aid": 117199138199448,
-      "bvid": "BV1xktE6eE3u",
-      "title": "【广：野苏子酱搭配清炖牛肋条，人间美味！】",
-      "description": "-",
-      "cover_url": "http://i2.hdslb.com/bfs/archive/46bfb2ce13bc2a0e7a35b5a6483af1c43f66209f.jpg",
-      "duration": 159,
-      "published_at": 1788317327,
-      "created_at": 1788317327,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 117199138199448,
-        "view": 321768,
-        "danmaku": 74,
-        "reply": 476,
-        "favorite": 3476,
-        "coin": 565,
-        "share": 730,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 20064,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 41509585140,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：野苏子酱搭配清炖牛肋条，人间美味！】",
-          "duration": 159,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000182wbaba8c5092opogzzp65t0sb_firsti.jpg",
-          "ctime": 1788317327,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 117164795236434,
       "bvid": "BV1EShc62EYx",
       "title": "【媲美饭店的啤酒鸭保姆级教程‼️ 】",
@@ -324,59 +271,6 @@
       "dynamic": ""
     },
     {
-      "aid": 117130720710967,
-      "bvid": "BV1XA8T6EECb",
-      "title": "【广：久等了，我亲爱的朋友们！辣椒油来了‼️】",
-      "description": "-",
-      "cover_url": "http://i0.hdslb.com/bfs/archive/e2819fc3ef0b8a577a2abb080b55e6301abb2d5c.jpg",
-      "duration": 171,
-      "published_at": 1787273200,
-      "created_at": 1787273200,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 117130720710967,
-        "view": 325554,
-        "danmaku": 108,
-        "reply": 2309,
-        "favorite": 1844,
-        "coin": 1078,
-        "share": 398,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 21111,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 41112766091,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：久等了，我亲爱的朋友们！辣椒油来了‼️】",
-          "duration": 171,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002qt9x6hl1udqh231zwjsanjsacb_firsti.jpg",
-          "ctime": 1787273200,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 117125050081069,
       "bvid": "BV1FVbf66EGd",
       "title": "【一定要去试试这个一夜渍小黄瓜，好吃到流泪‼️】",
@@ -421,59 +315,6 @@
           },
           "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000y3gzozlog72w2bloz877vlwnkb_firsti.jpg",
           "ctime": 1787186621,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 117102518212010,
-      "bvid": "BV1vTbD6rEUX",
-      "title": "【广：麻辣烫配方调整了哦】",
-      "description": "-",
-      "cover_url": "http://i2.hdslb.com/bfs/archive/1eb2082d86deb9d01976523f497e1835ed3849cb.jpg",
-      "duration": 103,
-      "published_at": 1786842865,
-      "created_at": 1786842865,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 117102518212010,
-        "view": 245094,
-        "danmaku": 78,
-        "reply": 1368,
-        "favorite": 1046,
-        "coin": 653,
-        "share": 524,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 12572,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 40951877518,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：麻辣烫配方调整了哦】",
-          "duration": 103,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001bupfkeei1kco2qhxbrunh7kzsb_firsti.jpg",
-          "ctime": 1786842865,
           "asr_language": "cmn"
         }
       ],
@@ -536,58 +377,6 @@
       "dynamic": ""
     },
     {
-      "aid": 117085556448768,
-      "bvid": "BV1qBgJ65ELN",
-      "title": "【广：真正的传统工艺粉条！附全面检测报告】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/d0fb69c8a7711a63d9e4cc0edff26a1a83e2b516.jpg",
-      "duration": 229,
-      "published_at": 1786583948,
-      "created_at": 1786583948,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 117085556448768,
-        "view": 233660,
-        "danmaku": 165,
-        "reply": 717,
-        "favorite": 514,
-        "coin": 356,
-        "share": 89,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 16160,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 40859012721,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：真正的传统工艺粉条！附全面检测报告】",
-          "duration": 229,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_000031vfprqqajmhh2h0aznoqyrm2bb_firsti.jpg",
-          "ctime": 1786583948
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 117074114383973,
       "bvid": "BV1YWuY6MEGp",
       "title": "【不吐骨头的薯骨鸡翅‼️全家都吃嗨了‼️】",
@@ -632,59 +421,6 @@
           },
           "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000igtzzx6tsm1m2vwmckemdjlcjb_firsti.jpg",
           "ctime": 1786409492,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 117046046103164,
-      "bvid": "BV1D8MS65Euf",
-      "title": "【广：夏天就指这一碗酸甜冰爽的东北大冷面续命了】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/1f03cbf747355bd36f48dece363fb26e1a465dfc.jpg",
-      "duration": 71,
-      "published_at": 1785981163,
-      "created_at": 1785981164,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 117046046103164,
-        "view": 304376,
-        "danmaku": 74,
-        "reply": 449,
-        "favorite": 2593,
-        "coin": 246,
-        "share": 680,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 17361,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 40639136906,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：夏天就指这一碗酸甜冰爽的东北大冷面续命了】",
-          "duration": 71,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003vu57if5k5qco2wn28rukd7yekb_firsti.jpg",
-          "ctime": 1785981164,
           "asr_language": "cmn"
         }
       ],
@@ -959,59 +695,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116916005966081,
-      "bvid": "BV188NQ6GEir",
-      "title": "【广：夏天在家煮一锅麻辣烫，吹着风扇追个剧‼️】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/e96d1d8911d2aba5344fa5789dcf2afd0f97074a.jpg",
-      "duration": 73,
-      "published_at": 1783996735,
-      "created_at": 1783996735,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116916005966081,
-        "view": 706712,
-        "danmaku": 76,
-        "reply": 706,
-        "favorite": 6573,
-        "coin": 467,
-        "share": 1328,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 40887,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 39929054838,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：夏天在家煮一锅麻辣烫，吹着风扇追个剧‼️】",
-          "duration": 73,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000018mmg8vf2hj5q2lrchv1di543yb_firsti.jpg",
-          "ctime": 1783996735,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116876327786324,
       "bvid": "BV1N7Mx6KEnX",
       "title": "谁说一定要重油重盐‼️惊艳味蕾的醋蒸鸡教程来了‼️",
@@ -1065,59 +748,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116876193634134,
-      "bvid": "BV1T9Mx6rEiA",
-      "title": "【广：太好吃了‼️适合夏天的麻酱拌冷面‼️】",
-      "description": "-",
-      "cover_url": "http://i2.hdslb.com/bfs/archive/523347322c7bbc3e85874269be2851bb46be4f50.jpg",
-      "duration": 88,
-      "published_at": 1783389349,
-      "created_at": 1783389350,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116876193634134,
-        "view": 314532,
-        "danmaku": 60,
-        "reply": 268,
-        "favorite": 3698,
-        "coin": 200,
-        "share": 862,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 16146,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 39718160836,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：太好吃了‼️适合夏天的麻酱拌冷面‼️】",
-          "duration": 88,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000035wa37rmxuv2e2th8juiva49khb_firsti.jpg",
-          "ctime": 1783389350,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116859080807820,
       "bvid": "BV1kGTf69EyH",
       "title": "海鲜粉丝煲‼️这味道可以确实可以开饭店了‼️",
@@ -1162,59 +792,6 @@
           },
           "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002nbp92nqokjg221btqb6prt42nb_firsti.jpg",
           "ctime": 1783128393,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 116858812505657,
-      "bvid": "BV1gqTf6BEC5",
-      "title": "【广：夏日美食 酸甜爽口东北大冷面】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/1961763cb8e7075276a27ba9f004c1acba8a87dc.jpg",
-      "duration": 90,
-      "published_at": 1783124171,
-      "created_at": 1783124171,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116858812505657,
-        "view": 514000,
-        "danmaku": 64,
-        "reply": 435,
-        "favorite": 5168,
-        "coin": 342,
-        "share": 1039,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 30186,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 39633948641,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：夏日美食 酸甜爽口东北大冷面】",
-          "duration": 90,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002duqu1fel5jnh2az1euqq1amkvb_firsti.jpg",
-          "ctime": 1783124171,
           "asr_language": "cmn"
         }
       ],
@@ -1330,59 +907,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116813799103058,
-      "bvid": "BV1af7q6uESH",
-      "title": "【广：一股烧烤味‼️超简单的水煎五花肉‼️】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/4aeb9fcd3bedf7d5c1be34edf4f05fd80cde8cfb.jpg",
-      "duration": 125,
-      "published_at": 1782437374,
-      "created_at": 1782437375,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116813799103058,
-        "view": 1637971,
-        "danmaku": 312,
-        "reply": 1485,
-        "favorite": 54329,
-        "coin": 4790,
-        "share": 6799,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 119388,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 39412240080,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：一股烧烤味‼️超简单的水煎五花肉‼️】",
-          "duration": 125,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00001hrge7wk972ju2tdqi722do6n4b_firsti.jpg",
-          "ctime": 1782437375,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116808078071540,
       "bvid": "BV15J786XEDH",
       "title": "【饭店级别的白灼菜心 厨房小白变大厨就从这道菜开始吧】",
@@ -1436,59 +960,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116802340262252,
-      "bvid": "BV1Z2jQ6SETD",
-      "title": "【广：浓郁的麻酱混着辣椒油的香味，麻酱拌冷面太适合夏天了！】",
-      "description": "-",
-      "cover_url": "http://i0.hdslb.com/bfs/archive/932edb4f14932717b26bf63b18c9d6c647a78e3f.jpg",
-      "duration": 79,
-      "published_at": 1782262518,
-      "created_at": 1782262518,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116802340262252,
-        "view": 135718,
-        "danmaku": 42,
-        "reply": 302,
-        "favorite": 1162,
-        "coin": 119,
-        "share": 389,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 7401,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 39354761240,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：浓郁的麻酱混着辣椒油的香味，麻酱拌冷面太适合夏天了！】",
-          "duration": 79,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003vtux5ci6nvs629nbaqqsve988b_firsti.jpg",
-          "ctime": 1782262518,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116786569681668,
       "bvid": "BV1NCjx6oEhT",
       "title": "【鸡蛋烧豆腐‼️怎么能这么好吃‼️】",
@@ -1533,59 +1004,6 @@
           },
           "first_frame": "http://i0.hdslb.com/bfs/storyff/_000026bh252iys1ph2p35ki5s1ul2jb_firsti.jpg",
           "ctime": 1782021817,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 116774137830039,
-      "bvid": "BV1A1jv67EnS",
-      "title": "【广：10分钟搞定，辣椒圈拌面】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/0890260806e98d0f4bbf0df2962b39b5b06799e3.jpg",
-      "duration": 135,
-      "published_at": 1781832202,
-      "created_at": 1781832202,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116774137830039,
-        "view": 221360,
-        "danmaku": 89,
-        "reply": 212,
-        "favorite": 7794,
-        "coin": 682,
-        "share": 945,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 16611,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 39229000859,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：10分钟搞定，辣椒圈拌面】",
-          "duration": 135,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002mpntd71qgaky2rb0m36o28r9kb_firsti.jpg",
-          "ctime": 1781832202,
           "asr_language": "cmn"
         }
       ],
@@ -1692,59 +1110,6 @@
           },
           "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003mcwgjkdeo2hr2io7p5v9nil8db_firsti.jpg",
           "ctime": 1781488128,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 116751505365673,
-      "bvid": "BV1PnJu6JE8Z",
-      "title": "【广：天热不爱做饭，来碗清爽的东北大冷面‼️ 】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/5454e114e4a2d6a761ba1b3944c0272398c392fc.jpg",
-      "duration": 85,
-      "published_at": 1781486816,
-      "created_at": 1781486816,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116751505365673,
-        "view": 164581,
-        "danmaku": 35,
-        "reply": 234,
-        "favorite": 2056,
-        "coin": 146,
-        "share": 698,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 9974,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 39125453051,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：天热不爱做饭，来碗清爽的东北大冷面‼️ 】",
-          "duration": 85,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000minhr274sn1w2t38ofk6fu0t3b_firsti.jpg",
-          "ctime": 1781486816,
           "asr_language": "cmn"
         }
       ],
@@ -2019,59 +1384,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116655170525940,
-      "bvid": "BV1faV46GEQT",
-      "title": "【广：酸甜适中 酱汁浓郁 新品麻酱拌冷面】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/5c359fd035cbd0ebe7ed887c48fe926f511a8ec9.jpg",
-      "duration": 181,
-      "published_at": 1780016984,
-      "created_at": 1780016985,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116655170525940,
-        "view": 345969,
-        "danmaku": 117,
-        "reply": 802,
-        "favorite": 5109,
-        "coin": 631,
-        "share": 1867,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 26549,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 38686230788,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：酸甜适中 酱汁浓郁 新品麻酱拌冷面】",
-          "duration": 181,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i1.hdslb.com/bfs/storyff/_0000190kkorutsbra2vpvholuyl9mgb_firsti.jpg",
-          "ctime": 1780016985,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116638393571451,
       "bvid": "BV1suVF6GEfz",
       "title": "【超绝酱咸菜 只需3种家常调料】",
@@ -2116,59 +1428,6 @@
           },
           "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000g5lp6j2hrknk2qx18k3to06cdb_firsti.jpg",
           "ctime": 1779760911,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 116616096454104,
-      "bvid": "BV1BULi6gEra",
-      "title": "【广：空气炸锅大辣片 肉一样的口感！】",
-      "description": "-",
-      "cover_url": "http://i0.hdslb.com/bfs/archive/30201cd051f16798bf36801fabcd9bf982334645.jpg",
-      "duration": 138,
-      "published_at": 1779420800,
-      "created_at": 1779420800,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116616096454104,
-        "view": 355982,
-        "danmaku": 92,
-        "reply": 362,
-        "favorite": 7556,
-        "coin": 703,
-        "share": 1389,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 19033,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 38518131758,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：空气炸锅大辣片 肉一样的口感！】",
-          "duration": 138,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000249ryqr9jwtyq2aumnw0wxq5epb_firsti.jpg",
-          "ctime": 1779420800,
           "asr_language": "cmn"
         }
       ],
@@ -2284,59 +1543,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116587675783307,
-      "bvid": "BV1WwL76fEqP",
-      "title": "【广：又脆又嫩又多汁的空气炸锅烤西葫芦】",
-      "description": "-",
-      "cover_url": "http://i2.hdslb.com/bfs/archive/6bc9aaf419b3e426216965fb37cd71258973d5c4.jpg",
-      "duration": 101,
-      "published_at": 1778986934,
-      "created_at": 1778986934,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116587675783307,
-        "view": 231801,
-        "danmaku": 38,
-        "reply": 274,
-        "favorite": 4073,
-        "coin": 293,
-        "share": 993,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 10137,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 38392369112,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：又脆又嫩又多汁的空气炸锅烤西葫芦】",
-          "duration": 101,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003l52fxie32uuv20psdqd8fr520b_firsti.jpg",
-          "ctime": 1778986934,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116575864627174,
       "bvid": "BV12X5h6MEZu",
       "title": "【辣子鸡】保姆级教程来了！",
@@ -2443,59 +1649,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116553014058880,
-      "bvid": "BV1eA5W6bEyu",
-      "title": "【广：煎饼也可以柔软劲道不累牙！改变你对煎饼的印象】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/6b8c4f8b83c1a349ab81a27ef5a7d9ffbd7e9895.jpg",
-      "duration": 180,
-      "published_at": 1778458057,
-      "created_at": 1778458057,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116553014058880,
-        "view": 360889,
-        "danmaku": 139,
-        "reply": 1104,
-        "favorite": 1203,
-        "coin": 425,
-        "share": 512,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 16526,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 38246940980,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：煎饼也可以柔软劲道不累牙！改变你对煎饼的印象】",
-          "duration": 180,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002aqg0157otovh1zockdosc22fgb_firsti.jpg",
-          "ctime": 1778458057,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116542327036721,
       "bvid": "BV1ZkRSBuEWb",
       "title": "家常下饭神菜！豆角丝炒肉！",
@@ -2540,59 +1693,6 @@
           },
           "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002gv30sqr07k7g2qvjta2qnqprnb_firsti.jpg",
           "ctime": 1778295019,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 116541924318183,
-      "bvid": "BV1MCRDBtEMn",
-      "title": "【广：空气炸锅小烧烤 在家实现烧烤自由】",
-      "description": "-",
-      "cover_url": "http://i2.hdslb.com/bfs/archive/99d7fe4d7de4a02b4559e71b9f41ca253ae2fa2a.jpg",
-      "duration": 147,
-      "published_at": 1778289045,
-      "created_at": 1778289045,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116541924318183,
-        "view": 444598,
-        "danmaku": 87,
-        "reply": 411,
-        "favorite": 9341,
-        "coin": 986,
-        "share": 1857,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 22318,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 38200871583,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：空气炸锅小烧烤 在家实现烧烤自由】",
-          "duration": 147,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002u8ti3xaowaik2n6rmpcz45yrwb_firsti.jpg",
-          "ctime": 1778289045,
           "asr_language": "cmn"
         }
       ],
@@ -2708,59 +1808,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116463373391754,
-      "bvid": "BV1jZomBMEDo",
-      "title": "【广：犄角旮旯胡同的黏糊麻辣烫，就是小时候的味道‼️ 】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/e972bdde855984e83b0db5c36eb70c7b57f3a835.jpg",
-      "duration": 75,
-      "published_at": 1777090590,
-      "created_at": 1777090590,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116463373391754,
-        "view": 542073,
-        "danmaku": 81,
-        "reply": 660,
-        "favorite": 3368,
-        "coin": 310,
-        "share": 2827,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 22000,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 37805886913,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：犄角旮旯胡同的黏糊麻辣烫，就是小时候的味道‼️ 】",
-          "duration": 75,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000n8n5poay2fot2nmn9uh74qgvbb_firsti.jpg",
-          "ctime": 1777090590,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116457870528910,
       "bvid": "BV1HWoGByEbe",
       "title": "【好吃到跺脚的擂辣椒烧排骨‼️再来两碗大米饭‼️ 】",
@@ -2805,59 +1852,6 @@
           },
           "first_frame": "http://i2.hdslb.com/bfs/storyff/_000006mcac42gx9vc2sr6n2190midib_firsti.jpg",
           "ctime": 1777006392,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 116445774093818,
-      "bvid": "BV1XRonBsERi",
-      "title": "【广：东北过桥电线！蘸上陈醋麻油加上米线汤】",
-      "description": "-",
-      "cover_url": "http://i0.hdslb.com/bfs/archive/8425609410895f04cf419982635475eff72b6b83.jpg",
-      "duration": 79,
-      "published_at": 1776822237,
-      "created_at": 1776822237,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116445774093818,
-        "view": 357246,
-        "danmaku": 75,
-        "reply": 480,
-        "favorite": 2228,
-        "coin": 237,
-        "share": 1069,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 14111,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 37707188235,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：东北过桥电线！蘸上陈醋麻油加上米线汤】",
-          "duration": 79,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003f7g4r9am3sja29jz7jd1jimfxb_firsti.jpg",
-          "ctime": 1776822237,
           "asr_language": "cmn"
         }
       ],
@@ -2964,59 +1958,6 @@
           },
           "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001m4ihymxc11an2tmyhqd2g81lbb_firsti.jpg",
           "ctime": 1776477400,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 116417454216995,
-      "bvid": "BV1nWdBB2Eep",
-      "title": "【广：空气炸锅烤鸡爪，软烂入味，一抿脱骨】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/03e5926852f5a338e7002f6e34aaf39f8d17217b.jpg",
-      "duration": 173,
-      "published_at": 1776389491,
-      "created_at": 1776389491,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116417454216995,
-        "view": 282529,
-        "danmaku": 62,
-        "reply": 408,
-        "favorite": 9713,
-        "coin": 908,
-        "share": 1770,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 17765,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 37568709845,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：空气炸锅烤鸡爪，软烂入味，一抿脱骨】",
-          "duration": 173,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000036aws4khk27vw26sjk1ijnux7qb_firsti.jpg",
-          "ctime": 1776389491,
           "asr_language": "cmn"
         }
       ],
@@ -3291,59 +2232,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116332578215962,
-      "bvid": "BV1hn9sBWEre",
-      "title": "【广：克制用油版 焦香土豆丝饼】",
-      "description": "-",
-      "cover_url": "http://i2.hdslb.com/bfs/archive/7345e607c15b1c20ccae3906b5b4d6b5b90f1ead.jpg",
-      "duration": 171,
-      "published_at": 1775094398,
-      "created_at": 1775094398,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116332578215962,
-        "view": 335969,
-        "danmaku": 150,
-        "reply": 490,
-        "favorite": 12488,
-        "coin": 1004,
-        "share": 2269,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 22081,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 37163828620,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：克制用油版 焦香土豆丝饼】",
-          "duration": 171,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000al9w4jg5yo7p2o8q3ccl4aojgb_firsti.jpg",
-          "ctime": 1775094398,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116315364792541,
       "bvid": "BV1VTXZBEE8Y",
       "title": "【一口爆汁啊！火遍全网的辣椒水干豆腐配方大解密】",
@@ -3600,59 +2488,6 @@
           },
           "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000zrt8evv5m7tv24qh4msa9bsu8b_firsti.jpg",
           "ctime": 1773795465,
-          "asr_language": "cmn"
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 116247400291041,
-      "bvid": "BV1pAwZzWE9E",
-      "title": "【广：真白糖做的蜂蜜大冷面，大酸甜口汤汁都能当饮料喝】",
-      "description": "-",
-      "cover_url": "http://i0.hdslb.com/bfs/archive/3e89d9572190c338a3de0669e6b70ec46f55c45c.jpg",
-      "duration": 94,
-      "published_at": 1773794928,
-      "created_at": 1773794929,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116247400291041,
-        "view": 298086,
-        "danmaku": 62,
-        "reply": 397,
-        "favorite": 3303,
-        "coin": 338,
-        "share": 1245,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 14773,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 36777757250,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：真白糖做的蜂蜜大冷面，大酸甜口汤汁都能当饮料喝】",
-          "duration": 94,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003riwts3ej4gnj1ygznjoqjw188b_firsti.jpg",
-          "ctime": 1773794929,
           "asr_language": "cmn"
         }
       ],
@@ -4081,58 +2916,6 @@
       "dynamic": ""
     },
     {
-      "aid": 116010170521389,
-      "bvid": "BV1Zwf9BoEEg",
-      "title": "【广：巨巨巨巨好吃的烧烤味炒蘑菇】",
-      "description": "-",
-      "cover_url": "http://i1.hdslb.com/bfs/archive/88f742df8d912f508652ba8e0277fd45c0075c9f.jpg",
-      "duration": 128,
-      "published_at": 1770175005,
-      "created_at": 1770175005,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 116010170521389,
-        "view": 410351,
-        "danmaku": 113,
-        "reply": 466,
-        "favorite": 17650,
-        "coin": 1376,
-        "share": 2424,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 25702,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 35808084945,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：巨巨巨巨好吃的烧烤味炒蘑菇】",
-          "duration": 128,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 1080,
-            "height": 1920,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002dgl5zgn0hxlj2pvcw4en56gwrb_firsti.jpg",
-          "ctime": 1770175005
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
       "aid": 116004097102526,
       "bvid": "BV1nGFVzQEHi",
       "title": "【酥脆到掉渣的熏鱼！年夜饭请安排上！】",
@@ -4385,58 +3168,6 @@
           },
           "first_frame": "http://i1.hdslb.com/bfs/storyff/_0000315c2axmy7bpc29wq3s6vdubnmb_firsti.jpg",
           "ctime": 1768873636
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 115908081160528,
-      "bvid": "BV1M1r1ByE68",
-      "title": "【广：空气炸锅解馋小零食又来了！空气炸锅土豆火腿肠！】",
-      "description": "-",
-      "cover_url": "http://i0.hdslb.com/bfs/archive/eaf99344a189f082d08cdf359da718e5dd3e6071.jpg",
-      "duration": 190,
-      "published_at": 1768617355,
-      "created_at": 1768617355,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 115908081160528,
-        "view": 494475,
-        "danmaku": 141,
-        "reply": 719,
-        "favorite": 14947,
-        "coin": 1340,
-        "share": 2465,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 27130,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 35434597738,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：空气炸锅解馋小零食又来了！空气炸锅土豆火腿肠！】",
-          "duration": 190,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 2160,
-            "height": 3840,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002yxi79a6k5laq2j8yxgi0tb6f2b_firsti.jpg",
-          "ctime": 1768617355
         }
       ],
       "copyright": 1,
@@ -4853,58 +3584,6 @@
           },
           "first_frame": "http://i1.hdslb.com/bfs/storyff/_0000241aoawfgmmwa23a1hyh0308kgb_firsti.jpg",
           "ctime": 1766800323
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 115783124392158,
-      "bvid": "BV1Y3BZByEgx",
-      "title": "【广：这个烧烤料可以空气炸锅一切，今日是空气炸锅烤玉米】",
-      "description": "-",
-      "cover_url": "http://i0.hdslb.com/bfs/archive/e57cfa4734bcfa7c1fcf25fd2e3bf955ec803ac2.jpg",
-      "duration": 107,
-      "published_at": 1766710870,
-      "created_at": 1766710870,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 115783124392158,
-        "view": 314525,
-        "danmaku": 72,
-        "reply": 447,
-        "favorite": 6276,
-        "coin": 634,
-        "share": 1420,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 16930,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 34983251055,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：这个烧烤料可以空气炸锅一切，今日是空气炸锅烤玉米】",
-          "duration": 107,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 2160,
-            "height": 3840,
-            "rotate": 0
-          },
-          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001lmmp1d0q2kuh1ythofbzzfnagb_firsti.jpg",
-          "ctime": 1766710870
         }
       ],
       "copyright": 1,
@@ -5529,58 +4208,6 @@
           },
           "first_frame": "http://i2.hdslb.com/bfs/storyff/_000037su7cfxqyy0q2t70kxt9pj2lbb_firsti.jpg",
           "ctime": 1764638896
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 115641507913272,
-      "bvid": "BV1BHS6BPE7N",
-      "title": "【广：啥都能蘸！东北烧烤料！！】",
-      "description": "-",
-      "cover_url": "http://i0.hdslb.com/bfs/archive/3f681fa674dc8b424a694c172a2964a016c6af96.jpg",
-      "duration": 354,
-      "published_at": 1764550044,
-      "created_at": 1764550044,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 115641507913272,
-        "view": 545268,
-        "danmaku": 195,
-        "reply": 1326,
-        "favorite": 4641,
-        "coin": 901,
-        "share": 898,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 30343,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 34404436967,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：啥都能蘸！东北烧烤料！！】",
-          "duration": 354,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 2160,
-            "height": 3840,
-            "rotate": 0
-          },
-          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002ev7unk2x5zlg2uysibqrzvbryb_firsti.jpg",
-          "ctime": 1764550044
         }
       ],
       "copyright": 1,
@@ -6621,58 +5248,6 @@
           },
           "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000vcxjyx9f94hz2bz59d92n4v32b_firsti.jpg",
           "ctime": 1759801913
-        }
-      ],
-      "copyright": 1,
-      "tid": 76,
-      "tname": "",
-      "dynamic": ""
-    },
-    {
-      "aid": 115313295302001,
-      "bvid": "BV1J7xHzrEcn",
-      "title": "【广：馋啥就拍啥之 今天吃东北过桥电线】",
-      "description": "-",
-      "cover_url": "http://i0.hdslb.com/bfs/archive/9571b1b64a17cfdca74155293bc3ba1cd07c785b.jpg",
-      "duration": 121,
-      "published_at": 1759542347,
-      "created_at": 1759542347,
-      "owner": {
-        "mid": 417298480,
-        "name": "村驴",
-        "face": "https://i1.hdslb.com/bfs/face/c015fec3b6a2012bcbd3143c7f752bd7caf2c8d3.jpg"
-      },
-      "stat": {
-        "aid": 115313295302001,
-        "view": 381197,
-        "danmaku": 212,
-        "reply": 617,
-        "favorite": 1881,
-        "coin": 298,
-        "share": 758,
-        "now_rank": 0,
-        "his_rank": 0,
-        "like": 18811,
-        "dislike": 0,
-        "evaluation": "",
-        "vt": 0
-      },
-      "pages": [
-        {
-          "cid": 32826066080,
-          "page": 1,
-          "from": "vupload",
-          "part": "【广：馋啥就拍啥之 今天吃东北过桥电线】",
-          "duration": 121,
-          "vid": "",
-          "weblink": "",
-          "dimension": {
-            "width": 2160,
-            "height": 3840,
-            "rotate": 0
-          },
-          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00001ny4il9klzq5420aynjoos6vbjb_firsti.jpg",
-          "ctime": 1759542347
         }
       ],
       "copyright": 1,
