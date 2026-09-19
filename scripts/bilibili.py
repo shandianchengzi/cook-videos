@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Incrementally collect public metadata for one Bilibili creator."""
 from __future__ import annotations
-import argparse, hashlib, json, os, re, time
+import argparse, hashlib, json, os, re, time, uuid
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlencode
@@ -14,7 +14,19 @@ UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.3
 class Bili:
     def __init__(self):
         self.s = requests.Session(); self.s.headers.update({"User-Agent": UA, "Referer": f"https://space.bilibili.com/{MID}/video"})
-        if os.getenv("BILIBILI_COOKIE"): self.s.headers["Cookie"] = os.environ["BILIBILI_COOKIE"]
+        if os.getenv("BILIBILI_COOKIE"):
+            self.s.headers["Cookie"] = os.environ["BILIBILI_COOKIE"]
+        else:
+            # Establish the public device cookies expected by current WBI APIs.
+            try:
+                r=self.s.get("https://api.bilibili.com/x/frontend/finger/spi",timeout=25); r.raise_for_status()
+                data=(r.json().get("data") or {})
+                if data.get("b_3"): self.s.cookies.set("buvid3",data["b_3"],domain=".bilibili.com")
+                if data.get("b_4"): self.s.cookies.set("buvid4",data["b_4"],domain=".bilibili.com")
+                self.s.cookies.set("b_nut",str(int(time.time())),domain=".bilibili.com")
+                self.s.cookies.set("_uuid",str(uuid.uuid4()).upper()+"infoc",domain=".bilibili.com")
+            except requests.RequestException:
+                pass
         self.key = None
     def get(self, url, params=None):
         r=self.s.get(url, params=params, timeout=25); r.raise_for_status(); data=r.json()
@@ -30,10 +42,11 @@ class Bili:
                 raise RuntimeError(f"Bilibili WBI key unavailable: {payload.get('code')} {payload.get('message')}; configure BILIBILI_COOKIE")
             raw=nav["img_url"].rsplit("/",1)[-1].split(".")[0]+nav["sub_url"].rsplit("/",1)[-1].split(".")[0]
             self.key="".join(raw[i] for i in MIXIN)[:32]
-        p={**params,"wts":int(time.time())}; p={k:re.sub(r"[!'()*]", "", str(v)) for k,v in p.items()}
+        anti={"dm_img_list":"[]","dm_img_str":"V2ViR0wgMS","dm_cover_img_str":"QU5HTEUgKEludGVsLCBNZXNhLCBJbnRlbCBHcmFwaGljcyki","dm_img_inter":'{"ds":[],"wh":[0,0,0],"of":[0,0,0]}'}
+        p={**anti,**params,"wts":int(time.time())}; p={k:re.sub(r"[!'()*]", "", str(v)) for k,v in p.items()}
         query=urlencode(sorted(p.items())); p["w_rid"]=hashlib.md5((query+self.key).encode()).hexdigest(); return p
     def page(self, pn, ps=50):
-        return self.get("https://api.bilibili.com/x/space/wbi/arc/search", self.wbi({"mid":MID,"pn":pn,"ps":ps,"order":"pubdate"}))
+        return self.get("https://api.bilibili.com/x/space/wbi/arc/search", self.wbi({"mid":MID,"pn":pn,"ps":ps,"order":"pubdate","platform":"web","web_location":1550101}))
     def detail(self, bvid): return self.get("https://api.bilibili.com/x/web-interface/view", {"bvid":bvid})
 
 def normalize(d):
