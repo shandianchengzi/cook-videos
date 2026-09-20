@@ -3,7 +3,7 @@
 import json, re
 from datetime import datetime, timezone
 from pathlib import Path
-VERSION="1.4.0"
+VERSION="1.5.0"
 
 def load(p,default):
     q=Path(p); return json.loads(q.read_text("utf-8")) if q.exists() else default
@@ -64,12 +64,13 @@ def main():
             hits=re.findall(r"的([^‼！!】]{2,16})[‼！!]",v.get("title",""))
             if hits:
                 inferred=re.sub(r"[^\u4e00-\u9fffA-Za-z0-9]","",hits[-1]).strip()
-                refs=sorted({x for x in ingredient_table if len(x)>=2 and x in inferred})
+                hay=inferred+" "+v.get("title","")+" "+v.get("description","")
+                refs=sorted({x for x in ingredient_table if len(x)>=2 and x in hay})
                 if 2 <= len(inferred) <= 16:
                     if inferred not in dishes: dishes[inferred]={"name":inferred,"ingredients":refs,"special_tools":[],"sources":[f"bilibili:{v.get('bvid','')}"],"auto_generated":True,"needs_review":True,"recognition_rule":"的xxx‼️"}
                     matched=[inferred]
         if not matched:
-            inferred, refs=infer_dish(v.get("title",""),set(dishes)|set(amap),set(ingredient_table))
+            inferred, refs=infer_dish(v.get("title","")+" "+v.get("description",""),set(dishes)|set(amap),set(ingredient_table))
             if inferred:
                 if inferred not in dishes:
                     dishes[inferred]={"name":inferred,"ingredients":refs or [],"special_tools":[],"sources":[f"bilibili:{v.get('bvid','')}"],"auto_generated":True,"needs_review":True}

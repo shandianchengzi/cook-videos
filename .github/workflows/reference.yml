@@ -1,4 +1,5 @@
 name: Rebuild base reference
+# Rebuild after ingredient-name normalization improvements.
 on:
   push:
     paths: ['.github/workflows/reference.yml']

@@ -1,4 +1,4 @@
-# cook-videos
+# 做菜视频索引（cook-videos）
 
 村驴（Bilibili MID `417298480`）公开视频元数据、可追溯菜谱基础表和静态检索页面。
 
