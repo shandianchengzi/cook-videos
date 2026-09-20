@@ -12,4 +12,7 @@ class PipelineTest(unittest.TestCase):
         self.assertEqual(normalize_ingredients("五花肉/瘦肉"), ["五花肉", "瘦肉"])
         self.assertEqual(normalize_ingredients("大蒜5-6 瓣"), ["大蒜"])
         self.assertEqual(normalize_ingredients("搅拌机/料理机"), [])
+        self.assertEqual(normalize_ingredients("两段葱段、两片姜片，葱花、姜各"), ["葱段", "姜片", "葱花", "姜"])
+        self.assertEqual(normalize_ingredients("葱、姜、蒜"), ["葱", "姜", "蒜"])
+        self.assertEqual(normalize_ingredients("盆两个"), [])
 if __name__ == "__main__": unittest.main()

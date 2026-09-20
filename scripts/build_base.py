@@ -4,19 +4,21 @@ import json, re
 from pathlib import Path
 
 def clean(s): return re.sub(r"[`*_\[\]（）()]", "", s).strip(" ：:，,。\t")
-UNITS=r"(?:毫升|ml|mL|ML|升|克|kg|g|千克|斤|两|个|只|片|块|根|颗|粒|瓣|勺|汤匙|茶匙|杯|袋|盒|把|撮|滴|厘米|cm)"
+UNITS=r"(?:毫升|ml|mL|ML|升|克|kg|g|千克|斤|两|个|只|片|块|根|颗|粒|瓣|段|勺|汤匙|茶匙|杯|袋|盒|把|撮|滴|厘米|cm)"
 TOOL_WORDS=("锅","碗","杯","勺","盆","机","炉","灶","模具","簸箕","刀","砧板")
 def normalize_ingredients(value):
     """Return ingredient names only; split alternatives and discard measures/tools."""
     value=re.sub(r"!?\[[^\]]*\]\([^)]*\)|\.\.?/\S+|!\S+\.(?:png|jpe?g|webp)","",value,flags=re.I)
     value=re.sub(r"（[^）]*）|\([^)]*\)","",value)
-    value=re.sub(r"^\s*[0-9０-９一二三四五六七八九十半]+(?:\s*[-~—至]\s*[0-9０-９一二三四五六七八九十半]+)?\s*"+UNITS+r"\s*","",value,flags=re.I)
+    value=re.sub(r"^\s*[0-9０-９一二三四五六七八九十半两]+(?:\s*[-~—至]\s*[0-9０-９一二三四五六七八九十半两]+)?\s*"+UNITS+r"\s*","",value,flags=re.I)
     result=[]
-    for part in re.split(r"[/／]",value):
+    for part in re.split(r"[/／、,，]",value):
+        part=re.sub(r"^\s*[0-9０-９一二三四五六七八九十半两]+(?:\s*[-~—至]\s*[0-9０-９一二三四五六七八九十半两]+)?\s*"+UNITS+r"\s*","",part,flags=re.I)
         part=re.sub(r"\b(?:and|or)\b.*$","",part,flags=re.I)
-        part=re.sub(r"\s*[0-9０-９一二三四五六七八九十半]+(?:\s*[-~—至]\s*[0-9０-９一二三四五六七八九十半]+)?\s*"+UNITS+r".*$","",part,flags=re.I)
+        if "最好为" in part: part=part.split("最好为",1)[1]
+        part=re.sub(r"\s*[0-9０-９一二三四五六七八九十半两]+(?:\s*[-~—至]\s*[0-9０-９一二三四五六七八九十半两]+)?\s*"+UNITS+r".*$","",part,flags=re.I)
         part=re.sub(r"\s+.*$","",part).strip()
-        part=re.sub(r"(?:可选|备选|选其一即可|适量|少许|若干)$","",part)
+        part=re.sub(r"(?:可选|备选|选其一即可|适量|少许|若干|各)$","",part)
         part=part.strip(" .。…、，,;；:：-—")
         if not part or len(part)>16 or re.search(r"\d",part): continue
         if any(part.endswith(x) for x in TOOL_WORDS) and part not in ("火锅底料",): continue
