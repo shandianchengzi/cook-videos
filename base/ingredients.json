@@ -1,4 +1,12 @@
 {
+  "\"薄盐肠粉豉油调味汁\"": {
+    "name": "\"薄盐肠粉豉油调味汁\"",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/奥尔良风味烤鸡腿/奥尔良风味烤鸡腿.md"
+    ]
+  },
   "Anardana": {
     "name": "Anardana",
     "processing_methods": [],
@@ -55,6 +63,14 @@
       "dishes/aquatic/葱油桂鱼/葱油桂鱼.md"
     ]
   },
+  "一次用一小盒": {
+    "name": "一次用一小盒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/黄油煎虾/黄油煎虾.md"
+    ]
+  },
   "丁香": {
     "name": "丁香",
     "processing_methods": [],
@@ -62,6 +78,8 @@
     "sources": [
       "dishes/drink/印度奶茶.md",
       "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
+      "dishes/meat_dish/猪皮冻/猪皮冻.md",
       "dishes/semi-finished/牛油火锅底料.md"
     ]
   },
@@ -73,20 +91,76 @@
       "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md"
     ]
   },
+  "上午买回放一下午吐沙": {
+    "name": "上午买回放一下午吐沙",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/田螺酿/田螺酿.md"
+    ]
+  },
+  "不吃辣可省略": {
+    "name": "不吃辣可省略",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/红烧鸡翅.md"
+    ]
+  },
+  "不吃辣的用尖椒": {
+    "name": "不吃辣的用尖椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/辣椒炒肉.md"
+    ]
+  },
+  "不够发甜": {
+    "name": "不够发甜",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/condiment/简易版炒糖色.md"
+    ]
+  },
+  "不是那种棕黄色的豆瓣酱": {
+    "name": "不是那种棕黄色的豆瓣酱",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md"
+    ]
+  },
+  "不要用灯笼菜椒": {
+    "name": "不要用灯笼菜椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/青椒酿/青椒酿.md"
+    ]
+  },
+  "不要用紫色的洋葱": {
+    "name": "不要用紫色的洋葱",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
+    ]
+  },
+  "与田螺是绝配": {
+    "name": "与田螺是绝配",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/田螺酿/田螺酿.md"
+    ]
+  },
   "东北酸菜": {
     "name": "东北酸菜",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/meat_dish/猪肉烩酸菜.md"
-    ]
-  },
-  "两段葱段、两片姜片，葱花、姜各": {
-    "name": "两段葱段、两片姜片，葱花、姜各",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
     ]
   },
   "中号玻璃碗或其他中号不锈钢容器": {
@@ -133,6 +207,14 @@
       "dishes/meat_dish/红烧肉/简易红烧肉.md"
     ]
   },
+  "主要用于去腥提香": {
+    "name": "主要用于去腥提香",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/葱烧鸡腿.md"
+    ]
+  },
   "丽滋饼干Ritz": {
     "name": "丽滋饼干Ritz",
     "processing_methods": [],
@@ -157,6 +239,30 @@
       "dishes/drink/酸梅汤/酸梅汤.md"
     ]
   },
+  "也可以没有": {
+    "name": "也可以没有",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/semi-finished/懒人蛋挞/懒人蛋挞.md"
+    ]
+  },
+  "也可用料酒代替": {
+    "name": "也可用料酒代替",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
+    ]
+  },
+  "也可选用原切肥牛片": {
+    "name": "也可选用原切肥牛片",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
+    ]
+  },
   "乳鸽": {
     "name": "乳鸽",
     "processing_methods": [],
@@ -170,6 +276,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/meat_dish/回锅肉/回锅肉.md",
       "dishes/meat_dish/小炒肉.md",
       "dishes/meat_dish/小米辣炒肉.md",
@@ -178,6 +285,7 @@
       "dishes/meat_dish/白菜猪肉炖粉条.md",
       "dishes/meat_dish/粉蒸肉.md",
       "dishes/staple/河南蒸面条/河南蒸面条.md",
+      "dishes/staple/豆角焖面/豆角焖面.md",
       "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
       "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
       "dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md"
@@ -230,7 +338,16 @@
       "dishes/meat_dish/酱排骨/酱排骨.md",
       "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
       "dishes/staple/炒馍.md",
+      "dishes/staple/蒸卤面.md",
       "dishes/vegetable_dish/陕北熬豆角.md"
+    ]
+  },
+  "五香粉十三香": {
+    "name": "五香粉十三香",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
     ]
   },
   "任何牌子的快熟面不需要调味料": {
@@ -247,6 +364,70 @@
     "notes": [],
     "sources": [
       "dishes/drink/长岛冰茶.md"
+    ]
+  },
+  "会很腻": {
+    "name": "会很腻",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/breakfast/金枪鱼酱三明治.md"
+    ]
+  },
+  "传统上用草垫": {
+    "name": "传统上用草垫",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/鲜肉烧卖.md"
+    ]
+  },
+  "但不能太久之前泡发的": {
+    "name": "但不能太久之前泡发的",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md"
+    ]
+  },
+  "但不要刮鱼鳞": {
+    "name": "但不要刮鱼鳞",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md"
+    ]
+  },
+  "但多放酒曲能提高成功概率": {
+    "name": "但多放酒曲能提高成功概率",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/drink/酒酿醪糟/酒酿醪糟.md"
+    ]
+  },
+  "但极度推荐！": {
+    "name": "但极度推荐！",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
+    ]
+  },
+  "但猪油风味更佳": {
+    "name": "但猪油风味更佳",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/蒜蓉炒芹菜/蒜蓉炒芹菜.md"
+    ]
+  },
+  "但需加热软化": {
+    "name": "但需加热软化",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
     ]
   },
   "低筋面粉": {
@@ -275,12 +456,44 @@
       "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
     ]
   },
+  "作为垫底食材": {
+    "name": "作为垫底食材",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/粉蒸肉.md"
+    ]
+  },
+  "例如带刻度的杯子": {
+    "name": "例如带刻度的杯子",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/drink/奶茶.md"
+    ]
+  },
+  "便宜": {
+    "name": "便宜",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md"
+    ]
+  },
   "俄式酸黄瓜汁": {
     "name": "俄式酸黄瓜汁",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/breakfast/金枪鱼酱三明治.md"
+    ]
+  },
+  "俗称“毛菜油”或“土菜油”": {
+    "name": "俗称“毛菜油”或“土菜油”",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/酱炖蟹.md"
     ]
   },
   "保鲜膜": {
@@ -375,6 +588,7 @@
     "sources": [
       "dishes/aquatic/小龙虾/小龙虾.md",
       "dishes/aquatic/混合烤鱼/烤鱼.md",
+      "dishes/aquatic/红烧鱼头.md",
       "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
       "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
       "dishes/breakfast/茶叶蛋.md",
@@ -389,6 +603,7 @@
       "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
       "dishes/meat_dish/杀猪菜.md",
       "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
       "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
       "dishes/meat_dish/煎烤羊排/煎烤羊排.md",
       "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
@@ -400,12 +615,20 @@
       "dishes/vegetable_dish/炒茄子.md"
     ]
   },
-  "八角、干辣椒": {
-    "name": "八角、干辣椒",
+  "八角三小片": {
+    "name": "八角三小片",
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/aquatic/红烧鱼头.md"
+      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
+    ]
+  },
+  "其中应该包含": {
+    "name": "其中应该包含",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/螺蛳粉.md"
     ]
   },
   "其他调味料": {
@@ -414,6 +637,14 @@
     "notes": [],
     "sources": [
       "dishes/staple/炒河粉.md"
+    ]
+  },
+  "其余配菜例如马蹄": {
+    "name": "其余配菜例如马蹄",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md"
     ]
   },
   "内脂豆腐推荐清美": {
@@ -440,6 +671,14 @@
       "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
     ]
   },
+  "冬季黄心白菜最佳": {
+    "name": "冬季黄心白菜最佳",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/乾隆白菜/乾隆白菜.md"
+    ]
+  },
   "冬瓜": {
     "name": "冬瓜",
     "processing_methods": [],
@@ -448,6 +687,7 @@
       "dishes/drink/冬瓜茶.md",
       "dishes/meat_dish/冬瓜桑拿鸡.md",
       "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md"
     ]
   },
@@ -513,6 +753,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/油焖大虾/油焖大虾.md",
       "dishes/aquatic/肉蟹煲.md",
       "dishes/aquatic/酱炖蟹.md",
       "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
@@ -533,8 +774,8 @@
       "dishes/soup/银耳莲子粥/银耳莲子粥.md"
     ]
   },
-  "冰糖或白糖，调味用": {
-    "name": "冰糖或白糖，调味用",
+  "冰糖或白糖": {
+    "name": "冰糖或白糖",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -639,8 +880,8 @@
       "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md"
     ]
   },
-  "凉皮、面筋": {
-    "name": "凉皮、面筋",
+  "凉皮": {
+    "name": "凉皮",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -671,6 +912,14 @@
       "dishes/meat_dish/荔枝肉/荔枝肉.md"
     ]
   },
+  "出汁使用柴鱼干和昆布熬制的汤汁": {
+    "name": "出汁使用柴鱼干和昆布熬制的汤汁",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
+    ]
+  },
   "刨丝器": {
     "name": "刨丝器",
     "processing_methods": [],
@@ -685,6 +934,22 @@
     "notes": [],
     "sources": [
       "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
+    ]
+  },
+  "制作咸口": {
+    "name": "制作咸口",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md"
+    ]
+  },
+  "制作甜口": {
+    "name": "制作甜口",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md"
     ]
   },
   "刷子": {
@@ -719,12 +984,28 @@
       "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md"
     ]
   },
+  "加上配色好看": {
+    "name": "加上配色好看",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md"
+    ]
+  },
   "加糖炼乳": {
     "name": "加糖炼乳",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/dessert/草莓冰淇淋/草莓冰淇淋.md"
+    ]
+  },
+  "勾芡收汁": {
+    "name": "勾芡收汁",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/青椒酿/青椒酿.md"
     ]
   },
   "包菜": {
@@ -838,12 +1119,21 @@
       "dishes/vegetable_dish/清蒸南瓜.md"
     ]
   },
+  "南瓜花": {
+    "name": "南瓜花",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md"
+    ]
+  },
   "南腐乳": {
     "name": "南腐乳",
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/meat_dish/卤菜/卤菜.md"
+      "dishes/meat_dish/卤菜/卤菜.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
     ]
   },
   "卤料包超市即可购买": {
@@ -891,8 +1181,8 @@
       "dishes/drink/Mojito莫吉托.md"
     ]
   },
-  "厚底锅带盖，密封用": {
-    "name": "厚底锅带盖，密封用",
+  "厚底锅带盖": {
+    "name": "厚底锅带盖",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -988,6 +1278,70 @@
       "dishes/meat_dish/小酥肉.md"
     ]
   },
+  "去腥效果更佳": {
+    "name": "去腥效果更佳",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/红烧鸡翅.md"
+    ]
+  },
+  "去除不要的器官": {
+    "name": "去除不要的器官",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/混合烤鱼/烤鱼.md"
+    ]
+  },
+  "又称上海青": {
+    "name": "又称上海青",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/咸肉菜饭.md"
+    ]
+  },
+  "叉烧酱": {
+    "name": "叉烧酱",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
+    ]
+  },
+  "口感好": {
+    "name": "口感好",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md"
+    ]
+  },
+  "口感更香": {
+    "name": "口感更香",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/蛋包饭.md"
+    ]
+  },
+  "口蘑": {
+    "name": "口蘑",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/牛排/牛排.md"
+    ]
+  },
+  "只要是杯子就行": {
+    "name": "只要是杯子就行",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/breakfast/温泉蛋/温泉蛋.md"
+    ]
+  },
   "可乐": {
     "name": "可乐",
     "processing_methods": [],
@@ -1003,6 +1357,30 @@
     "notes": [],
     "sources": [
       "dishes/staple/可乐炒饭.md"
+    ]
+  },
+  "可以来点蓝莓": {
+    "name": "可以来点蓝莓",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md"
+    ]
+  },
+  "可以用于提鲜": {
+    "name": "可以用于提鲜",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
+    ]
+  },
+  "可加可不加": {
+    "name": "可加可不加",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/soup/紫菜蛋花汤.md"
     ]
   },
   "可口可乐": {
@@ -1022,12 +1400,52 @@
       "dishes/dessert/魔芋蛋糕/魔芋蛋糕.md"
     ]
   },
+  "可在各大电商平台购买": {
+    "name": "可在各大电商平台购买",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
+    ]
+  },
+  "可密封容器建议使用高硼硅试剂瓶": {
+    "name": "可密封容器建议使用高硼硅试剂瓶",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md"
+    ]
+  },
+  "可按照自己口味调节": {
+    "name": "可按照自己口味调节",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/提拉米苏/提拉米苏.md"
+    ]
+  },
   "可根据口味选择增加": {
     "name": "可根据口味选择增加",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/breakfast/燕麦鸡蛋饼.md"
+    ]
+  },
+  "可用羊肉替代": {
+    "name": "可用羊肉替代",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/印度焖饭.md"
+    ]
+  },
+  "可选择黄瓜": {
+    "name": "可选择黄瓜",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/炸酱面.md"
     ]
   },
   "叶菜类蔬菜": {
@@ -1054,12 +1472,28 @@
       "dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md"
     ]
   },
-  "吉士粉增色增香，没有可以不放": {
-    "name": "吉士粉增色增香，没有可以不放",
+  "吉士粉增色增香": {
+    "name": "吉士粉增色增香",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/meat_dish/椒盐排条.md"
+    ]
+  },
+  "后": {
+    "name": "后",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/drink/酒酿醪糟/酒酿醪糟.md"
+    ]
+  },
+  "后面介绍以“青椒”代替": {
+    "name": "后面介绍以“青椒”代替",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/雷椒皮蛋.md"
     ]
   },
   "吐司": {
@@ -1086,6 +1520,14 @@
       "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md"
     ]
   },
+  "味淋一种常用日式调料": {
+    "name": "味淋一种常用日式调料",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
+    ]
+  },
   "味精": {
     "name": "味精",
     "processing_methods": [],
@@ -1097,6 +1539,7 @@
       "dishes/meat_dish/回锅肉/回锅肉.md",
       "dishes/meat_dish/小酥肉.md",
       "dishes/meat_dish/老式锅包肉/老式锅包肉.md",
+      "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
       "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
       "dishes/meat_dish/黄焖鸡.md",
       "dishes/staple/滕州菜煎饼.md",
@@ -1168,16 +1611,16 @@
       "dishes/staple/咸肉菜饭.md"
     ]
   },
-  "咸鸭蛋推荐留夫鸭的，这个是灵魂": {
-    "name": "咸鸭蛋推荐留夫鸭的，这个是灵魂",
+  "咸鸭蛋推荐留夫鸭的": {
+    "name": "咸鸭蛋推荐留夫鸭的",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md"
     ]
   },
-  "商芝又名紫萁，属蕨类，嫩叶可食": {
-    "name": "商芝又名紫萁，属蕨类，嫩叶可食",
+  "商芝又名紫萁": {
+    "name": "商芝又名紫萁",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -1195,6 +1638,7 @@
       "dishes/meat_dish/卤菜/卤菜.md",
       "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
       "dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+      "dishes/meat_dish/血浆鸭/血浆鸭.md",
       "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
     ]
   },
@@ -1239,6 +1683,7 @@
       "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
       "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
       "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
       "dishes/meat_dish/粉蒸肉.md",
       "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
@@ -1316,6 +1761,22 @@
       "dishes/dessert/魔芋蛋糕/魔芋蛋糕.md"
     ]
   },
+  "增加色彩": {
+    "name": "增加色彩",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/松仁玉米.md"
+    ]
+  },
+  "备选花生油": {
+    "name": "备选花生油",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/酱炖蟹.md"
+    ]
+  },
   "复配食品增稠剂κ-卡拉胶": {
     "name": "复配食品增稠剂κ-卡拉胶",
     "processing_methods": [],
@@ -1337,16 +1798,33 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/meat_dish/猪皮冻/猪皮冻.md",
       "dishes/meat_dish/猪肉烩酸菜.md",
       "dishes/meat_dish/虎皮肘子.md"
     ]
   },
-  "大田螺乒乓球大小，约": {
-    "name": "大田螺乒乓球大小，约",
+  "大方的皱椒混合之后打碎的辣椒": {
+    "name": "大方的皱椒混合之后打碎的辣椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
+    ]
+  },
+  "大田螺乒乓球大小": {
+    "name": "大田螺乒乓球大小",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/meat_dish/田螺酿/田螺酿.md"
+    ]
+  },
+  "大白菜取黄心嫩叶": {
+    "name": "大白菜取黄心嫩叶",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/乾隆白菜/乾隆白菜.md"
     ]
   },
   "大米": {
@@ -1373,9 +1851,13 @@
     "notes": [],
     "sources": [
       "dishes/aquatic/混合烤鱼/烤鱼.md",
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/meat_dish/乡村啤酒鸭.md",
       "dishes/meat_dish/冷吃兔.md",
       "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
+      "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
       "dishes/meat_dish/淄博烧烤/淄博烧烤.md",
       "dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
@@ -1389,30 +1871,6 @@
       "dishes/staple/中式馅饼/中式馅饼.md",
       "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
       "dishes/vegetable_dish/红烧茄子.md"
-    ]
-  },
-  "大葱、姜、大蒜、干辣椒": {
-    "name": "大葱、姜、大蒜、干辣椒",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/aquatic/红烧鲤鱼.md"
-    ]
-  },
-  "大葱、姜、大蒜、香菜、美人椒": {
-    "name": "大葱、姜、大蒜、香菜、美人椒",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/aquatic/红烧鱼头.md"
-    ]
-  },
-  "大葱、姜、料酒": {
-    "name": "大葱、姜、料酒",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
     ]
   },
   "大葱切段": {
@@ -1440,6 +1898,8 @@
       "dishes/aquatic/响油鳝丝.md",
       "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
       "dishes/aquatic/混合烤鱼/烤鱼.md",
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/aquatic/肉蟹煲.md",
       "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
       "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md",
@@ -1451,16 +1911,20 @@
       "dishes/meat_dish/小米辣炒肉.md",
       "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
       "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
       "dishes/meat_dish/水煮肉片.md",
       "dishes/meat_dish/牛排/牛排.md",
+      "dishes/meat_dish/田螺酿/田螺酿.md",
       "dishes/meat_dish/红烧鸡翅.md",
       "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
       "dishes/meat_dish/辣椒炒肉.md",
+      "dishes/meat_dish/青椒酿/青椒酿.md",
       "dishes/meat_dish/香干肉丝.md",
       "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
       "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
       "dishes/meat_dish/黄油鸡.md",
+      "dishes/semi-finished/凉皮.md",
       "dishes/soup/黄瓜皮蛋汤.md",
       "dishes/staple/凉粉/凉粉.md",
       "dishes/staple/利提巧卡.md",
@@ -1476,19 +1940,12 @@
       "dishes/vegetable_dish/印度葫芦丸子.md",
       "dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
       "dishes/vegetable_dish/清炒花菜.md",
+      "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
       "dishes/vegetable_dish/红烧茄子.md",
       "dishes/vegetable_dish/蒜蓉西兰花.md",
       "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
       "dishes/vegetable_dish/蚝油生菜.md",
       "dishes/vegetable_dish/酸辣土豆丝.md"
-    ]
-  },
-  "大蒜、小米辣": {
-    "name": "大蒜、小米辣",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/vegetable_dish/白灼菜心/白灼菜心.md"
     ]
   },
   "大蒜切片": {
@@ -1497,15 +1954,6 @@
     "notes": [],
     "sources": [
       "dishes/semi-finished/牛油火锅底料.md"
-    ]
-  },
-  "大蒜可选": {
-    "name": "大蒜可选",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/田螺酿/田螺酿.md",
-      "dishes/meat_dish/青椒酿/青椒酿.md"
     ]
   },
   "大蒜蒜蓉烤饼版本": {
@@ -1566,16 +2014,36 @@
       "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md"
     ]
   },
+  "如果附近菜市场没有": {
+    "name": "如果附近菜市场没有",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/蒸卤面.md"
+    ]
+  },
+  "如菠菜": {
+    "name": "如菠菜",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/breakfast/燕麦鸡蛋饼.md"
+    ]
+  },
   "姜": {
     "name": "姜",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/aquatic/微波葱姜黑鳕鱼.md",
+      "dishes/aquatic/油焖大虾/油焖大虾.md",
       "dishes/aquatic/清蒸生蚝.md",
       "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
       "dishes/aquatic/白灼虾/白灼虾.md",
       "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+      "dishes/aquatic/红烧鱼.md",
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
       "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
       "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
@@ -1586,8 +2054,12 @@
       "dishes/meat_dish/商芝肉.md",
       "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
       "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+      "dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
+      "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
       "dishes/meat_dish/小米辣炒肉.md",
+      "dishes/meat_dish/尖椒炒牛肉.md",
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
       "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
       "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
       "dishes/meat_dish/猪肉烩酸菜.md",
@@ -1599,6 +2071,7 @@
       "dishes/meat_dish/虎皮肘子.md",
       "dishes/meat_dish/血浆鸭/血浆鸭.md",
       "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
+      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
       "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md",
       "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
       "dishes/meat_dish/辣椒炒肉.md",
@@ -1610,7 +2083,10 @@
       "dishes/meat_dish/鱼香肉丝.md",
       "dishes/soup/山药南瓜炖鸡汤.md",
       "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
+      "dishes/soup/番茄牛肉蛋花汤.md",
       "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
+      "dishes/soup/西红柿鸡蛋汤.md",
+      "dishes/staple/蒸卤面.md",
       "dishes/staple/豆角焖面/豆角焖面.md",
       "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
       "dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
@@ -1618,14 +2094,6 @@
       "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
       "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
       "dishes/vegetable_dish/陕北熬豆角.md"
-    ]
-  },
-  "姜、蒜瓣、干辣椒": {
-    "name": "姜、蒜瓣、干辣椒",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/aquatic/红烧鱼.md"
     ]
   },
   "姜丝": {
@@ -1645,6 +2113,7 @@
       "dishes/meat_dish/带把肘子.md",
       "dishes/meat_dish/粉蒸肉.md",
       "dishes/meat_dish/荔枝肉/荔枝肉.md",
+      "dishes/meat_dish/蚂蚁上树.md",
       "dishes/meat_dish/豉汁排骨.md",
       "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
       "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md"
@@ -1660,11 +2129,12 @@
       "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
       "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
       "dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
-      "dishes/meat_dish/糖醋排骨/糖醋排骨.md"
+      "dishes/meat_dish/糖醋排骨/糖醋排骨.md",
+      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
     ]
   },
-  "姜片推荐使用生姜，去腥效果更佳": {
-    "name": "姜片推荐使用生姜，去腥效果更佳",
+  "姜片推荐使用生姜": {
+    "name": "姜片推荐使用生姜",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -1684,7 +2154,8 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md"
+      "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
+      "dishes/meat_dish/香煎五花肉/香煎五花肉.md"
     ]
   },
   "姜黄粉": {
@@ -1717,6 +2188,14 @@
       "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md"
     ]
   },
+  "嫩叶可食": {
+    "name": "嫩叶可食",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/商芝肉.md"
+    ]
+  },
   "子弹头辣椒": {
     "name": "子弹头辣椒",
     "processing_methods": [],
@@ -1730,6 +2209,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/staple/中式馅饼/中式馅饼.md",
       "dishes/vegetable_dish/烤茄子/烤茄子.md"
     ]
   },
@@ -1798,6 +2278,15 @@
       "dishes/breakfast/完美水煮蛋.md"
     ]
   },
+  "实惠新鲜": {
+    "name": "实惠新鲜",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/反沙芋头/反沙芋头.md",
+      "dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md"
+    ]
+  },
   "家庭铁勺子": {
     "name": "家庭铁勺子",
     "processing_methods": [],
@@ -1820,6 +2309,14 @@
     "notes": [],
     "sources": [
       "dishes/breakfast/意式香肠北非蛋.md"
+    ]
+  },
+  "密封用": {
+    "name": "密封用",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/印度焖饭.md"
     ]
   },
   "密封袋": {
@@ -1846,6 +2343,22 @@
       "dishes/soup/山药南瓜炖鸡汤.md"
     ]
   },
+  "小土豆": {
+    "name": "小土豆",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/牛排/牛排.md"
+    ]
+  },
+  "小心使用破坏不粘锅涂层": {
+    "name": "小心使用破坏不粘锅涂层",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/雪花酥/雪花酥.md"
+    ]
+  },
   "小料": {
     "name": "小料",
     "processing_methods": [],
@@ -1868,6 +2381,14 @@
     "notes": [],
     "sources": [
       "dishes/staple/醪糟小汤圆.md"
+    ]
+  },
+  "小番茄": {
+    "name": "小番茄",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/牛排/牛排.md"
     ]
   },
   "小碗调酱汁用": {
@@ -1923,6 +2444,7 @@
       "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
       "dishes/meat_dish/小米辣炒肉.md",
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
       "dishes/meat_dish/黄瓜炒肉.md",
       "dishes/staple/凉粉/凉粉.md",
       "dishes/staple/酸辣蕨根粉.md",
@@ -1931,6 +2453,7 @@
       "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
       "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
       "dishes/vegetable_dish/油醋爆蛋.md",
+      "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
       "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
       "dishes/vegetable_dish/金钱蛋.md",
       "dishes/vegetable_dish/雷椒皮蛋.md"
@@ -1967,6 +2490,7 @@
     "notes": [],
     "sources": [
       "dishes/meat_dish/冷吃兔.md",
+      "dishes/meat_dish/猪皮冻/猪皮冻.md",
       "dishes/semi-finished/牛油火锅底料.md"
     ]
   },
@@ -1991,6 +2515,7 @@
       "dishes/soup/排骨山药玉米汤/排骨山药玉米汤.md",
       "dishes/soup/皮蛋瘦肉粥.md",
       "dishes/soup/黄瓜皮蛋汤.md",
+      "dishes/staple/炒河粉.md",
       "dishes/staple/炒馍.md",
       "dishes/staple/热干面.md",
       "dishes/staple/葱油拌面.md",
@@ -2072,6 +2597,22 @@
     "sources": [
       "dishes/meat_dish/尖椒炒牛肉.md",
       "dishes/vegetable_dish/地三鲜/地三鲜.md"
+    ]
+  },
+  "尽量不要使用": {
+    "name": "尽量不要使用",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/基础牛奶面包/基础牛奶面包.md"
+    ]
+  },
+  "属蕨类": {
+    "name": "属蕨类",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/商芝肉.md"
     ]
   },
   "山奈": {
@@ -2184,6 +2725,22 @@
       "dishes/drink/泰国手标红茶/泰国手标红茶.md"
     ]
   },
+  "带孔硅油纸": {
+    "name": "带孔硅油纸",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/鲜肉烧卖.md"
+    ]
+  },
+  "带皮": {
+    "name": "带皮",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/微波葱姜黑鳕鱼.md"
+    ]
+  },
   "带皮五花肉": {
     "name": "带皮五花肉",
     "processing_methods": [],
@@ -2210,12 +2767,52 @@
       "dishes/meat_dish/羊排焖面/羊排焖面.md"
     ]
   },
-  "带脚、爪猪前肘": {
-    "name": "带脚、爪猪前肘",
+  "带筋的部位": {
+    "name": "带筋的部位",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
+    ]
+  },
+  "带脚": {
+    "name": "带脚",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/meat_dish/带把肘子.md"
+    ]
+  },
+  "帮助形成更酥脆的外壳": {
+    "name": "帮助形成更酥脆的外壳",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
+    ]
+  },
+  "帮助形成更饱满的外壳": {
+    "name": "帮助形成更饱满的外壳",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
+    ]
+  },
+  "帮助肉质更滑嫩": {
+    "name": "帮助肉质更滑嫩",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
+    ]
+  },
+  "常用尺寸为": {
+    "name": "常用尺寸为",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
     ]
   },
   "干净密封玻璃或陶瓷容器": {
@@ -2258,6 +2855,14 @@
       "dishes/staple/蒸卤面.md"
     ]
   },
+  "干线椒": {
+    "name": "干线椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md"
+    ]
+  },
   "干罗勒或百里香": {
     "name": "干罗勒或百里香",
     "processing_methods": [],
@@ -2287,6 +2892,9 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/红烧鱼.md",
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/aquatic/肉蟹煲.md",
       "dishes/meat_dish/乡村啤酒鸭.md",
       "dishes/meat_dish/冷吃兔.md",
@@ -2294,10 +2902,14 @@
       "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
       "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
       "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
       "dishes/meat_dish/水煮肉片.md",
+      "dishes/meat_dish/田螺酿/田螺酿.md",
+      "dishes/meat_dish/红烧鸡翅.md",
       "dishes/meat_dish/羊排焖面/羊排焖面.md",
       "dishes/meat_dish/麻辣香锅.md",
       "dishes/meat_dish/黄焖鸡.md",
+      "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
       "dishes/vegetable_dish/酸辣土豆丝.md"
     ]
   },
@@ -2308,22 +2920,6 @@
     "sources": [
       "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
       "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md"
-    ]
-  },
-  "干辣椒可选": {
-    "name": "干辣椒可选",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/田螺酿/田螺酿.md"
-    ]
-  },
-  "干辣椒可选，不吃辣可省略": {
-    "name": "干辣椒可选，不吃辣可省略",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/红烧鸡翅.md"
     ]
   },
   "干辣椒或者二荆条": {
@@ -2414,8 +3010,8 @@
       "dishes/staple/炒年糕.md"
     ]
   },
-  "年糕推荐硬年糕，新鲜年糕亦可": {
-    "name": "年糕推荐硬年糕，新鲜年糕亦可",
+  "年糕推荐硬年糕": {
+    "name": "年糕推荐硬年糕",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -2460,6 +3056,22 @@
       "dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md"
     ]
   },
+  "必须是新鲜的湿木耳": {
+    "name": "必须是新鲜的湿木耳",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md"
+    ]
+  },
+  "恰巴塔": {
+    "name": "恰巴塔",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/breakfast/意式香肠北非蛋.md"
+    ]
+  },
   "意大利面": {
     "name": "意大利面",
     "processing_methods": [],
@@ -2477,12 +3089,28 @@
       "dishes/staple/意式肉酱面/意式肉酱面.md"
     ]
   },
-  "意式猪肉香肠去肠衣、辣香肠": {
-    "name": "意式猪肉香肠去肠衣、辣香肠",
+  "意式猪肉香肠去肠衣": {
+    "name": "意式猪肉香肠去肠衣",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/breakfast/意式香肠北非蛋.md"
+    ]
+  },
+  "或自制": {
+    "name": "或自制",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/滕州菜煎饼.md"
+    ]
+  },
+  "或阿萨姆红茶": {
+    "name": "或阿萨姆红茶",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/drink/印度奶茶.md"
     ]
   },
   "手动压汁器": {
@@ -2536,8 +3164,16 @@
       "dishes/drink/Mojito莫吉托.md"
     ]
   },
-  "披萨石有更好，没有普通烤盘也可以": {
-    "name": "披萨石有更好，没有普通烤盘也可以",
+  "打蛋器电动最好": {
+    "name": "打蛋器电动最好",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
+    ]
+  },
+  "披萨石有更好": {
+    "name": "披萨石有更好",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -2558,6 +3194,14 @@
     "notes": [],
     "sources": [
       "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md"
+    ]
+  },
+  "按喜好准备": {
+    "name": "按喜好准备",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/牛排/牛排.md"
     ]
   },
   "捣药罐": {
@@ -2589,6 +3233,30 @@
     "notes": [],
     "sources": [
       "dishes/soup/排骨山药玉米汤/排骨山药玉米汤.md"
+    ]
+  },
+  "推荐迷迭香或者百里香": {
+    "name": "推荐迷迭香或者百里香",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/牛排/牛排.md"
+    ]
+  },
+  "提升口感用": {
+    "name": "提升口感用",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/drink/可乐桶.md"
+    ]
+  },
+  "提麻香": {
+    "name": "提麻香",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/葱烧鸡腿.md"
     ]
   },
   "搅拌器": {
@@ -2651,6 +3319,14 @@
       "dishes/dessert/提拉米苏/提拉米苏.md"
     ]
   },
+  "料": {
+    "name": "料",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
+    ]
+  },
   "料理搅拌机电动打蛋器也可以": {
     "name": "料理搅拌机电动打蛋器也可以",
     "processing_methods": [],
@@ -2666,10 +3342,15 @@
     "sources": [
       "dishes/aquatic/响油鳝丝.md",
       "dishes/aquatic/微波葱姜黑鳕鱼.md",
+      "dishes/aquatic/油焖大虾/油焖大虾.md",
       "dishes/aquatic/混合烤鱼/烤鱼.md",
       "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
       "dishes/aquatic/白灼虾/白灼虾.md",
       "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+      "dishes/aquatic/红烧鱼.md",
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
+      "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
       "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
       "dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
       "dishes/aquatic/酱炖蟹.md",
@@ -2685,6 +3366,7 @@
       "dishes/meat_dish/回锅肉/回锅肉.md",
       "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
       "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
+      "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
       "dishes/meat_dish/小酥肉.md",
       "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
       "dishes/meat_dish/山西过油肉.md",
@@ -2715,6 +3397,7 @@
       "dishes/meat_dish/酱排骨/酱排骨.md",
       "dishes/meat_dish/酱牛肉/酱牛肉.md",
       "dishes/meat_dish/青椒酿/青椒酿.md",
+      "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
       "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
       "dishes/meat_dish/鱼香肉丝.md",
       "dishes/meat_dish/黄焖鸡.md",
@@ -2726,6 +3409,7 @@
       "dishes/staple/咸肉菜饭.md",
       "dishes/staple/照烧鸡腿饭.md",
       "dishes/staple/老友猪肉粉/老友猪肉粉.md",
+      "dishes/staple/蒸卤面.md",
       "dishes/staple/鲜肉烧卖.md",
       "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
       "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
@@ -2734,28 +3418,20 @@
       "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md"
     ]
   },
-  "料酒、朗姆酒或啤酒": {
-    "name": "料酒、朗姆酒或啤酒",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md"
-    ]
-  },
-  "料酒、盐、冰糖、植物油": {
-    "name": "料酒、盐、冰糖、植物油",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/aquatic/油焖大虾/油焖大虾.md"
-    ]
-  },
   "料酒可使用黄酒替代": {
     "name": "料酒可使用黄酒替代",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/aquatic/肉蟹煲.md"
+    ]
+  },
+  "料酒可拿啤酒": {
+    "name": "料酒可拿啤酒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md"
     ]
   },
   "料酒或啤酒": {
@@ -2806,6 +3482,14 @@
       "dishes/breakfast/吐司果酱.md"
     ]
   },
+  "新鲜年糕亦可": {
+    "name": "新鲜年糕亦可",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/肉蟹煲.md"
+    ]
+  },
   "新鲜欧芹": {
     "name": "新鲜欧芹",
     "processing_methods": [],
@@ -2822,8 +3506,8 @@
       "dishes/breakfast/水煮玉米.md"
     ]
   },
-  "新鲜绿叶可选，装饰用": {
-    "name": "新鲜绿叶可选，装饰用",
+  "新鲜绿叶": {
+    "name": "新鲜绿叶",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -2839,8 +3523,8 @@
       "dishes/vegetable_dish/白灼菜心/白灼菜心.md"
     ]
   },
-  "新鲜薄荷叶一小把，点睛之笔": {
-    "name": "新鲜薄荷叶一小把，点睛之笔",
+  "新鲜薄荷叶一小把": {
+    "name": "新鲜薄荷叶一小把",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -2855,8 +3539,8 @@
       "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
     ]
   },
-  "新鲜鸡翅推荐选择鸡翅中，肉质更嫩": {
-    "name": "新鲜鸡翅推荐选择鸡翅中，肉质更嫩",
+  "新鲜鸡翅推荐选择鸡翅中": {
+    "name": "新鲜鸡翅推荐选择鸡翅中",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -2935,6 +3619,14 @@
       "dishes/dessert/提拉米苏/提拉米苏.md"
     ]
   },
+  "无骨肉猪肉": {
+    "name": "无骨肉猪肉",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/麻辣香锅.md"
+    ]
+  },
   "日式味淋": {
     "name": "日式味淋",
     "processing_methods": [],
@@ -2960,12 +3652,36 @@
       "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md"
     ]
   },
+  "昆布酱油一种日式的少盐酱油": {
+    "name": "昆布酱油一种日式的少盐酱油",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/breakfast/温泉蛋/温泉蛋.md"
+    ]
+  },
+  "普通明虾也可以": {
+    "name": "普通明虾也可以",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/黄油煎虾/黄油煎虾.md"
+    ]
+  },
   "普通面粉": {
     "name": "普通面粉",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/breakfast/手抓饼.md"
+    ]
+  },
+  "最正宗": {
+    "name": "最正宗",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md"
     ]
   },
   "月桂叶": {
@@ -2992,6 +3708,22 @@
       "dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md"
     ]
   },
+  "朗姆酒不喜欢酒的朋友可省略": {
+    "name": "朗姆酒不喜欢酒的朋友可省略",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/提拉米苏/提拉米苏.md"
+    ]
+  },
+  "朗姆酒或啤酒": {
+    "name": "朗姆酒或啤酒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md"
+    ]
+  },
   "朝天椒": {
     "name": "朝天椒",
     "processing_methods": [],
@@ -3007,6 +3739,14 @@
     "sources": [
       "dishes/meat_dish/山西过油肉.md",
       "dishes/soup/生汆丸子汤.md"
+    ]
+  },
+  "木耳包等配料包": {
+    "name": "木耳包等配料包",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/螺蛳粉.md"
     ]
   },
   "木耳干": {
@@ -3034,16 +3774,25 @@
       "dishes/dessert/胡萝卜甜糕.md"
     ]
   },
+  "条子椒": {
+    "name": "条子椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
+    ]
+  },
   "杯子": {
     "name": "杯子",
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/drink/奶茶.md",
       "dishes/drink/杨枝甘露.md"
     ]
   },
-  "杯子无特定要求，只要是杯子就行": {
-    "name": "杯子无特定要求，只要是杯子就行",
+  "杯子无特定要求": {
+    "name": "杯子无特定要求",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -3091,6 +3840,14 @@
       "dishes/staple/醪糟小汤圆.md"
     ]
   },
+  "柚子": {
+    "name": "柚子",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md"
+    ]
+  },
   "柠檬": {
     "name": "柠檬",
     "processing_methods": [],
@@ -3098,6 +3855,7 @@
     "sources": [
       "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
       "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
+      "dishes/drink/可乐桶.md",
       "dishes/drink/柠檬水/柠檬水.md",
       "dishes/drink/海边落日/海边落日.md",
       "dishes/drink/金汤力/金汤力.md",
@@ -3105,14 +3863,6 @@
       "dishes/drink/长岛冰茶.md",
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
       "dishes/staple/利提巧卡.md"
-    ]
-  },
-  "柠檬可选，提升口感用": {
-    "name": "柠檬可选，提升口感用",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/drink/可乐桶.md"
     ]
   },
   "柠檬汁": {
@@ -3133,12 +3883,28 @@
       "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md"
     ]
   },
+  "柱候酱核心酱": {
+    "name": "柱候酱核心酱",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
+    ]
+  },
   "栗子": {
     "name": "栗子",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/soup/腊八粥.md"
+    ]
+  },
+  "根据个人口味可放可不放": {
+    "name": "根据个人口味可放可不放",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/混合烤鱼/烤鱼.md"
     ]
   },
   "桂圆": {
@@ -3163,6 +3929,14 @@
     "notes": [],
     "sources": [
       "dishes/meat_dish/田螺酿/田螺酿.md"
+    ]
+  },
+  "桂林本地啤酒": {
+    "name": "桂林本地啤酒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md"
     ]
   },
   "桂林辣椒酱": {
@@ -3191,6 +3965,7 @@
       "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
       "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
       "dishes/meat_dish/煎烤羊排/煎烤羊排.md",
+      "dishes/meat_dish/猪皮冻/猪皮冻.md",
       "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
       "dishes/meat_dish/酱牛肉/酱牛肉.md"
     ]
@@ -3232,6 +4007,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/油焖大虾/油焖大虾.md",
       "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
       "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
       "dishes/meat_dish/小酥肉.md",
@@ -3244,6 +4020,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/staple/中式馅饼/中式馅饼.md",
       "dishes/vegetable_dish/椒盐玉米/椒盐玉米.md"
     ]
   },
@@ -3322,6 +4099,14 @@
       "dishes/drink/百香果橙子特调/百香果橙子特调.md"
     ]
   },
+  "次选梭子蟹": {
+    "name": "次选梭子蟹",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/酱炖蟹.md"
+    ]
+  },
   "欧芹": {
     "name": "欧芹",
     "processing_methods": [],
@@ -3330,12 +4115,28 @@
       "dishes/meat_dish/意式烤鸡.md"
     ]
   },
+  "比如家乐福": {
+    "name": "比如家乐福",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/semi-finished/懒人蛋挞/懒人蛋挞.md"
+    ]
+  },
   "毛豆": {
     "name": "毛豆",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md"
+    ]
+  },
+  "氯化钾": {
+    "name": "氯化钾",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/鲜肉烧卖.md"
     ]
   },
   "水": {
@@ -3376,6 +4177,14 @@
     "notes": [],
     "sources": [
       "dishes/soup/小米粥.md"
+    ]
+  },
+  "水浸金枪鱼罐头不建议用油浸": {
+    "name": "水浸金枪鱼罐头不建议用油浸",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/breakfast/金枪鱼酱三明治.md"
     ]
   },
   "水淀粉": {
@@ -3426,19 +4235,48 @@
       "dishes/staple/螺蛳粉.md"
     ]
   },
+  "沃尔玛等等": {
+    "name": "沃尔玛等等",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/semi-finished/懒人蛋挞/懒人蛋挞.md"
+    ]
+  },
+  "没有可以不放": {
+    "name": "没有可以不放",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/椒盐排条.md"
+    ]
+  },
+  "没有普通烤盘也可以": {
+    "name": "没有普通烤盘也可以",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/披萨饼皮/披萨饼皮.md"
+    ]
+  },
   "油": {
     "name": "油",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/aquatic/小龙虾/小龙虾.md",
+      "dishes/aquatic/红烧鱼.md",
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/breakfast/太阳蛋.md",
       "dishes/condiment/油酥.md",
       "dishes/condiment/葱油.md",
       "dishes/dessert/红柚蛋糕/红柚蛋糕.md",
       "dishes/meat_dish/孜然牛肉.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/椒盐排条.md",
       "dishes/meat_dish/甜辣烤全翅.md",
+      "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
       "dishes/soup/紫菜蛋花汤.md",
       "dishes/staple/中式馅饼/中式馅饼.md",
       "dishes/staple/可乐炒饭.md",
@@ -3456,14 +4294,6 @@
       "dishes/vegetable_dish/油醋爆蛋.md"
     ]
   },
-  "油、盐、料酒、醋、酱油、白砂糖": {
-    "name": "油、盐、料酒、醋、酱油、白砂糖",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/aquatic/红烧鱼.md"
-    ]
-  },
   "油泼辣子": {
     "name": "油泼辣子",
     "processing_methods": [],
@@ -3474,8 +4304,8 @@
       "dishes/staple/酸辣蕨根粉.md"
     ]
   },
-  "油煎豆腐用，能没过一大半就行": {
-    "name": "油煎豆腐用，能没过一大半就行",
+  "油煎豆腐用": {
+    "name": "油煎豆腐用",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -3488,6 +4318,7 @@
     "notes": [],
     "sources": [
       "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
+      "dishes/meat_dish/麻辣香锅.md",
       "dishes/vegetable_dish/凉拌油麦菜.md"
     ]
   },
@@ -3520,7 +4351,8 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/dessert/英式司康/英式司康.md"
+      "dishes/dessert/英式司康/英式司康.md",
+      "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
     ]
   },
   "泡打粉不加吃着像饼": {
@@ -3529,14 +4361,6 @@
     "notes": [],
     "sources": [
       "dishes/breakfast/微波炉蛋糕.md"
-    ]
-  },
-  "泡打粉可选，帮助形成更酥脆的外壳": {
-    "name": "泡打粉可选，帮助形成更酥脆的外壳",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
     ]
   },
   "泡椒": {
@@ -3612,12 +4436,28 @@
       "dishes/vegetable_dish/红烧茄子.md"
     ]
   },
+  "洋葱三件套": {
+    "name": "洋葱三件套",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/soup/罗宋汤.md"
+    ]
+  },
   "洋葱切丝": {
     "name": "洋葱切丝",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/semi-finished/牛油火锅底料.md"
+    ]
+  },
+  "洋葱务必选用外皮为白黄色的洋葱": {
+    "name": "洋葱务必选用外皮为白黄色的洋葱",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
     ]
   },
   "洋葱或红葱头": {
@@ -3634,14 +4474,6 @@
     "notes": [],
     "sources": [
       "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
-    ]
-  },
-  "洗菜盆、直径": {
-    "name": "洗菜盆、直径",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/staple/麻辣减脂荞麦面.md"
     ]
   },
   "活虾": {
@@ -3692,6 +4524,14 @@
       "dishes/aquatic/肉蟹煲.md"
     ]
   },
+  "涂青椒内壁防粘": {
+    "name": "涂青椒内壁防粘",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/青椒酿/青椒酿.md"
+    ]
+  },
   "消毒纱布能盖住肘子": {
     "name": "消毒纱布能盖住肘子",
     "processing_methods": [],
@@ -3722,9 +4562,11 @@
       "dishes/meat_dish/茭白炒肉/茭白炒肉.md",
       "dishes/meat_dish/荔枝肉/荔枝肉.md",
       "dishes/meat_dish/虎皮肘子.md",
+      "dishes/meat_dish/青椒酿/青椒酿.md",
       "dishes/meat_dish/香干肉丝.md",
       "dishes/meat_dish/鱼香肉丝.md",
       "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+      "dishes/staple/炒河粉.md",
       "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
       "dishes/vegetable_dish/地三鲜/地三鲜.md",
       "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
@@ -3881,12 +4723,20 @@
       "dishes/meat_dish/卤菜/卤菜.md"
     ]
   },
-  "漓泉啤酒一瓶，约": {
-    "name": "漓泉啤酒一瓶，约",
+  "漓泉啤酒一瓶": {
+    "name": "漓泉啤酒一瓶",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md"
+    ]
+  },
+  "火候过了发苦": {
+    "name": "火候过了发苦",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/condiment/简易版炒糖色.md"
     ]
   },
   "火腿": {
@@ -3912,6 +4762,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/meat_dish/麻辣香锅.md",
       "dishes/staple/滕州菜煎饼.md",
       "dishes/staple/炒方便面/炒方便面.md",
       "dishes/vegetable_dish/家常日本豆腐.md",
@@ -3982,8 +4833,8 @@
       "dishes/staple/炒河粉.md"
     ]
   },
-  "炒河粉、猪肉": {
-    "name": "炒河粉、猪肉",
+  "炒河粉": {
+    "name": "炒河粉",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -4006,14 +4857,6 @@
       "dishes/vegetable_dish/印度土豆花菜.md"
     ]
   },
-  "炖煮锅，高压锅可选，但极度推荐！": {
-    "name": "炖煮锅，高压锅可选，但极度推荐！",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
-    ]
-  },
   "炭火或燃气": {
     "name": "炭火或燃气",
     "processing_methods": [],
@@ -4022,12 +4865,28 @@
       "dishes/meat_dish/淄博烧烤/淄博烧烤.md"
     ]
   },
+  "点睛之笔": {
+    "name": "点睛之笔",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/田螺酿/田螺酿.md"
+    ]
+  },
   "炼乳": {
     "name": "炼乳",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/drink/泰国手标红茶/泰国手标红茶.md"
+    ]
+  },
+  "烘焙刮刀可用锅铲代替": {
+    "name": "烘焙刮刀可用锅铲代替",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/雪花酥/雪花酥.md"
     ]
   },
   "烘焙油纸": {
@@ -4074,6 +4933,14 @@
     "notes": [],
     "sources": [
       "dishes/staple/利提巧卡.md"
+    ]
+  },
+  "烤箱电饭锅可替代": {
+    "name": "烤箱电饭锅可替代",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
     ]
   },
   "烤网": {
@@ -4180,14 +5047,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/condiment/油泼辣子/油泼辣子.md"
-    ]
-  },
-  "熟白芝麻可选，用于点缀": {
-    "name": "熟白芝麻可选，用于点缀",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
+      "dishes/condiment/油泼辣子/油泼辣子.md",
       "dishes/vegetable_dish/乾隆白菜/乾隆白菜.md"
     ]
   },
@@ -4248,6 +5108,14 @@
       "dishes/breakfast/牛奶燕麦.md"
     ]
   },
+  "爪猪前肘": {
+    "name": "爪猪前肘",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/带把肘子.md"
+    ]
+  },
   "爱尔兰百利甜酒": {
     "name": "爱尔兰百利甜酒",
     "processing_methods": [],
@@ -4273,15 +5141,8 @@
       "dishes/meat_dish/番茄红酱.md",
       "dishes/soup/奶油蘑菇汤.md",
       "dishes/staple/印度焖饭.md",
+      "dishes/staple/蛋包饭.md",
       "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md"
-    ]
-  },
-  "牛奶可选，让蛋皮更嫩": {
-    "name": "牛奶可选，让蛋皮更嫩",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/staple/蛋包饭.md"
     ]
   },
   "牛奶巴氏奶口感更好": {
@@ -4298,6 +5159,14 @@
     "notes": [],
     "sources": [
       "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
+    ]
+  },
+  "牛排": {
+    "name": "牛排",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/牛排/牛排.md"
     ]
   },
   "牛柳或牛肩肉": {
@@ -4333,6 +5202,7 @@
       "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
       "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
       "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
+      "dishes/meat_dish/麻辣香锅.md",
       "dishes/soup/番茄牛肉蛋花汤.md",
       "dishes/staple/炒河粉.md"
     ]
@@ -4351,6 +5221,14 @@
     "notes": [],
     "sources": [
       "dishes/soup/罗宋汤.md"
+    ]
+  },
+  "牛肉均可": {
+    "name": "牛肉均可",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式咖喱饭/日式咖喱饭.md"
     ]
   },
   "牛肉高汤可用〇汤宝代替": {
@@ -4378,8 +5256,8 @@
       "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
     ]
   },
-  "牛腩首选坑腩，带筋的部位": {
-    "name": "牛腩首选坑腩，带筋的部位",
+  "牛腩首选坑腩": {
+    "name": "牛腩首选坑腩",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -4462,6 +5340,14 @@
       "dishes/staple/鲜肉烧卖.md"
     ]
   },
+  "猪油没有可用食用油替代": {
+    "name": "猪油没有可用食用油替代",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/蒜蓉炒芹菜/蒜蓉炒芹菜.md"
+    ]
+  },
   "猪油渣": {
     "name": "猪油渣",
     "processing_methods": [],
@@ -4492,9 +5378,11 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/meat_dish/田螺酿/田螺酿.md",
       "dishes/meat_dish/青椒酿/青椒酿.md",
       "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
+      "dishes/staple/炒河粉.md",
       "dishes/staple/老友猪肉粉/老友猪肉粉.md"
     ]
   },
@@ -4540,8 +5428,8 @@
       "dishes/meat_dish/洋葱炒猪肉.md"
     ]
   },
-  "猪肉馅基础款，肥瘦比例": {
-    "name": "猪肉馅基础款，肥瘦比例",
+  "猪肉馅基础款": {
+    "name": "猪肉馅基础款",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -4652,6 +5540,22 @@
       "dishes/vegetable_dish/松仁玉米.md"
     ]
   },
+  "现在更多用带孔硅油纸": {
+    "name": "现在更多用带孔硅油纸",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/鲜肉烧卖.md"
+    ]
+  },
+  "瓜尔胶": {
+    "name": "瓜尔胶",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/鲜肉烧卖.md"
+    ]
+  },
   "瓠瓜葫芦": {
     "name": "瓠瓜葫芦",
     "processing_methods": [],
@@ -4681,7 +5585,8 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/drink/酸梅汤/酸梅汤.md"
+      "dishes/drink/酸梅汤/酸梅汤.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
     ]
   },
   "甘露咖啡酒": {
@@ -4697,7 +5602,8 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/meat_dish/羊排焖面/羊排焖面.md"
+      "dishes/meat_dish/羊排焖面/羊排焖面.md",
+      "dishes/meat_dish/辣椒炒肉.md"
     ]
   },
   "甜椒粉": {
@@ -4790,6 +5696,8 @@
       "dishes/aquatic/响油鳝丝.md",
       "dishes/aquatic/小龙虾/小龙虾.md",
       "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/aquatic/肉蟹煲.md",
       "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
       "dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
@@ -4815,7 +5723,9 @@
       "dishes/meat_dish/小酥肉.md",
       "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
       "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
       "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
       "dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
       "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
@@ -4839,6 +5749,7 @@
       "dishes/meat_dish/虎皮肘子.md",
       "dishes/meat_dish/蚂蚁上树.md",
       "dishes/meat_dish/血浆鸭/血浆鸭.md",
+      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
       "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
       "dishes/meat_dish/豉汁排骨.md",
       "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md",
@@ -4851,6 +5762,7 @@
       "dishes/meat_dish/鱼香肉丝.md",
       "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
       "dishes/meat_dish/黄瓜炒肉.md",
+      "dishes/semi-finished/凉皮.md",
       "dishes/staple/可乐炒饭.md",
       "dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
       "dishes/staple/河南蒸面条/河南蒸面条.md",
@@ -4859,6 +5771,7 @@
       "dishes/staple/老友猪肉粉/老友猪肉粉.md",
       "dishes/staple/肉蛋盖饭.md",
       "dishes/staple/葱油拌面.md",
+      "dishes/staple/蒸卤面.md",
       "dishes/staple/蛋炒饭.md",
       "dishes/staple/豆角焖面/豆角焖面.md",
       "dishes/staple/陕西油泼面/陕西油泼面.md",
@@ -4866,12 +5779,14 @@
       "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
       "dishes/vegetable_dish/凉拌豆腐.md",
       "dishes/vegetable_dish/凉拌金针菇.md",
+      "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
       "dishes/vegetable_dish/地三鲜/地三鲜.md",
       "dishes/vegetable_dish/家常日本豆腐.md",
       "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
       "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
       "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
       "dishes/vegetable_dish/油醋爆蛋.md",
+      "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
       "dishes/vegetable_dish/皮蛋豆腐.md",
       "dishes/vegetable_dish/素炒豆角.md",
       "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
@@ -4891,22 +5806,6 @@
       "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
       "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
       "dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md"
-    ]
-  },
-  "生抽、白胡椒粉，白糖，料": {
-    "name": "生抽、白胡椒粉，白糖，料",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
-    ]
-  },
-  "生抽、蚝油、盐": {
-    "name": "生抽、蚝油、盐",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/vegetable_dish/白灼菜心/白灼菜心.md"
     ]
   },
   "生抽推荐海天金标": {
@@ -4937,14 +5836,6 @@
       "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
       "dishes/meat_dish/水煮肉片.md",
       "dishes/meat_dish/猪肉烩酸菜.md"
-    ]
-  },
-  "生抽，老抽，料酒，盐，五香粉": {
-    "name": "生抽，老抽，料酒，盐，五香粉",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/staple/蒸卤面.md"
     ]
   },
   "生粉": {
@@ -5030,6 +5921,62 @@
       "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
     ]
   },
+  "用于为温泉蛋调味": {
+    "name": "用于为温泉蛋调味",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/breakfast/温泉蛋/温泉蛋.md"
+    ]
+  },
+  "用于点缀": {
+    "name": "用于点缀",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/乾隆白菜/乾隆白菜.md"
+    ]
+  },
+  "用于熬糖色": {
+    "name": "用于熬糖色",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/卤菜/卤菜.md"
+    ]
+  },
+  "用于装饰": {
+    "name": "用于装饰",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/drink/牛油果拉西.md"
+    ]
+  },
+  "用筷子顺时针搅拌防凝固": {
+    "name": "用筷子顺时针搅拌防凝固",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/血浆鸭/血浆鸭.md"
+    ]
+  },
+  "用铁锅也行": {
+    "name": "用铁锅也行",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/soup/玉米排骨汤/玉米排骨汤.md"
+    ]
+  },
+  "田螺": {
+    "name": "田螺",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md"
+    ]
+  },
   "电动打蛋器": {
     "name": "电动打蛋器",
     "processing_methods": [],
@@ -5072,6 +6019,7 @@
     "sources": [
       "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md",
       "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/meat_dish/黄油鸡.md",
       "dishes/soup/番茄牛肉蛋花汤.md",
       "dishes/staple/利提巧卡.md",
@@ -5082,8 +6030,16 @@
       "dishes/vegetable_dish/印度葫芦丸子.md"
     ]
   },
-  "番茄番茄膏、番茄罐头": {
-    "name": "番茄番茄膏、番茄罐头",
+  "番茄番茄膏": {
+    "name": "番茄番茄膏",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/soup/罗宋汤.md"
+    ]
+  },
+  "番茄罐头": {
+    "name": "番茄罐头",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -5179,6 +6135,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/红烧鱼.md",
       "dishes/condiment/简易版炒糖色.md",
       "dishes/condiment/草莓酱/草莓酱.md",
       "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md",
@@ -5208,6 +6165,14 @@
       "dishes/vegetable_dish/松仁玉米.md",
       "dishes/vegetable_dish/皮蛋豆腐.md",
       "dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md"
+    ]
+  },
+  "白砂糖中和西红柿的酸味": {
+    "name": "白砂糖中和西红柿的酸味",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md"
     ]
   },
   "白砂糖或冰糖": {
@@ -5241,6 +6206,7 @@
     "sources": [
       "dishes/aquatic/响油鳝丝.md",
       "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
       "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md",
       "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
@@ -5257,6 +6223,7 @@
       "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
       "dishes/meat_dish/小米辣炒肉.md",
       "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
       "dishes/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md",
       "dishes/meat_dish/糖醋里脊.md",
@@ -5264,6 +6231,7 @@
       "dishes/meat_dish/老式锅包肉/老式锅包肉.md",
       "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
       "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
+      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
       "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
       "dishes/meat_dish/青椒酿/青椒酿.md",
       "dishes/meat_dish/鱼香肉丝.md",
@@ -5298,8 +6266,8 @@
       "dishes/breakfast/蛋煎糍粑.md"
     ]
   },
-  "白糖最好是黄冰糖，用于熬糖色": {
-    "name": "白糖最好是黄冰糖，用于熬糖色",
+  "白糖最好是黄冰糖": {
+    "name": "白糖最好是黄冰糖",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -5329,6 +6297,7 @@
       "dishes/meat_dish/老妈蹄花/老妈蹄花.md",
       "dishes/meat_dish/肉饼炖蛋.md",
       "dishes/meat_dish/葱烧鸡腿.md",
+      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
       "dishes/meat_dish/青椒酿/青椒酿.md",
       "dishes/meat_dish/黄焖鸡.md",
       "dishes/soup/羊肉汤/羊肉汤.md",
@@ -5365,6 +6334,7 @@
     "sources": [
       "dishes/condiment/油泼辣子/油泼辣子.md",
       "dishes/meat_dish/煎烤羊排/煎烤羊排.md",
+      "dishes/meat_dish/猪皮冻/猪皮冻.md",
       "dishes/meat_dish/老妈蹄花/老妈蹄花.md",
       "dishes/meat_dish/萝卜炖羊排.md",
       "dishes/semi-finished/牛油火锅底料.md"
@@ -5384,7 +6354,8 @@
     "notes": [],
     "sources": [
       "dishes/meat_dish/白菜猪肉炖粉条.md",
-      "dishes/staple/滕州菜煎饼.md"
+      "dishes/staple/滕州菜煎饼.md",
+      "dishes/staple/炸酱面.md"
     ]
   },
   "白菜心": {
@@ -5438,6 +6409,14 @@
       "dishes/vegetable_dish/葱煎豆腐.md"
     ]
   },
+  "白酒": {
+    "name": "白酒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
+    ]
+  },
   "白酱油": {
     "name": "白酱油",
     "processing_methods": [],
@@ -5467,8 +6446,8 @@
       "dishes/meat_dish/老式锅包肉/老式锅包肉.md"
     ]
   },
-  "白面煎饼市售山东煎饼，或自制": {
-    "name": "白面煎饼市售山东煎饼，或自制",
+  "白面煎饼市售山东煎饼": {
+    "name": "白面煎饼市售山东煎饼",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -5526,30 +6505,6 @@
       "dishes/soup/皮蛋瘦肉粥.md"
     ]
   },
-  "盆、盘子": {
-    "name": "盆、盘子",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/staple/炒河粉.md"
-    ]
-  },
-  "盆、碗、盘子、蒜臼": {
-    "name": "盆、碗、盘子、蒜臼",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/semi-finished/凉皮.md"
-    ]
-  },
-  "盆两个": {
-    "name": "盆两个",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md"
-    ]
-  },
   "盐": {
     "name": "盐",
     "processing_methods": [],
@@ -5557,7 +6512,11 @@
     "sources": [
       "dishes/aquatic/小龙虾/小龙虾.md",
       "dishes/aquatic/水煮鱼.md",
+      "dishes/aquatic/油焖大虾/油焖大虾.md",
       "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+      "dishes/aquatic/红烧鱼.md",
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
       "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
       "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
@@ -5595,6 +6554,7 @@
       "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
       "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
       "dishes/meat_dish/意式烤鸡.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
       "dishes/meat_dish/椒盐排条.md",
       "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
@@ -5617,6 +6577,7 @@
       "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
       "dishes/meat_dish/香干肉丝.md",
       "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
+      "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
       "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
       "dishes/meat_dish/鱼香肉丝.md",
       "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
@@ -5624,6 +6585,7 @@
       "dishes/meat_dish/黄焖鸡.md",
       "dishes/meat_dish/黄瓜炒肉.md",
       "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+      "dishes/semi-finished/凉皮.md",
       "dishes/soup/奶油蘑菇汤.md",
       "dishes/soup/生汆丸子汤.md",
       "dishes/soup/番茄牛肉蛋花汤.md",
@@ -5646,6 +6608,7 @@
       "dishes/staple/照烧鸡腿饭.md",
       "dishes/staple/红芸豆拌饭.md",
       "dishes/staple/老友猪肉粉/老友猪肉粉.md",
+      "dishes/staple/蒸卤面.md",
       "dishes/staple/蛋炒饭.md",
       "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
       "dishes/staple/豆角焖面/豆角焖面.md",
@@ -5659,6 +6622,7 @@
       "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
       "dishes/vegetable_dish/凉拌油麦菜.md",
       "dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
+      "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
       "dishes/vegetable_dish/印度土豆花菜.md",
       "dishes/vegetable_dish/印度葫芦丸子.md",
       "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
@@ -5667,6 +6631,7 @@
       "dishes/vegetable_dish/水油焖蔬菜.md",
       "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
       "dishes/vegetable_dish/清炒花菜.md",
+      "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
       "dishes/vegetable_dish/素炒豆角.md",
       "dishes/vegetable_dish/红烧茄子.md",
       "dishes/vegetable_dish/茄子炖土豆.md",
@@ -5683,14 +6648,6 @@
       "dishes/vegetable_dish/陕北熬豆角.md",
       "dishes/vegetable_dish/韭菜炒蛋/韭菜炒蛋.md",
       "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md"
-    ]
-  },
-  "盐、生抽、老抽、蚝油": {
-    "name": "盐、生抽、老抽、蚝油",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md"
     ]
   },
   "盐出锅调味": {
@@ -5741,12 +6698,22 @@
       "dishes/semi-finished/速冻馄饨.md"
     ]
   },
+  "盘子": {
+    "name": "盘子",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/semi-finished/凉皮.md",
+      "dishes/staple/炒河粉.md"
+    ]
+  },
   "直径": {
     "name": "直径",
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/staple/手工水饺.md"
+      "dishes/staple/手工水饺.md",
+      "dishes/staple/麻辣减脂荞麦面.md"
     ]
   },
   "石斛": {
@@ -5782,8 +6749,8 @@
       "dishes/semi-finished/牛油火锅底料.md"
     ]
   },
-  "砂锅没有的话，用铁锅也行": {
-    "name": "砂锅没有的话，用铁锅也行",
+  "砂锅没有的话": {
+    "name": "砂锅没有的话",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -5844,6 +6811,14 @@
     "notes": [],
     "sources": [
       "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md"
+    ]
+  },
+  "笋": {
+    "name": "笋",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md"
     ]
   },
   "筛网": {
@@ -5923,6 +6898,14 @@
       "dishes/meat_dish/台式卤肉饭/台式卤肉饭.md"
     ]
   },
+  "米酒皆可": {
+    "name": "米酒皆可",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/血浆鸭/血浆鸭.md"
+    ]
+  },
   "米醋": {
     "name": "米醋",
     "processing_methods": [],
@@ -5987,6 +6970,22 @@
       "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md"
     ]
   },
+  "粥锅普通锅容易糊底": {
+    "name": "粥锅普通锅容易糊底",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/soup/腊八粥.md"
+    ]
+  },
+  "粽叶": {
+    "name": "粽叶",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/鲜肉烧卖.md"
+    ]
+  },
   "精盐": {
     "name": "精盐",
     "processing_methods": [],
@@ -6010,6 +7009,14 @@
     "notes": [],
     "sources": [
       "dishes/semi-finished/牛油火锅底料.md"
+    ]
+  },
+  "糍粑辣椒花溪党武的辣椒": {
+    "name": "糍粑辣椒花溪党武的辣椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
     ]
   },
   "糖": {
@@ -6089,8 +7096,8 @@
       "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md"
     ]
   },
-  "紫苏叶一小把，与田螺是绝配": {
-    "name": "紫苏叶一小把，与田螺是绝配",
+  "紫苏叶一小把": {
+    "name": "紫苏叶一小把",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -6148,15 +7155,8 @@
       "dishes/aquatic/肉蟹煲.md",
       "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md",
       "dishes/meat_dish/乡村啤酒鸭.md",
+      "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md",
       "dishes/vegetable_dish/酸辣土豆丝.md"
-    ]
-  },
-  "红椒可选，装饰用": {
-    "name": "红椒可选，装饰用",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md"
     ]
   },
   "红油豆瓣": {
@@ -6350,6 +7350,15 @@
       "dishes/meat_dish/带把肘子.md"
     ]
   },
+  "约": {
+    "name": "约",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md",
+      "dishes/meat_dish/田螺酿/田螺酿.md"
+    ]
+  },
   "纯牛奶推荐卫岗鲜奶": {
     "name": "纯牛奶推荐卫岗鲜奶",
     "processing_methods": [],
@@ -6411,7 +7420,9 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/aquatic/混合烤鱼/烤鱼.md"
+      "dishes/aquatic/混合烤鱼/烤鱼.md",
+      "dishes/semi-finished/凉皮.md",
+      "dishes/staple/炒河粉.md"
     ]
   },
   "罐头菠萝片": {
@@ -6464,6 +7475,14 @@
       "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md"
     ]
   },
+  "美人椒": {
+    "name": "美人椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/红烧鱼头.md"
+    ]
+  },
   "美人辣": {
     "name": "美人辣",
     "processing_methods": [],
@@ -6472,8 +7491,8 @@
       "dishes/meat_dish/姜炒鸡/姜炒鸡.md"
     ]
   },
-  "翘嘴鱼肉食性鱼类，肉细腻，口感好": {
-    "name": "翘嘴鱼肉食性鱼类，肉细腻，口感好",
+  "翘嘴鱼肉食性鱼类": {
+    "name": "翘嘴鱼肉食性鱼类",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -6512,6 +7531,8 @@
     "notes": [],
     "sources": [
       "dishes/aquatic/响油鳝丝.md",
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/aquatic/肉蟹煲.md",
       "dishes/aquatic/酱炖蟹.md",
       "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md",
@@ -6551,14 +7572,17 @@
       "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
       "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
       "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
+      "dishes/semi-finished/凉皮.md",
       "dishes/staple/可乐炒饭.md",
       "dishes/staple/炒凉粉/炒凉粉.md",
       "dishes/staple/照烧鸡腿饭.md",
       "dishes/staple/猪油拌饭.md",
       "dishes/staple/肉蛋盖饭.md",
       "dishes/staple/葱油拌面.md",
+      "dishes/staple/蒸卤面.md",
       "dishes/staple/豆角焖面/豆角焖面.md",
       "dishes/staple/麻油拌面.md",
+      "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
       "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
       "dishes/vegetable_dish/素炒豆角.md",
       "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
@@ -6597,6 +7621,14 @@
     "sources": [
       "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
       "dishes/vegetable_dish/脆皮豆腐.md"
+    ]
+  },
+  "而不是辣椒面或辣椒油": {
+    "name": "而不是辣椒面或辣椒油",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/茄子炖土豆.md"
     ]
   },
   "耐热盘适合蒸的盘子": {
@@ -6641,12 +7673,12 @@
       "dishes/staple/炸酱面.md"
     ]
   },
-  "肉最好为五花肉": {
-    "name": "肉最好为五花肉",
+  "肉厚的": {
+    "name": "肉厚的",
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/staple/豆角焖面/豆角焖面.md"
+      "dishes/meat_dish/青椒酿/青椒酿.md"
     ]
   },
   "肉末": {
@@ -6701,8 +7733,8 @@
       "dishes/staple/意式肉酱面/意式肉酱面.md"
     ]
   },
-  "肉猪肉、鸡肉、牛肉均可": {
-    "name": "肉猪肉、鸡肉、牛肉均可",
+  "肉猪肉": {
+    "name": "肉猪肉",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -6717,12 +7749,28 @@
       "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md"
     ]
   },
+  "肉细腻": {
+    "name": "肉细腻",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md"
+    ]
+  },
   "肉蟹推荐优先级从高到低": {
     "name": "肉蟹推荐优先级从高到低",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/aquatic/肉蟹煲.md"
+    ]
+  },
+  "肉质更嫩": {
+    "name": "肉质更嫩",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/红烧鸡翅.md"
     ]
   },
   "肉馅": {
@@ -6750,12 +7798,30 @@
       "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md"
     ]
   },
+  "肥牛火锅肥牛即可": {
+    "name": "肥牛火锅肥牛即可",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
+    ]
+  },
   "肥牛片": {
     "name": "肥牛片",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/staple/炒意大利面/炒意大利面.md"
+    ]
+  },
+  "肥瘦比例": {
+    "name": "肥瘦比例",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
+      "dishes/meat_dish/田螺酿/田螺酿.md",
+      "dishes/meat_dish/青椒酿/青椒酿.md"
     ]
   },
   "胡椒粉": {
@@ -6766,6 +7832,7 @@
       "dishes/aquatic/响油鳝丝.md",
       "dishes/condiment/炸串酱料.md",
       "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
+      "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
       "dishes/meat_dish/小酥肉.md",
       "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
       "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
@@ -6783,16 +7850,16 @@
       "dishes/staple/麻油拌面.md"
     ]
   },
-  "胡椒粉推荐白胡椒粉，辛辣味较淡": {
-    "name": "胡椒粉推荐白胡椒粉，辛辣味较淡",
+  "胡椒粉推荐白胡椒粉": {
+    "name": "胡椒粉推荐白胡椒粉",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/meat_dish/红烧鸡翅.md"
     ]
   },
-  "胡椒粉白胡椒、黑胡椒均可": {
-    "name": "胡椒粉白胡椒、黑胡椒均可",
+  "胡椒粉白胡椒": {
+    "name": "胡椒粉白胡椒",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -6824,6 +7891,7 @@
       "dishes/meat_dish/番茄红酱.md",
       "dishes/meat_dish/鱼香肉丝.md",
       "dishes/soup/排骨山药玉米汤/排骨山药玉米汤.md",
+      "dishes/soup/罗宋汤.md",
       "dishes/staple/中式馅饼/中式馅饼.md",
       "dishes/staple/扬州炒饭/扬州炒饭.md",
       "dishes/staple/日式咖喱饭/日式咖喱饭.md",
@@ -6833,7 +7901,8 @@
       "dishes/staple/蛋炒饭.md",
       "dishes/staple/韩式拌饭/韩式拌饭.md",
       "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
-      "dishes/vegetable_dish/家常日本豆腐.md"
+      "dishes/vegetable_dish/家常日本豆腐.md",
+      "dishes/vegetable_dish/松仁玉米.md"
     ]
   },
   "胡萝卜可无": {
@@ -6844,14 +7913,6 @@
       "dishes/meat_dish/老式锅包肉/老式锅包肉.md"
     ]
   },
-  "胡萝卜可选，增加色彩": {
-    "name": "胡萝卜可选，增加色彩",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/vegetable_dish/松仁玉米.md"
-    ]
-  },
   "胡萝卜建议选用红色胡萝卜": {
     "name": "胡萝卜建议选用红色胡萝卜",
     "processing_methods": [],
@@ -6860,12 +7921,28 @@
       "dishes/dessert/胡萝卜甜糕.md"
     ]
   },
+  "能够将燕麦搅拌粘稠即可": {
+    "name": "能够将燕麦搅拌粘稠即可",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/breakfast/燕麦鸡蛋饼.md"
+    ]
+  },
   "能放进微波炉的容器": {
     "name": "能放进微波炉的容器",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/breakfast/微波炉蛋糕.md"
+    ]
+  },
+  "能没过一大半就行": {
+    "name": "能没过一大半就行",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/家常日本豆腐.md"
     ]
   },
   "腊肠": {
@@ -6918,6 +7995,14 @@
       "dishes/semi-finished/牛油火锅底料.md"
     ]
   },
+  "色红味不辣": {
+    "name": "色红味不辣",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/黄油鸡.md"
+    ]
+  },
   "芝士": {
     "name": "芝士",
     "processing_methods": [],
@@ -6941,6 +8026,7 @@
     "notes": [],
     "sources": [
       "dishes/aquatic/白灼虾/白灼虾.md",
+      "dishes/breakfast/煎饺.md",
       "dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md",
       "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
       "dishes/meat_dish/糖醋排骨/糖醋排骨.md",
@@ -6949,14 +8035,6 @@
       "dishes/staple/利提巧卡.md",
       "dishes/staple/韩式拌饭/韩式拌饭.md",
       "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md"
-    ]
-  },
-  "芝麻、葱花切段或其他配料": {
-    "name": "芝麻、葱花切段或其他配料",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/breakfast/煎饺.md"
     ]
   },
   "芝麻油": {
@@ -7000,6 +8078,14 @@
       "dishes/vegetable_dish/凉拌油麦菜.md"
     ]
   },
+  "芝麻酱原味芝麻酱最佳": {
+    "name": "芝麻酱原味芝麻酱最佳",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/semi-finished/凉皮.md"
+    ]
+  },
   "芝麻香油": {
     "name": "芝麻香油",
     "processing_methods": [],
@@ -7035,7 +8121,9 @@
       "dishes/condiment/油泼辣子/油泼辣子.md",
       "dishes/meat_dish/口水鸡/口水鸡.md",
       "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/煎烤羊排/煎烤羊排.md",
+      "dishes/meat_dish/猪皮冻/猪皮冻.md",
       "dishes/meat_dish/羊排焖面/羊排焖面.md",
       "dishes/meat_dish/萝卜炖羊排.md",
       "dishes/meat_dish/葱烧鸡腿.md",
@@ -7100,6 +8188,14 @@
       "dishes/soup/腊八粥.md"
     ]
   },
+  "花生包": {
+    "name": "花生包",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/螺蛳粉.md"
+    ]
+  },
   "花生油": {
     "name": "花生油",
     "processing_methods": [],
@@ -7146,8 +8242,8 @@
       "dishes/vegetable_dish/印度土豆花菜.md"
     ]
   },
-  "花雕酒，白酒": {
-    "name": "花雕酒，白酒",
+  "花雕酒": {
+    "name": "花雕酒",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -7221,6 +8317,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md"
     ]
   },
@@ -7237,6 +8334,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
       "dishes/staple/利提巧卡.md",
       "dishes/vegetable_dish/地三鲜/地三鲜.md",
@@ -7246,8 +8344,8 @@
       "dishes/vegetable_dish/蒲烧茄子.md"
     ]
   },
-  "茄子买长条状的，越圆越好": {
-    "name": "茄子买长条状的，越圆越好",
+  "茄子买长条状的": {
+    "name": "茄子买长条状的",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -7302,6 +8400,14 @@
       "dishes/drink/泰国手标红茶/泰国手标红茶.md"
     ]
   },
+  "草垫": {
+    "name": "草垫",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/鲜肉烧卖.md"
+    ]
+  },
   "草寇": {
     "name": "草寇",
     "processing_methods": [],
@@ -7326,6 +8432,23 @@
     "sources": [
       "dishes/condiment/草莓酱/草莓酱.md",
       "dishes/dessert/草莓冰淇淋/草莓冰淇淋.md"
+    ]
+  },
+  "草鱼农贸市场或者超市让店家杀掉": {
+    "name": "草鱼农贸市场或者超市让店家杀掉",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/混合烤鱼/烤鱼.md"
+    ]
+  },
+  "荔浦芋头电商平台购买即可": {
+    "name": "荔浦芋头电商平台购买即可",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/反沙芋头/反沙芋头.md",
+      "dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md"
     ]
   },
   "荜拨": {
@@ -7401,6 +8524,14 @@
       "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md"
     ]
   },
+  "菜椒和甜椒可以不用": {
+    "name": "菜椒和甜椒可以不用",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md"
+    ]
+  },
   "菜椒红": {
     "name": "菜椒红",
     "processing_methods": [],
@@ -7409,8 +8540,16 @@
       "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md"
     ]
   },
-  "菜码根据个人喜好选择，通常": {
-    "name": "菜码根据个人喜好选择，通常",
+  "菜油未脱色的菜籽油": {
+    "name": "菜油未脱色的菜籽油",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/酱炖蟹.md"
+    ]
+  },
+  "菜码根据个人喜好选择": {
+    "name": "菜码根据个人喜好选择",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -7457,6 +8596,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/meat_dish/麻辣香锅.md",
       "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md"
     ]
   },
@@ -7492,6 +8632,14 @@
       "dishes/staple/热干面.md"
     ]
   },
+  "萝卜等": {
+    "name": "萝卜等",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/炸酱面.md"
+    ]
+  },
   "葡萄干": {
     "name": "葡萄干",
     "processing_methods": [],
@@ -7506,6 +8654,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/油焖大虾/油焖大虾.md",
       "dishes/aquatic/清蒸生蚝.md",
       "dishes/aquatic/白灼虾/白灼虾.md",
       "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
@@ -7516,8 +8665,10 @@
       "dishes/dessert/反沙芋头/反沙芋头.md",
       "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
       "dishes/meat_dish/商芝肉.md",
+      "dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
       "dishes/meat_dish/孜然牛肉.md",
       "dishes/meat_dish/小炒肉.md",
+      "dishes/meat_dish/尖椒炒牛肉.md",
       "dishes/meat_dish/带把肘子.md",
       "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
       "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
@@ -7535,15 +8686,19 @@
       "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
       "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
       "dishes/meat_dish/鱼香肉丝.md",
+      "dishes/soup/番茄牛肉蛋花汤.md",
+      "dishes/soup/西红柿鸡蛋汤.md",
       "dishes/staple/扬州炒饭/扬州炒饭.md",
       "dishes/staple/河南蒸面条/河南蒸面条.md",
       "dishes/staple/炒年糕.md",
       "dishes/staple/肉蛋盖饭.md",
+      "dishes/staple/蒸卤面.md",
       "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
       "dishes/staple/豆角焖面/豆角焖面.md",
       "dishes/staple/酸辣蕨根粉.md",
       "dishes/staple/陕西油泼面/陕西油泼面.md",
       "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
+      "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
       "dishes/vegetable_dish/地三鲜/地三鲜.md",
       "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
       "dishes/vegetable_dish/素炒豆角.md",
@@ -7551,32 +8706,6 @@
       "dishes/vegetable_dish/酸辣土豆丝.md",
       "dishes/vegetable_dish/陕北熬豆角.md",
       "dishes/vegetable_dish/雷椒皮蛋.md"
-    ]
-  },
-  "葱、姜": {
-    "name": "葱、姜",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/aquatic/油焖大虾/油焖大虾.md"
-    ]
-  },
-  "葱、姜、蒜": {
-    "name": "葱、姜、蒜",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/尖椒炒牛肉.md",
-      "dishes/soup/番茄牛肉蛋花汤.md",
-      "dishes/soup/西红柿鸡蛋汤.md"
-    ]
-  },
-  "葱、蒜、干辣椒": {
-    "name": "葱、蒜、干辣椒",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md"
     ]
   },
   "葱也可选用切好的葱段": {
@@ -7650,7 +8779,16 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md"
+      "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
+      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
+    ]
+  },
+  "葱段推荐使用大葱白部分": {
+    "name": "葱段推荐使用大葱白部分",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/红烧鸡翅.md"
     ]
   },
   "葱结": {
@@ -7668,6 +8806,7 @@
     "sources": [
       "dishes/aquatic/响油鳝丝.md",
       "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
+      "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
       "dishes/meat_dish/豉汁排骨.md",
       "dishes/soup/紫菜蛋花汤.md",
       "dishes/staple/可乐炒饭.md",
@@ -7676,20 +8815,12 @@
       "dishes/vegetable_dish/西红柿炒鸡蛋.md"
     ]
   },
-  "葱，姜": {
-    "name": "葱，姜",
+  "葱花切段或其他配料": {
+    "name": "葱花切段或其他配料",
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md"
-    ]
-  },
-  "葱，姜，蒜": {
-    "name": "葱，姜，蒜",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/staple/蒸卤面.md"
+      "dishes/breakfast/煎饺.md"
     ]
   },
   "蒜": {
@@ -7706,8 +8837,11 @@
       "dishes/meat_dish/冷吃兔.md",
       "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
       "dishes/meat_dish/小炒肉.md",
+      "dishes/meat_dish/尖椒炒牛肉.md",
       "dishes/meat_dish/意式烤鸡.md",
       "dishes/meat_dish/杀猪菜.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
       "dishes/meat_dish/猪肉烩酸菜.md",
       "dishes/meat_dish/老妈蹄花/老妈蹄花.md",
@@ -7722,12 +8856,16 @@
       "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
       "dishes/meat_dish/鱼香肉丝.md",
       "dishes/meat_dish/黄瓜炒肉.md",
+      "dishes/soup/番茄牛肉蛋花汤.md",
+      "dishes/soup/西红柿鸡蛋汤.md",
       "dishes/staple/炸酱面.md",
+      "dishes/staple/蒸卤面.md",
       "dishes/staple/酸辣蕨根粉.md",
       "dishes/staple/陕西油泼面/陕西油泼面.md",
       "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
       "dishes/vegetable_dish/凉拌油麦菜.md",
       "dishes/vegetable_dish/凉拌黄瓜.md",
+      "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
       "dishes/vegetable_dish/地三鲜/地三鲜.md",
       "dishes/vegetable_dish/家常日本豆腐.md",
       "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
@@ -7773,15 +8911,8 @@
       "dishes/aquatic/响油鳝丝.md",
       "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
       "dishes/meat_dish/粉蒸肉.md",
+      "dishes/meat_dish/蚂蚁上树.md",
       "dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md"
-    ]
-  },
-  "蒜末、姜末": {
-    "name": "蒜末、姜末",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/蚂蚁上树.md"
     ]
   },
   "蒜水": {
@@ -7806,10 +8937,12 @@
     "notes": [],
     "sources": [
       "dishes/aquatic/水煮鱼.md",
+      "dishes/aquatic/红烧鱼.md",
       "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
       "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
       "dishes/meat_dish/番茄红酱.md",
       "dishes/meat_dish/蒜苔炒肉末.md",
+      "dishes/staple/炒河粉.md",
       "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md"
     ]
   },
@@ -7821,6 +8954,14 @@
       "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
       "dishes/meat_dish/甜辣烤全翅.md",
       "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
+    ]
+  },
+  "蒜臼": {
+    "name": "蒜臼",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/semi-finished/凉皮.md"
     ]
   },
   "蒜苔": {
@@ -7895,6 +9036,14 @@
       "dishes/breakfast/蒸花卷.md"
     ]
   },
+  "蒸笼垫推荐顺序为刷油竹垫": {
+    "name": "蒸笼垫推荐顺序为刷油竹垫",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/鲜肉烧卖.md"
+    ]
+  },
   "蒸箱": {
     "name": "蒸箱",
     "processing_methods": [],
@@ -7933,14 +9082,6 @@
     "notes": [],
     "sources": [
       "dishes/drink/酒酿醪糟/酒酿醪糟.md"
-    ]
-  },
-  "蒸锅，需带笼屉": {
-    "name": "蒸锅，需带笼屉",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/staple/蒸卤面.md"
     ]
   },
   "蒸鱼盘子能平放下一条鱼即可": {
@@ -7993,8 +9134,8 @@
       "dishes/aquatic/水煮鱼.md"
     ]
   },
-  "蔬菜高汤欧芹、胡萝卜、洋葱三件套": {
-    "name": "蔬菜高汤欧芹、胡萝卜、洋葱三件套",
+  "蔬菜高汤欧芹": {
+    "name": "蔬菜高汤欧芹",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -8025,16 +9166,16 @@
       "dishes/staple/印度焖饭.md"
     ]
   },
-  "薄荷叶或其他绿叶可选，装饰使用": {
-    "name": "薄荷叶或其他绿叶可选，装饰使用",
+  "薄荷叶或其他绿叶": {
+    "name": "薄荷叶或其他绿叶",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/drink/百香果橙子特调/百香果橙子特调.md"
     ]
   },
-  "薄荷叶或坚果碎可选，用于装饰": {
-    "name": "薄荷叶或坚果碎可选，用于装饰",
+  "薄荷叶或坚果碎": {
+    "name": "薄荷叶或坚果碎",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -8117,8 +9258,8 @@
       "dishes/staple/鲜肉烧卖.md"
     ]
   },
-  "虾仁个人口味，可加可不加": {
-    "name": "虾仁个人口味，可加可不加",
+  "虾仁个人口味": {
+    "name": "虾仁个人口味",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -8150,6 +9291,7 @@
       "dishes/aquatic/响油鳝丝.md",
       "dishes/aquatic/白灼虾/白灼虾.md",
       "dishes/aquatic/红烧鱼.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/aquatic/肉蟹煲.md",
       "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
       "dishes/meat_dish/冬瓜桑拿鸡.md",
@@ -8159,8 +9301,10 @@
       "dishes/meat_dish/小米辣炒肉.md",
       "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
       "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
       "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
       "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
       "dishes/meat_dish/甜辣烤全翅.md",
       "dishes/meat_dish/田螺酿/田螺酿.md",
@@ -8174,12 +9318,15 @@
       "dishes/meat_dish/青椒酿/青椒酿.md",
       "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
       "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
+      "dishes/semi-finished/凉皮.md",
       "dishes/soup/皮蛋瘦肉粥.md",
       "dishes/staple/可乐炒饭.md",
       "dishes/staple/猪油拌饭.md",
       "dishes/vegetable_dish/凉拌油麦菜.md",
+      "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
       "dishes/vegetable_dish/家常日本豆腐.md",
       "dishes/vegetable_dish/水油焖蔬菜.md",
+      "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
       "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
       "dishes/vegetable_dish/脆皮豆腐.md",
       "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
@@ -8199,12 +9346,29 @@
       "dishes/vegetable_dish/油醋爆蛋.md"
     ]
   },
+  "蚝油或者鸡精": {
+    "name": "蚝油或者鸡精",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md"
+    ]
+  },
+  "蛋": {
+    "name": "蛋",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md"
+    ]
+  },
   "蛋挞皮": {
     "name": "蛋挞皮",
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/dessert/烤蛋挞/烤蛋挞.md"
+      "dishes/dessert/烤蛋挞/烤蛋挞.md",
+      "dishes/semi-finished/懒人蛋挞/懒人蛋挞.md"
     ]
   },
   "蛋清": {
@@ -8245,8 +9409,8 @@
       "dishes/vegetable_dish/蒲烧茄子.md"
     ]
   },
-  "螃蟹首选河蟹，次选梭子蟹": {
-    "name": "螃蟹首选河蟹，次选梭子蟹",
+  "螃蟹首选河蟹": {
+    "name": "螃蟹首选河蟹",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -8259,6 +9423,7 @@
     "notes": [],
     "sources": [
       "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+      "dishes/meat_dish/辣椒炒肉.md",
       "dishes/vegetable_dish/陕北熬豆角.md"
     ]
   },
@@ -8294,8 +9459,8 @@
       "dishes/drink/奶茶.md"
     ]
   },
-  "袋装螺蛳粉一包，其中应该包含": {
-    "name": "袋装螺蛳粉一包，其中应该包含",
+  "袋装螺蛳粉一包": {
+    "name": "袋装螺蛳粉一包",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -8308,6 +9473,24 @@
     "notes": [],
     "sources": [
       "dishes/dessert/提拉米苏/提拉米苏.md"
+    ]
+  },
+  "装饰使用": {
+    "name": "装饰使用",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/drink/百香果橙子特调/百香果橙子特调.md"
+    ]
+  },
+  "装饰用": {
+    "name": "装饰用",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/drink/金汤力/金汤力.md",
+      "dishes/drink/金菲士/金菲士.md",
+      "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md"
     ]
   },
   "西兰花": {
@@ -8352,6 +9535,14 @@
       "dishes/vegetable_dish/陕北熬豆角.md"
     ]
   },
+  "西红柿如果不酸就不用加": {
+    "name": "西红柿如果不酸就不用加",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md"
+    ]
+  },
   "西葫芦": {
     "name": "西葫芦",
     "processing_methods": [],
@@ -8369,12 +9560,36 @@
       "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md"
     ]
   },
+  "让店家处理内脏": {
+    "name": "让店家处理内脏",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md"
+    ]
+  },
+  "让蛋皮更嫩": {
+    "name": "让蛋皮更嫩",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/蛋包饭.md"
+    ]
+  },
   "话梅": {
     "name": "话梅",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md"
+    ]
+  },
+  "请参考制作焖面https": {
+    "name": "请参考制作焖面https",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/蒸卤面.md"
     ]
   },
   "调味料": {
@@ -8384,6 +9599,14 @@
     "sources": [
       "dishes/staple/炒年糕.md",
       "dishes/staple/麻辣减脂荞麦面.md"
+    ]
+  },
+  "调味用": {
+    "name": "调味用",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/soup/腊八粥.md"
     ]
   },
   "谷朊粉": {
@@ -8442,6 +9665,7 @@
       "dishes/meat_dish/小米辣炒肉.md",
       "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
       "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
+      "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
       "dishes/meat_dish/鱼香肉丝.md",
       "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
       "dishes/staple/可乐炒饭.md",
@@ -8459,11 +9683,20 @@
       "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md"
     ]
   },
+  "豆皮包": {
+    "name": "豆皮包",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/螺蛳粉.md"
+    ]
+  },
   "豆腐": {
     "name": "豆腐",
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
       "dishes/staple/滕州菜煎饼.md",
       "dishes/vegetable_dish/凉拌豆腐.md",
@@ -8476,6 +9709,7 @@
     "notes": [],
     "sources": [
       "dishes/aquatic/水煮鱼.md",
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
       "dishes/meat_dish/水煮肉片.md",
       "dishes/staple/韩式拌饭/韩式拌饭.md"
@@ -8550,6 +9784,14 @@
       "dishes/dessert/魔芋蛋糕/魔芋蛋糕.md"
     ]
   },
+  "越圆越好": {
+    "name": "越圆越好",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/茄子肉煎饼/茄子肉煎饼.md"
+    ]
+  },
   "辅料": {
     "name": "辅料",
     "processing_methods": [],
@@ -8557,6 +9799,14 @@
     "sources": [
       "dishes/meat_dish/红烧肉/南派红烧肉.md",
       "dishes/meat_dish/红烧肉/简易红烧肉.md"
+    ]
+  },
+  "辛辣味较淡": {
+    "name": "辛辣味较淡",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/红烧鸡翅.md"
     ]
   },
   "辣椒": {
@@ -8579,6 +9829,14 @@
       "dishes/breakfast/韩国麻药鸡蛋.md"
     ]
   },
+  "辣椒是青辣椒": {
+    "name": "辣椒是青辣椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/茄子炖土豆.md"
+    ]
+  },
   "辣椒油": {
     "name": "辣椒油",
     "processing_methods": [],
@@ -8588,6 +9846,14 @@
       "dishes/vegetable_dish/凉拌豆腐.md",
       "dishes/vegetable_dish/凉拌金针菇.md",
       "dishes/vegetable_dish/皮蛋豆腐.md"
+    ]
+  },
+  "辣椒油等调味包": {
+    "name": "辣椒油等调味包",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/螺蛳粉.md"
     ]
   },
   "辣椒粉": {
@@ -8610,6 +9876,14 @@
       "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md"
     ]
   },
+  "辣香肠": {
+    "name": "辣香肠",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/breakfast/意式香肠北非蛋.md"
+    ]
+  },
   "过滤网": {
     "name": "过滤网",
     "processing_methods": [],
@@ -8625,6 +9899,46 @@
     "notes": [],
     "sources": [
       "dishes/drink/冰粉/冰粉.md"
+    ]
+  },
+  "这个是灵魂": {
+    "name": "这个是灵魂",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md"
+    ]
+  },
+  "这里推荐芦笋": {
+    "name": "这里推荐芦笋",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/牛排/牛排.md"
+    ]
+  },
+  "选其中的": {
+    "name": "选其中的",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/牛排/牛排.md"
+    ]
+  },
+  "选笔直": {
+    "name": "选笔直",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/青椒酿/青椒酿.md"
+    ]
+  },
+  "通常": {
+    "name": "通常",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/炸酱面.md"
     ]
   },
   "通心粉": {
@@ -8651,6 +9965,30 @@
       "dishes/drink/冰粉/冰粉.md"
     ]
   },
+  "遵义的子弹头": {
+    "name": "遵义的子弹头",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
+    ]
+  },
+  "那个...有摆盘需求的话": {
+    "name": "那个...有摆盘需求的话",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md"
+    ]
+  },
+  "郫县红油豆瓣酱注意区分": {
+    "name": "郫县红油豆瓣酱注意区分",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md"
+    ]
+  },
   "郫县豆瓣": {
     "name": "郫县豆瓣",
     "processing_methods": [],
@@ -8665,6 +10003,7 @@
     "notes": [],
     "sources": [
       "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
+      "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
       "dishes/meat_dish/粉蒸肉.md",
       "dishes/meat_dish/蚂蚁上树.md"
     ]
@@ -8677,8 +10016,8 @@
       "dishes/meat_dish/牛排/牛排.md"
     ]
   },
-  "酒或者白酒、啤酒、米酒皆可": {
-    "name": "酒或者白酒、啤酒、米酒皆可",
+  "酒或者白酒": {
+    "name": "酒或者白酒",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -8719,6 +10058,7 @@
       "dishes/aquatic/微波葱姜黑鳕鱼.md",
       "dishes/aquatic/清蒸生蚝.md",
       "dishes/aquatic/白灼虾/白灼虾.md",
+      "dishes/aquatic/红烧鱼.md",
       "dishes/condiment/蒜香酱油.md",
       "dishes/meat_dish/商芝肉.md",
       "dishes/meat_dish/尖椒炒牛肉.md",
@@ -8728,6 +10068,7 @@
       "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
       "dishes/meat_dish/辣椒炒肉.md",
       "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
+      "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
       "dishes/meat_dish/黄焖鸡.md",
       "dishes/soup/皮蛋瘦肉粥.md",
       "dishes/staple/中式馅饼/中式馅饼.md",
@@ -8735,20 +10076,13 @@
       "dishes/staple/热干面.md",
       "dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
       "dishes/staple/老干妈拌面.md",
+      "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
       "dishes/staple/酸辣蕨根粉.md",
       "dishes/vegetable_dish/凉拌油麦菜.md",
       "dishes/vegetable_dish/凉拌黄瓜.md",
       "dishes/vegetable_dish/炒茄子.md",
       "dishes/vegetable_dish/红烧茄子.md",
       "dishes/vegetable_dish/茄子炖土豆.md"
-    ]
-  },
-  "酱油、蚝油或者鸡精": {
-    "name": "酱油、蚝油或者鸡精",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md"
     ]
   },
   "酱油味极鲜酱油": {
@@ -8795,8 +10129,8 @@
       "dishes/staple/鹰嘴豆炸饼.md"
     ]
   },
-  "酸奶或牛奶可选，帮助肉质更滑嫩": {
-    "name": "酸奶或牛奶可选，帮助肉质更滑嫩",
+  "酸奶或牛奶": {
+    "name": "酸奶或牛奶",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -8816,15 +10150,16 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/meat_dish/田螺酿/田螺酿.md",
       "dishes/staple/老友猪肉粉/老友猪肉粉.md"
     ]
   },
-  "酸笋可选": {
-    "name": "酸笋可选",
+  "酸笋包": {
+    "name": "酸笋包",
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/meat_dish/田螺酿/田螺酿.md"
+      "dishes/staple/螺蛳粉.md"
     ]
   },
   "酸菜": {
@@ -8848,6 +10183,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/红烧鱼.md",
       "dishes/meat_dish/口水鸡/口水鸡.md",
       "dishes/meat_dish/商芝肉.md",
       "dishes/meat_dish/糖醋里脊.md",
@@ -8865,8 +10201,8 @@
       "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md"
     ]
   },
-  "醋包、辣椒油等调味包": {
-    "name": "醋包、辣椒油等调味包",
+  "醋包": {
+    "name": "醋包",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -8998,6 +10334,14 @@
       "dishes/soup/银耳莲子粥/银耳莲子粥.md"
     ]
   },
+  "锅铲": {
+    "name": "锅铲",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md"
+    ]
+  },
   "锡箔纸": {
     "name": "锡箔纸",
     "processing_methods": [],
@@ -9021,6 +10365,14 @@
     "sources": [
       "dishes/dessert/红柚蛋糕/红柚蛋糕.md",
       "dishes/meat_dish/甜辣烤全翅.md"
+    ]
+  },
+  "长条青椒有些叫线椒": {
+    "name": "长条青椒有些叫线椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/vegetable_dish/雷椒皮蛋.md"
     ]
   },
   "闽星茶树菇": {
@@ -9071,6 +10423,8 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/红烧鱼头.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/meat_dish/山西过油肉.md",
       "dishes/vegetable_dish/酸辣土豆丝.md",
       "dishes/vegetable_dish/雷椒皮蛋.md"
@@ -9117,6 +10471,14 @@
       "dishes/dessert/雪花酥/雪花酥.md"
     ]
   },
+  "需带笼屉": {
+    "name": "需带笼屉",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/蒸卤面.md"
+    ]
+  },
   "需要烤箱": {
     "name": "需要烤箱",
     "processing_methods": [],
@@ -9137,6 +10499,7 @@
       "dishes/meat_dish/咕噜肉.md",
       "dishes/meat_dish/孜然牛肉.md",
       "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/meat_dish/羊排焖面/羊排焖面.md",
       "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
       "dishes/meat_dish/青椒酿/青椒酿.md",
@@ -9147,6 +10510,14 @@
       "dishes/vegetable_dish/家常日本豆腐.md",
       "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
       "dishes/vegetable_dish/酸辣土豆丝.md"
+    ]
+  },
+  "青椒吃辣的话推荐用杭椒": {
+    "name": "青椒吃辣的话推荐用杭椒",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/辣椒炒肉.md"
     ]
   },
   "青椒番茄胡萝卜等蔬菜类": {
@@ -9216,16 +10587,16 @@
       "dishes/vegetable_dish/炒青菜.md"
     ]
   },
-  "青菜推荐矮脚青菜，又称上海青": {
-    "name": "青菜推荐矮脚青菜，又称上海青",
+  "青菜推荐矮脚青菜": {
+    "name": "青菜推荐矮脚青菜",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/staple/咸肉菜饭.md"
     ]
   },
-  "青菜油菜、油麦菜、菠菜": {
-    "name": "青菜油菜、油麦菜、菠菜",
+  "青菜油菜": {
+    "name": "青菜油菜",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -9329,6 +10700,22 @@
       "dishes/staple/炸酱面.md"
     ]
   },
+  "面筋": {
+    "name": "面筋",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/semi-finished/凉皮.md"
+    ]
+  },
+  "面筋块": {
+    "name": "面筋块",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/炒河粉.md"
+    ]
+  },
   "面粉": {
     "name": "面粉",
     "processing_methods": [],
@@ -9398,8 +10785,8 @@
       "dishes/meat_dish/牛排/牛排.md"
     ]
   },
-  "风味调料如鸡粉、孜然、椒盐": {
-    "name": "风味调料如鸡粉、孜然、椒盐",
+  "风味调料如鸡粉": {
+    "name": "风味调料如鸡粉",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -9518,8 +10905,8 @@
       "dishes/staple/红芸豆拌饭.md"
     ]
   },
-  "食用油或黄油，但需加热软化": {
-    "name": "食用油或黄油，但需加热软化",
+  "食用油或黄油": {
+    "name": "食用油或黄油",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -9558,6 +10945,7 @@
       "dishes/aquatic/响油鳝丝.md",
       "dishes/aquatic/混合烤鱼/烤鱼.md",
       "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
+      "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
       "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
       "dishes/meat_dish/水煮肉片.md",
       "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
@@ -9624,6 +11012,14 @@
       "dishes/breakfast/煎饺.md"
     ]
   },
+  "饼干非夹心型饼干": {
+    "name": "饼干非夹心型饼干",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/dessert/雪花酥/雪花酥.md"
+    ]
+  },
   "馒头隔天略硬更好": {
     "name": "馒头隔天略硬更好",
     "processing_methods": [],
@@ -9648,11 +11044,13 @@
       "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
       "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
       "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/meat_dish/杀猪菜.md",
       "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
       "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
       "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
       "dishes/meat_dish/煎烤羊排/煎烤羊排.md",
+      "dishes/meat_dish/猪皮冻/猪皮冻.md",
       "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
       "dishes/meat_dish/红烧鸡翅.md",
       "dishes/meat_dish/虎皮肘子.md",
@@ -9663,6 +11061,14 @@
       "dishes/semi-finished/牛油火锅底料.md"
     ]
   },
+  "香味更浓郁": {
+    "name": "香味更浓郁",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/红烧鸡翅.md"
+    ]
+  },
   "香干": {
     "name": "香干",
     "processing_methods": [],
@@ -9671,11 +11077,20 @@
       "dishes/meat_dish/香干肉丝.md"
     ]
   },
+  "香料": {
+    "name": "香料",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/牛排/牛排.md"
+    ]
+  },
   "香果": {
     "name": "香果",
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "dishes/semi-finished/牛油火锅底料.md"
     ]
   },
@@ -9686,6 +11101,7 @@
     "sources": [
       "dishes/breakfast/微波炉蒸蛋.md",
       "dishes/meat_dish/杀猪菜.md",
+      "dishes/semi-finished/凉皮.md",
       "dishes/soup/生汆丸子汤.md",
       "dishes/soup/西红柿鸡蛋汤.md",
       "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
@@ -9715,6 +11131,14 @@
     "notes": [],
     "sources": [
       "dishes/semi-finished/速冻馄饨.md"
+    ]
+  },
+  "香芋": {
+    "name": "香芋",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md"
     ]
   },
   "香芹": {
@@ -9756,6 +11180,7 @@
     "notes": [],
     "sources": [
       "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
       "dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
       "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md"
     ]
@@ -9776,6 +11201,14 @@
       "dishes/staple/鲜肉烧卖.md"
     ]
   },
+  "香菌": {
+    "name": "香菌",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/桂林十八酿/桂林十八酿.md"
+    ]
+  },
   "香菜": {
     "name": "香菜",
     "processing_methods": [],
@@ -9784,6 +11217,7 @@
       "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
       "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
       "dishes/aquatic/红烧鱼.md",
+      "dishes/aquatic/红烧鱼头.md",
       "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
       "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
       "dishes/condiment/葱油.md",
@@ -9811,6 +11245,14 @@
     "notes": [],
     "sources": [
       "dishes/staple/印度烤饼.md"
+    ]
+  },
+  "香菜放更好吃": {
+    "name": "香菜放更好吃",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/混合烤鱼/烤鱼.md"
     ]
   },
   "香菜粉": {
@@ -9871,6 +11313,7 @@
       "dishes/meat_dish/老妈蹄花/老妈蹄花.md",
       "dishes/meat_dish/荔枝肉/荔枝肉.md",
       "dishes/meat_dish/醉排骨/醉排骨.md",
+      "dishes/semi-finished/凉皮.md",
       "dishes/staple/酸辣蕨根粉.md",
       "dishes/staple/陕西油泼面/陕西油泼面.md",
       "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
@@ -9933,6 +11376,14 @@
       "dishes/aquatic/红烧鱼.md"
     ]
   },
+  "鱼丸": {
+    "name": "鱼丸",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/麻辣香锅.md"
+    ]
+  },
   "鱼头": {
     "name": "鱼头",
     "processing_methods": [],
@@ -9965,12 +11416,28 @@
       "dishes/meat_dish/血浆鸭/血浆鸭.md"
     ]
   },
+  "鲜虾强推肉质紧实的九节虾": {
+    "name": "鲜虾强推肉质紧实的九节虾",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/aquatic/黄油煎虾/黄油煎虾.md"
+    ]
+  },
   "鲜面条扯面尤佳": {
     "name": "鲜面条扯面尤佳",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/staple/陕西油泼面/陕西油泼面.md"
+    ]
+  },
+  "鲜面条要求必须是最细的": {
+    "name": "鲜面条要求必须是最细的",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/蒸卤面.md"
     ]
   },
   "鲜面条韭叶": {
@@ -9981,21 +11448,22 @@
       "dishes/staple/豆角焖面/豆角焖面.md"
     ]
   },
+  "鲜鸭血宰杀鸭子时加醋接鸭血": {
+    "name": "鲜鸭血宰杀鸭子时加醋接鸭血",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/血浆鸭/血浆鸭.md"
+    ]
+  },
   "鲤鱼": {
     "name": "鲤鱼",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+      "dishes/aquatic/红烧鲤鱼.md",
       "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md"
-    ]
-  },
-  "鲤鱼、五花肉": {
-    "name": "鲤鱼、五花肉",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/aquatic/红烧鲤鱼.md"
     ]
   },
   "鳊鱼鱼可以让摊主帮忙处理好": {
@@ -10069,6 +11537,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/红烧鱼头.md",
       "dishes/aquatic/肉蟹煲.md",
       "dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
       "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
@@ -10087,6 +11556,7 @@
       "dishes/meat_dish/香干肉丝.md",
       "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
       "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
+      "dishes/semi-finished/凉皮.md",
       "dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
       "dishes/soup/黄瓜皮蛋汤.md",
       "dishes/staple/凉粉/凉粉.md",
@@ -10098,6 +11568,14 @@
       "dishes/vegetable_dish/葱煎豆腐.md",
       "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
       "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md"
+    ]
+  },
+  "鸡精味精": {
+    "name": "鸡精味精",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
     ]
   },
   "鸡精咸鲜口": {
@@ -10131,7 +11609,17 @@
     "notes": [],
     "sources": [
       "dishes/meat_dish/冬瓜桑拿鸡.md",
-      "dishes/soup/山药南瓜炖鸡汤.md"
+      "dishes/meat_dish/麻辣香锅.md",
+      "dishes/soup/山药南瓜炖鸡汤.md",
+      "dishes/staple/日式咖喱饭/日式咖喱饭.md"
+    ]
+  },
+  "鸡肉鸡腿肉最好": {
+    "name": "鸡肉鸡腿肉最好",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md"
     ]
   },
   "鸡胸肉常温冷冻均可": {
@@ -10167,14 +11655,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
-      "dishes/meat_dish/黄油鸡.md"
-    ]
-  },
-  "鸡腿肉去骨，可用羊肉替代": {
-    "name": "鸡腿肉去骨，可用羊肉替代",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
+      "dishes/meat_dish/黄油鸡.md",
       "dishes/staple/印度焖饭.md"
     ]
   },
@@ -10217,6 +11698,7 @@
       "dishes/meat_dish/椒盐排条.md",
       "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
       "dishes/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md",
+      "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md",
       "dishes/meat_dish/糖醋里脊.md",
       "dishes/meat_dish/肉饼炖蛋.md",
       "dishes/meat_dish/荔枝肉/荔枝肉.md",
@@ -10232,6 +11714,7 @@
       "dishes/staple/扬州炒饭/扬州炒饭.md",
       "dishes/staple/滕州菜煎饼.md",
       "dishes/staple/炒方便面/炒方便面.md",
+      "dishes/staple/炒河粉.md",
       "dishes/staple/炒馍.md",
       "dishes/staple/煮泡面加蛋.md",
       "dishes/staple/肉蛋盖饭.md",
@@ -10259,14 +11742,6 @@
       "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md"
     ]
   },
-  "鸡蛋可选，帮助形成更饱满的外壳": {
-    "name": "鸡蛋可选，帮助形成更饱满的外壳",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
-    ]
-  },
   "鸡蛋如需要": {
     "name": "鸡蛋如需要",
     "processing_methods": [],
@@ -10275,8 +11750,8 @@
       "dishes/soup/金针菇汤.md"
     ]
   },
-  "鸡蛋建议使用土鸡蛋，口感更香": {
-    "name": "鸡蛋建议使用土鸡蛋，口感更香",
+  "鸡蛋建议使用土鸡蛋": {
+    "name": "鸡蛋建议使用土鸡蛋",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -10452,8 +11927,8 @@
       "dishes/staple/基础牛奶面包/基础牛奶面包.md"
     ]
   },
-  "黄油推荐安佳，一次用一小盒": {
-    "name": "黄油推荐安佳，一次用一小盒",
+  "黄油推荐安佳": {
+    "name": "黄油推荐安佳",
     "processing_methods": [],
     "notes": [],
     "sources": [
@@ -10466,19 +11941,13 @@
     "notes": [],
     "sources": [
       "dishes/meat_dish/黄瓜炒肉.md",
+      "dishes/semi-finished/凉皮.md",
       "dishes/soup/黄瓜皮蛋汤.md",
+      "dishes/staple/炒河粉.md",
       "dishes/staple/蛋炒饭.md",
       "dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
       "dishes/vegetable_dish/凉拌黄瓜.md",
       "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md"
-    ]
-  },
-  "黄瓜、大蒜、绿豆芽": {
-    "name": "黄瓜、大蒜、绿豆芽",
-    "processing_methods": [],
-    "notes": [],
-    "sources": [
-      "dishes/semi-finished/凉皮.md"
     ]
   },
   "黄花": {
@@ -10509,12 +11978,28 @@
       "dishes/meat_dish/酱牛肉/酱牛肉.md"
     ]
   },
-  "黄酒，八角三小片": {
-    "name": "黄酒，八角三小片",
+  "黄酒": {
+    "name": "黄酒",
     "processing_methods": [],
     "notes": [],
     "sources": [
       "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
+    ]
+  },
+  "黄酒或料酒二选一即可": {
+    "name": "黄酒或料酒二选一即可",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/红烧鸡翅.md"
+    ]
+  },
+  "黄酒风味更醇厚": {
+    "name": "黄酒风味更醇厚",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/meat_dish/红烧鸡翅.md"
     ]
   },
   "黑木耳": {
@@ -10567,6 +12052,14 @@
       "dishes/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md"
     ]
   },
+  "黑胡椒均可": {
+    "name": "黑胡椒均可",
+    "processing_methods": [],
+    "notes": [],
+    "sources": [
+      "dishes/staple/可乐炒饭.md"
+    ]
+  },
   "黑胡椒研磨装": {
     "name": "黑胡椒研磨装",
     "processing_methods": [],
@@ -10588,6 +12081,7 @@
     "processing_methods": [],
     "notes": [],
     "sources": [
+      "dishes/aquatic/红烧鱼头.md",
       "dishes/meat_dish/烤鸡翅.md",
       "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md",
       "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
@@ -10651,8 +12145,8 @@
       "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md"
     ]
   },
-  "黑鳕鱼，带皮": {
-    "name": "黑鳕鱼，带皮",
+  "黑鳕鱼": {
+    "name": "黑鳕鱼",
     "processing_methods": [],
     "notes": [],
     "sources": [
