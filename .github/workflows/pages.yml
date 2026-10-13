@@ -20,6 +20,15 @@ jobs:
           cp base/*.json public/base/
           cp -R manual public/manual
           cp reference/source_manifest.json public/reference/
+      - name: Mirror built Pages site to Cloudflare
+        continue-on-error: true
+        uses: shandianchengzi/skill/manage-github-pages/cloudflare-backup@4c1bf8604fc78dabb0babc83bfa0e2c1fa645327
+        with:
+          directory: public
+          project: sdz-cook-videos
+          site-prefix: cook-videos
+          cloudflare-api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          cloudflare-account-id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
       - uses: actions/upload-pages-artifact@v3
         with: {path: public}
       - id: deployment
